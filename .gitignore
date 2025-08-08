@@ -1,0 +1,13 @@
+.pdf
+*.pdf
+.trs_pdf
+pdfs
+trs_pdf
+*.csv
+outputs
+.env
+__pycache__
+*.pyc
+venv
+.venv
+
