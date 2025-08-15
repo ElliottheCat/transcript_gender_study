@@ -9,3 +9,10 @@ torch>=2.0.0
 vllm==0.6.2
 fastapi
 uvicorn
+
+llama-index-core==0.10.11
+llama-index-llms-gemini==0.1.11
+llama-index-embeddings-gemini==0.1.6
+
+
+google-generativeai==0.3.2

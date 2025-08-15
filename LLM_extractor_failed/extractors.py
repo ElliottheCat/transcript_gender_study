@@ -6,8 +6,8 @@ from llama_index.core.schema import BaseNode
 from llama_index.llms.openai import OpenAI
 
 
-from .gpt_oss import get_oss_output
-from .topics import TOPIC_CATEGORIES
+from LLM_extractor_failed.gpt_oss import get_oss_output
+from LLM_extractor_failed.topics import TOPIC_CATEGORIES
 
 
 def categorize_topics(topic:str)-> str:
@@ -23,23 +23,34 @@ class TopicExtractor(BaseExtractor):
     """Extracts main topics and themes from interview transcripts."""
     def __init__(self, llm: OpenAI):
         super().__init__()
-        self.llm = llm
-        self.category_list = list(TOPIC_CATEGORIES.keys())
+        self._llm = llm
+     
+    @property
+    def category_list(self):  
+        return list(TOPIC_CATEGORIES.keys())
 
     async def aextract(self,nodes:List[BaseNode])->List[Dict[str,Any]]:
         metadata_list=[]
         for node in nodes:
             # Create prompt for topic extraction
-            prompt = f"""Analyze this interview transcript segment and identify which of these topic categories apply: 
-            Categories: {', '.join(self.category_list)}
+            prompt = f"""Analyze this interview transcript segment and identify which of these topic categories apply.
+
+            Available categories: {', '.join(self.category_list)}
             Text:{node.text}
-            Return only the relevant categories as a comma-separated list.
+
+            Instructions:
+              1. Return only the relevant categories from the list above
+              2. Use exact category names from the list
+              3. Separate multiple categories with commas
+              4. If none apply, return "other"
+
             If none apply, return "other".
             Categories:"""
             
-            response = await self.llm.acomplete(prompt)
+            response = await self._llm.acomplete(prompt)
             categories=[cat.strip() for cat in str(response).split(',')]
 
+            
             # Count frequency of each category
             category_counts = {}
             for cat in categories:
@@ -57,7 +68,7 @@ class GenderExtractor(BaseExtractor):
     """Identifies interviewee gender for gender studies research."""
     def __init__(self, llm:OpenAI):
         super().__init__()
-        self.llm=llm
+        self._llm=llm
 
     async def aextract(self,nodes:List[BaseNode])-> List[Dict[str,Any]]:
         metadata_list = []
@@ -73,7 +84,7 @@ class GenderExtractor(BaseExtractor):
 
             Gender:"""
 
-            response= await self.llm.acomplete(prompt)
+            response= await self._llm.acomplete(prompt)
             gender=str(response).strip().lower()
 
             #validate response
@@ -98,7 +109,7 @@ class SpeakerExtractor(BaseExtractor):
     """Extracts speaker information and dialogue patterns from interviews."""
     def __init__(self,llm:OpenAI):
         super().__init__()
-        self.llm=llm
+        self._llm=llm
 
     async def aextract(self,nodes:List[BaseNode]) -> List[Dict[str,Any]]:
         metadata_list = []
@@ -116,20 +127,20 @@ class SpeakerExtractor(BaseExtractor):
     Primary speaker: [role]
     """
             
-        response = await self.llm.acomplete(prompt)
-        response_text = str(response)
+            response = await self._llm.acomplete(prompt)
+            response_text = str(response)
 
-        # Parse response
-        speakers = self._extract_number(response_text, "Speakers:")
-        roles = self._extract_list(response_text, "Roles:")
-        primary = self._extract_value(response_text, "Primary speaker:")
+            # Parse response
+            speakers = self._extract_number(response_text, "Speakers:")
+            roles = self._extract_list(response_text, "Roles:")
+            primary = self._extract_value(response_text, "Primary speaker:")
 
-        metadata_list.append({
-            "speaker_count": speakers,
-            "speaker_roles": roles,
-            "primary_speaker": primary,
-            "has_dialogue": speakers > 1
-        })
+            metadata_list.append({
+                "speaker_count": speakers,
+                "speaker_roles": roles,
+                "primary_speaker": primary,
+                "has_dialogue": speakers > 1
+            })
 
         return metadata_list
     

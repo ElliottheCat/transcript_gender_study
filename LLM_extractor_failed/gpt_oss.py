@@ -6,7 +6,7 @@ def get_oss_output(query: str)-> str:
     Get the output from the OpenAI GPT-OSS model for a given query.
     """
 
-    model_id = "openai/gpt-oss-120b"
+    model_id = "openai/gpt-oss-20b"
     pipe = pipeline(
         "text-generation",
         model=model_id,

@@ -1,6 +1,6 @@
 import os
 import asyncio
-from .pdf_process import process_interview_pdfs
+from LLM_extractor_failed.pdf_process import process_interview_pdfs
 
 
 if __name__ == "__main__":

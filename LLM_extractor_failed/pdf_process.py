@@ -11,11 +11,14 @@ import pandas as pd
 from pypdf import PdfReader
 from collections import Counter
 
-from .topics import TOPIC_CATEGORIES
+from llama_index.llms.gemini import Gemini
 
 
-from .gpt_oss import get_oss_output
-from .extractors import TopicExtractor, GenderExtractor, SpeakerExtractor
+from LLM_extractor_failed.topics import TOPIC_CATEGORIES
+
+
+from LLM_extractor_failed.gpt_oss import get_oss_output
+from LLM_extractor_failed.extractors import TopicExtractor, GenderExtractor, SpeakerExtractor
 
 
 def load_pdfs_from_folder(folder_path:str)-> List[Document]:
@@ -137,7 +140,7 @@ async def process_interview_pdfs(pdf_folder: str, output_csv:str):
 
     # Configure LlamaIndex 
     # Choose local or cloud model
-    if os.getenv("LOCAL_GPT_OSS"):
+    if os.getenv("LOCAL_GPT_OSS","false").lower() == "true":
         # Point at local OpenAI‑compatible server
         llm = OpenAILike(
             model=os.getenv("GPT_OSS_MODEL", "openai/gpt-oss-120b"),
@@ -148,9 +151,14 @@ async def process_interview_pdfs(pdf_folder: str, output_csv:str):
             temperature=0.1,
         )
     else:
-        # Fallback to OpenAI’s hosted model
-        llm = OpenAI(model="gpt-3.5-turbo", temperature=0.1)
-    
+        # Use Gemini (default)
+        # You can use "models/gemini-1.5-pro" or "models/gemini-1.5-flash" for faster/cheaper
+        llm = Gemini(
+            model="models/gemini-1.5-pro",
+            api_key=os.getenv("GOOGLE_API_KEY"),
+            temperature=0.1,
+        )
+
     Settings.llm = llm
 
     print("Loading PDF documents...")

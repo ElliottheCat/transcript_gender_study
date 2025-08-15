@@ -10,4 +10,7 @@ __pycache__
 *.pyc
 venv
 .venv
-
+trs_txt
+trs_txt/
+pdfs
+pdfs/
