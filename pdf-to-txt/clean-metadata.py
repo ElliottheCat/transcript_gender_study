@@ -31,6 +31,7 @@ PATTERNS = [
 
     # Index/page markers like: "USHMM Archives RG-50.030*0148" or "USHMM Archives RG-50.999.0630 3"
     r"^\s*USHMM Archives RG-[^\n]*$",
+    r"^\s*www\.hometeamcaptions\.com\s*$",   # remove standalone caption footer
 ]
 
 #collapses 3+ newlines → 2 newlines.
@@ -46,7 +47,12 @@ ELLIPSIS_GUARD = "\uFFF9ELLIPSIS\uFFFA"  # unlikely sentinel
 WORD_HYPHEN_BREAK = re.compile(r"(\w+)-\s+([a-z]\w*)")  # end-of-line hyphen -> next lowercase word
 
 # STRICT mode only for literal Q:/A: turns
-SPEAKER_QA = re.compile(r"^\s*[QA]\s*:\s*", re.I)
+# Treat Q:, A: Question:, Answer: (case-insensitive, non-capturing)
+SPEAKER_QA = re.compile(
+    r"^\s*(?:Q(?:uestion)?|A(?:nswer)?)\s*:\s*",  # label + colon/dot
+    re.IGNORECASE,
+)
+DOUBLE_ARROW_SPEAKER = re.compile(r"^\s*>>\s*\S.{0,50}:\s")  # for ">> Speaker Name:" in 50.999.xxx series.
 
 # --- Inline page-header cleanup (safe heuristic) ---
 MONTHS = r"(January|February|March|April|May|June|July|August|September|October|November|December)"
@@ -175,7 +181,7 @@ def join_wrapped_lines_until_colon(text: str, normalize_spaces: bool, dehyphenat
             out.append("")
             continue
 
-        if SPEAKER_LINE.match(line):
+        if SPEAKER_LINE.match(line) or DOUBLE_ARROW_SPEAKER.match(line):
             if buffer:
                 para = buffer.strip()
                 if dehyphenate:      para = _dehyphenate_paragraph(para)
@@ -183,10 +189,10 @@ def join_wrapped_lines_until_colon(text: str, normalize_spaces: bool, dehyphenat
                 out.append(para)
             buffer = stripped
             just_saw_speaker = True
-            qa_strict = bool(SPEAKER_QA.match(line))
+            qa_strict = bool(SPEAKER_QA.match(line)) or bool(DOUBLE_ARROW_SPEAKER.match(line))
             continue
 
-        # --- NEW: when in strict Q/A, ignore standalone page numbers
+        # --- when in strict Q/A, ignore standalone page numbers
         if qa_strict and PAGE_ONLY.match(line):
             continue
 
@@ -204,20 +210,28 @@ def join_wrapped_lines_until_colon(text: str, normalize_spaces: bool, dehyphenat
 
 
 
-def clean_text(s: str, join_lines: bool, normalize_spaces: bool, dehyphenate: bool) -> str:
+def clean_text(s: str, join_lines: bool, normalize_spaces: bool, dehyphenate: bool, join_min_colons: int) -> str:
     s = remove_boilerplate(s)
 
     # Pass 1: remove split/inline interview headers & page-only lines (after cutoff)
     s = remove_interview_blocks_windowed(s)   # NEW
     s = strip_inline_headers(s)               # keep your existing single-line cleanup
 
+    # --- only join if the document looks like a Q/A transcript ---
+    should_join = False
     if join_lines:
+        # count *all* colons after boilerplate/header removal
+        colon_count = s.count(":")
+        should_join = (colon_count > join_min_colons)
+
+    if should_join:
         s = join_wrapped_lines_until_colon(s, normalize_spaces, dehyphenate)
 
         # Pass 2: after joining, do another cleanup in case a header got glued
         s = remove_interview_blocks_windowed(s)  # NEW
         s = strip_inline_headers(s)              # existing
     elif normalize_spaces:
+        # no joining → normalize each non-blank line independently
         s = "\n".join(_normalize_paragraph_spaces(line) if line.strip() else "" for line in s.splitlines())
 
     s = EXTRA_BLANKS.sub("\n\n", s)
@@ -225,13 +239,13 @@ def clean_text(s: str, join_lines: bool, normalize_spaces: bool, dehyphenate: bo
 
 
 
-def process_one(path_in: Path, in_root: Path, out_root: Path, join_lines: bool, normalize_spaces: bool, dehyphenate: bool):
-    
+def process_one(path_in: Path, in_root: Path, out_root: Path, join_lines: bool, normalize_spaces: bool, dehyphenate: bool, join_min_colons: int):
+
     rel = path_in.relative_to(in_root)
     path_out = out_root / rel
     path_out.parent.mkdir(parents=True, exist_ok=True)
     raw = path_in.read_text(errors="ignore")
-    cleaned = clean_text(raw, join_lines, normalize_spaces, dehyphenate)
+    cleaned = clean_text(raw, join_lines, normalize_spaces, dehyphenate, join_min_colons)
     path_out.write_text(cleaned)
     return (str(rel), len(raw), len(cleaned))
 
@@ -244,6 +258,12 @@ def main():
     ap.add_argument("--workers", type=int, default=os.cpu_count(), help="Parallel workers (default: CPU count)")
     ap.add_argument("--normalize-spaces", action="store_true", help="Collapse multiple spaces/tabs inside lines to a single space (keeps '...').")
     ap.add_argument("--dehyphenate", action="store_true", help="Join soft hyphenation across wrapped lines (word- \\n part -> wordpart).")
+    ap.add_argument(
+        "--join-min-colons",
+        type=int,
+        default=12,
+        help="Only run --join-lines if the document has more than this many ':' characters (after boilerplate removal). Default: 12.",
+    )
 
     args = ap.parse_args()
 
@@ -262,7 +282,10 @@ def main():
 
     with ProcessPoolExecutor(max_workers=args.workers) as ex:
         futures = {
-            ex.submit(process_one, p, in_root, out_root, args.join_lines, args.normalize_spaces, args.dehyphenate): p
+            ex.submit(
+                process_one, p, in_root, out_root,
+                args.join_lines, args.normalize_spaces, args.dehyphenate, args.join_min_colons
+            ): p
             for p in txts
         }
         for fut in as_completed(futures):
