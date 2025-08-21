@@ -29,7 +29,41 @@ First extract the topics and gender of the transcripts to a csv file using openA
 -  **How do you evaluate the quality of your topics?** 
 	- find topic first, then do close reading. 
 
-### Using LLM on remote servers (e.g. GPT-OSS-120B)
+
+### Directory Breakdown
+
+##### pdfs
+- original pdf for the testimonies
+
+##### pdf-to-txt
+- scripts and intermediate folders for converting the pdf to txt file, then cleaning out metadata
+    - pdf-to-txt/batch-pdftotext.py
+        - batch process pdf to text
+    - pdf-to-txt/clean-metadata.py
+        - Removed metadata containing url or disclaimers (removed inrelevant metadata)
+        - Scanned for colon (the lines are concatenated until a new line with colon.) for better layout (no content deletion)
+        - add option - end-of-line hyphen to remove end of line hyphens of words
+
+    - pdf-to-txt/comp-docs.py
+        - dispalys the difference between scanned (precleaned) txt and cleaned txt in HTML (view on localhost)
+
+##### ushmm-metadata
+- scripts and csv files on downloading metadata, and using Gemini to infer gender from interviewee name and testimonial transcript.
+    - ushmm-metadata/ushmm-metadata.csv
+        - orginal metadata copied from the USHMM website
+    - ushmm-metadata/metadata_with_gender.csv
+        - gives name and gender 
+    
+
+##### STM-topic-extract
+- STM topic extraction in R
+    - still under construction.
+
+
+
+
+### Using LLM on remote servers (e.g. GPT-OSS-120B) 
+**vLLM doesn't work on the server due to config issues. I will spend more time on this if i need local llm.**
 
 We may want to run larger models for better results. Using a remote server with GPU/VRAM that meets the requirement is the ideal setup. Here's how to connect your local code to the remote server (assuming you have a hoffman2 account):
 
