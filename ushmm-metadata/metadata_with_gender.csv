@@ -1,0 +1,1321 @@
+filename,interviewee,predicted_gender,confidence_count,confidence_ratio,rg_number,interview_date
+RG-50.030.0001_trs_en.txt,David A. Kochalski,Male,3,1.0,RG-50.030.0001,1994 July 28
+RG-50.030.0002_trs_en.txt,Ms. Rita Hilton,Female,3,1.0,RG-50.030.0002,1994 August 10
+RG-50.030.0003_trs_en.txt,Ms. Agnes M. Adachi,Female,3,1.0,RG-50.030.0003,1990 November 29
+RG-50.030.0004_trs_en.txt,Esthy Adler,Female,3,1.0,RG-50.030.0004,1994 May 23
+RG-50.030.0006_trs_en.txt,Mr. Francis Akos,Male,3,1.0,RG-50.030.0006,1990 June 18
+RG-50.030.0007_trs_en.txt,Mr. Harry Alexander,Male,3,1.0,RG-50.030.0007,1991 April 04
+RG-50.030.0008_trs_en.txt,Agnes G. Aranyi,Female,3,1.0,RG-50.030.0008,1990 July 18
+RG-50.030.0011_trs_en.txt,Lore Baer,Female,3,1.0,RG-50.030.0011,1990 June 08
+RG-50.030.0012_trs_en.txt,Mr. Fred Bachner,Male,3,1.0,RG-50.030.0012,1990 April 23
+RG-50.030.0013_trs_en.txt,Mr. Niels J. Bamberger,Male,3,1.0,RG-50.030.0013,1989 December 26
+RG-50.030.0014_trs_en.txt,Tove S. Bamberger,Female,3,1.0,RG-50.030.0014,1989 December 26
+RG-50.030.0015_trs_en.txt,Helene Baraf,Female,3,1.0,RG-50.030.0015,1990 March 15
+RG-50.030.0016_trs_en.txt,Erwin Baum,Male,3,1.0,RG-50.030.0016,1994 July 06
+RG-50.030.0017_trs_en.txt,Icek Baum,Male,3,1.0,RG-50.030.0017,1994 July 05
+RG-50.030.0018_trs_en.txt,Zina S. Baum,Female,3,1.0,RG-50.030.0018,1994 July 05
+RG-50.030.0020_trs_en.txt,David Bergman,Male,3,1.0,RG-50.030.0020,1990 July 18
+RG-50.030.0021_trs_en.txt,Frederic L. Bernard,Male,3,1.0,RG-50.030.0021,1990 May 17
+RG-50.030.0022_trs_en.txt,Mr. Michael Bernath,Male,3,1.0,RG-50.030.0022,1990 March 22
+RG-50.030.0023_trs_en.txt,Kate Bernath,Female,3,1.0,RG-50.030.0023,1990 March 22
+RG-50.030.0025_trs_en.txt,Sonia Bielski,Female,3,1.0,RG-50.030.0025,1994 July 11
+RG-50.030.0026_trs_en.txt,Lillian Bielsky-Bell,Female,3,1.0,RG-50.030.0026,1992 June 25
+RG-50.030.0027_trs_en.txt,Mr. Isaac Bitton,Male,3,1.0,RG-50.030.0027,1990 May 17
+RG-50.030.0028_trs_en.txt,Thomas Blatt,Male,3,1.0,RG-50.030.0028,1990 September 06
+RG-50.030.0029_trs_en.txt,Bela Blau,Male,3,1.0,RG-50.030.0029,1990 June 11
+RG-50.030.0030_trs_en.txt,Magda Blau,Female,3,1.0,RG-50.030.0030,1990 June 11
+RG-50.030.0033_trs_en.txt,Avraham Bomba,Male,3,1.0,RG-50.030.0033,1990 September 18
+RG-50.030.0034_trs_en.txt,Regina H. Bomba,Female,3,1.0,RG-50.030.0034,1990 September 18
+RG-50.030.0035_trs_en.txt,Ruth Borsos,Female,3,1.0,RG-50.030.0035,1990 July 03
+RG-50.030.0036_trs_en.txt,Shony A. Braun,Male,3,1.0,RG-50.030.0036,1990 July 09
+RG-50.030.0038_trs_en.txt,Mr. Leo Bretholz,Male,3,1.0,RG-50.030.0038,1989 July 31; 1989 September 28
+RG-50.030.0040_trs_en.txt,Boleslaw Brodecki,Male,3,1.0,RG-50.030.0040,1989 September 18
+RG-50.030.0041_trs_en.txt,Zelda P. Brodecki,Female,3,1.0,RG-50.030.0041,1989 September 18
+RG-50.030.0042_trs_en.txt,Charles Bruml,Male,3,1.0,RG-50.030.0042,1990 February 06
+RG-50.030.0043_trs_en.txt,Hana Bruml,Female,3,1.0,RG-50.030.0043,1990 February 27
+RG-50.030.0044_trs_en.txt,Rose G. Brunswic,Female,3,1.0,RG-50.030.0044,1989 October 05
+RG-50.030.0045_trs_en.txt,Sgt. Raymond S. Buch,Male,3,1.0,RG-50.030.0045,1989 December 28
+RG-50.030.0046_trs_en.txt,Thomas Buergenthal,Male,3,1.0,RG-50.030.0046,1990 January 29
+RG-50.030.0047_trs_en.txt,Josef,Male,3,1.0,RG-50.030.0047,1989 September 22
+RG-50.030.0048_trs_en.txt,Mrs. Stefania P. Burzminski,Female,3,1.0,RG-50.030.0048,1989 September 22
+RG-50.030.0049_trs_en.txt,Ion C. Butnaru,Male,3,1.0,RG-50.030.0049,1990 May 03
+RG-50.030.0050_trs_en.txt,Ms. Jeanine G. Butnaru,Female,3,1.0,RG-50.030.0050,1990 May 03
+RG-50.030.0051_trs_en.txt,Mrs. Alice L. Cahana,Female,3,1.0,RG-50.030.0051,1990 December 04
+RG-50.030.0052_trs_en.txt,Franciszek A. Cegiełka,Male,3,1.0,RG-50.030.0052,1990 October 02
+RG-50.030.0054_trs_en.txt,Sieny K. Cohen,Female,3,1.0,RG-50.030.0054,1990 October 12
+RG-50.030.0055_trs_en.txt,Ralph Codikow,Male,3,1.0,RG-50.030.0055,1990 June 29
+RG-50.030.0056_trs_en.txt,Ms. Eva B. Cooper,Female,3,1.0,RG-50.030.0056,1991 December 09
+RG-50.030.0057_trs_en.txt,Stephen F. Dachi,Male,3,1.0,RG-50.030.0057,1990 November 19
+RG-50.030.0058_trs_en.txt,Isaac Danon,Male,3,1.0,RG-50.030.0058,1989 November 06
+RG-50.030.0059_trs_en.txt,Ms. Hetty de Leeuwe,Female,3,1.0,RG-50.030.0059,1990 February 13
+RG-50.030.0060_trs_en.txt,Madeline Deutsch,Female,3,1.0,RG-50.030.0060,1990 May 14
+RG-50.030.0061_trs_en.txt,Michael A. Diamond,Male,3,1.0,RG-50.030.0061,1990 March 20
+RG-50.030.0062_trs_en.txt,Leif Donde,Male,3,1.0,RG-50.030.0062,1989 October 02
+RG-50.030.0063_trs_en.txt,Robert M. Donihi,Male,3,1.0,RG-50.030.0063,1994 March 24
+RG-50.030.0064_trs_en.txt,Mrs. Eva Edmands,Female,3,1.0,RG-50.030.0064,1990 October 18
+RG-50.030.0065_trs_en.txt,Herbert Pundik,Male,3,1.0,RG-50.030.0065,1995 November 11
+RG-50.030.0066_trs_en.txt,Chaim Engel,Male,3,1.0,RG-50.030.0066,1990 July 16
+RG-50.030.0067_trs_en.txt,Ms. Selma S. Engel,Female,3,1.0,RG-50.030.0067,1990 July 16
+RG-50.030.0068_trs_en.txt,Morris Engelson,Male,3,1.0,RG-50.030.0068,1990 March 26
+RG-50.030.0069_trs_en.txt,Sheila P. Bernard,Female,3,1.0,RG-50.030.0069,1990 April 30
+RG-50.030.0070_trs_en.txt,Barbara Marton Farkas,Female,3,1.0,RG-50.030.0070,1990 April 27
+RG-50.030.0071_trs_en.txt,Mr. William Farkas,Male,3,1.0,RG-50.030.0071,1990 April 27
+RG-50.030.0072_trs_en.txt,Anita M. Frank,Female,3,1.0,RG-50.030.0072,1990 January 04
+RG-50.030.0073_trs_en.txt,Viliam Fried,Male,3,1.0,RG-50.030.0073,1992 April 10
+RG-50.030.0074_trs_en.txt,Herbert Friedman,Male,3,1.0,RG-50.030.0074,1992 June 12
+RG-50.030.0075_trs_en.txt,Fritzie W. Fritzshall,Female,3,1.0,RG-50.030.0075,1990 June 27
+RG-50.030.0076_trs_en.txt,Ms. Renée S. Fritz,Female,3,1.0,RG-50.030.0076,1989 October 22
+RG-50.030.0077_trs_en.txt,Mrs. Lilly Brust Gach,Female,3,1.0,RG-50.030.0077,1991 December 09
+RG-50.030.0078_trs_en.txt,Ms. Regina L. Gelb,Female,3,1.0,RG-50.030.0078,1991 September 30
+RG-50.030.0079_trs_en.txt,Marty Glickman,Male,3,1.0,RG-50.030.0079,1990 February 14
+RG-50.030.0080_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.030.0080,1989 May 08
+RG-50.030.0081_trs_en.txt,Mr. Antoni Golba,Male,3,1.0,RG-50.030.0081,1994 June 29
+RG-50.030.0082_trs_en.txt,Rachel M. Goldfarb,Female,3,1.0,RG-50.030.0082,1991 September 05
+RG-50.030.0083_trs_en.txt,Helen L. Goldkind,Female,3,1.0,RG-50.030.0083,1990 January 16
+RG-50.030.0084_trs_en.txt,Mr. Werner Goldsmith,Male,3,1.0,RG-50.030.0084,1990 June 06
+RG-50.030.0085_trs_en.txt,Rabbi Morris Gordon,Male,3,1.0,RG-50.030.0085,1989 December 28
+RG-50.030.0086_trs_en.txt,Doris F. Greenberg,Female,3,1.0,RG-50.030.0086,1990 November 27
+RG-50.030.0087_trs_en.txt,Mr. Samuel Gruber,Male,3,1.0,RG-50.030.0087,1991 May 21
+RG-50.030.0088_trs_en.txt,Israel Gruzin,Male,3,1.0,RG-50.030.0088,1994 June 30
+RG-50.030.0089_trs_en.txt,Mr. Max Haber,Male,3,1.0,RG-50.030.0089,1990 May 22
+RG-50.030.0090_trs_en.txt,Leo Hanin,Male,3,1.0,RG-50.030.0090,1989 June 28
+RG-50.030.0091_trs_en.txt,Hans Heimann,Male,3,1.0,RG-50.030.0091,1990 October 18
+RG-50.030.0092_trs_en.txt,Philip Helbling,Male,3,1.0,RG-50.030.0092,1991 June 27
+RG-50.030.0093_trs_en.txt,Beno Helmer,Male,3,1.0,RG-50.030.0093,1990 June 25
+RG-50.030.0094_trs_en.txt,Max Amichai Heppner,Male,3,1.0,RG-50.030.0094,1990 February 01
+RG-50.030.0095_trs_en.txt,Mr. Ernest G. Heppner,Male,3,1.0,RG-50.030.0095,1989 May 10
+RG-50.030.0096_trs_en.txt,Harold B. Herbst,Male,3,1.0,RG-50.030.0096,1992 May 15
+RG-50.030.0097_trs_en.txt,Ivo Herzer,Male,3,1.0,RG-50.030.0097,1989 September 13
+RG-50.030.0098_trs_en.txt,Mrs. Miriam F. Ingber,Female,3,1.0,RG-50.030.0098,1990 October 30
+RG-50.030.0099_trs_en.txt,Mr. Saul Ingber,Male,3,1.0,RG-50.030.0099,1990 October 30
+RG-50.030.0100_trs_en.txt,MAJ Ernest C. James (Ret.),Male,3,1.0,RG-50.030.0100,1990 July 13
+RG-50.030.0101_trs_en.txt,Ms. Nina Kaleska,Female,3,1.0,RG-50.030.0101,1990 January 03
+RG-50.030.0102_trs_en.txt,Ms. Anny R. Kast,Female,3,1.0,RG-50.030.0102,1989 November 07
+RG-50.030.0103_trs_en.txt,Henry J. Kellermann,Male,3,1.0,RG-50.030.0103,1992 June 18
+RG-50.030.0104_trs_en.txt,David Klebanow,Male,3,1.0,RG-50.030.0104,1989 December 07
+RG-50.030.0105_trs_en.txt,Gerda W. Klein,Female,3,1.0,RG-50.030.0105,1990 October 11
+RG-50.030.0106_trs_en.txt,Kurt Klein,Male,3,1.0,RG-50.030.0106,1990 October 11
+RG-50.030.0107_trs_en.txt,Ms. Cecilie Klein-Pollack,Female,3,1.0,RG-50.030.0107,1990 May 07
+RG-50.030.0108_trs_en.txt,Mrs. Margaret Klug,Female,3,1.0,RG-50.030.0108,1990 March 13
+RG-50.030.0109_trs_en.txt,Mr. Solomon Klug,Male,3,1.0,RG-50.030.0109,1990 March 13
+RG-50.030.0110_trs_en.txt,Carl Knuemann,Male,3,1.0,RG-50.030.0110,1989 July 11
+RG-50.030.0111_trs_en.txt,Ms. Elizabeth Koenig,Female,3,1.0,RG-50.030.0111,1990 January 29
+RG-50.030.0112_trs_en.txt,Ernest Koenig,Male,3,1.0,RG-50.030.0112,1991 July 01
+RG-50.030.0113_trs_en.txt,Abraham Kolski,Male,3,1.0,RG-50.030.0113,1990 March 29
+RG-50.030.0114_trs_en.txt,Mrs. Sylvia Kolski,Female,3,1.0,RG-50.030.0114,1990 March 29
+RG-50.030.0115_trs_en.txt,John Komski,Male,3,1.0,RG-50.030.0115,1990 June 06
+RG-50.030.0116_trs_en.txt,Mr. Morris Kornberg,Male,3,1.0,RG-50.030.0116,1990 March 15
+RG-50.030.0117_trs_en.txt,Paul Kovak,Male,3,1.0,RG-50.030.0117,1990 March 26
+RG-50.030.0118_trs_en.txt,Isaac Kowalski,Male,3,1.0,RG-50.030.0118,1991 September 21
+RG-50.030.0119_trs_en.txt,Erich Kulka,Male,3,1.0,RG-50.030.0119,1990 June 08
+RG-50.030.0120_trs_en.txt,Doriane Kurz,Female,3,1.0,RG-50.030.0120,1990 July 10
+RG-50.030.0122_trs_en.txt,Magda Lapedus,Female,3,1.0,RG-50.030.0122,1990 September 04
+RG-50.030.0123_trs_en.txt,Ms. Frima Laub,Female,3,1.0,RG-50.030.0123,1990 May 07
+RG-50.030.0124_trs_en.txt,Avram Lazar,Male,3,1.0,RG-50.030.0124,1990 November 16
+RG-50.030.0125_trs_en.txt,Beatrice L. Lazar,Female,3,1.0,RG-50.030.0125,1990 November 16
+RG-50.030.0126_trs_en.txt,Carla H. Lessing,Female,3,1.0,RG-50.030.0126,1990 May 29
+RG-50.030.0127_trs_en.txt,Mr. Edward Lessing,Male,3,1.0,RG-50.030.0127,1990 May 29
+RG-50.030.0128_trs_en.txt,Joseph Levine,Male,3,1.0,RG-50.030.0128,1990 September 11
+RG-50.030.0129_trs_en.txt,William P. Levine,Male,3,1.0,RG-50.030.0129,1990 May 23
+RG-50.030.0130_trs_en.txt,Abraham Lewent,Male,3,1.0,RG-50.030.0130,1989 October 20
+RG-50.030.0131_trs_en.txt,Miriam S. Lewent,Female,3,1.0,RG-50.030.0131,1989 October 20
+RG-50.030.0132_trs_en.txt,David Lieberman,Male,3,1.0,RG-50.030.0132,1990 July 10
+RG-50.030.0133_trs_en.txt,Ms. Johanna E. Liebmann,Female,3,1.0,RG-50.030.0133,1990 January 19
+RG-50.030.0134_trs_en.txt,Mr. Max K. Liebmann,Male,3,1.0,RG-50.030.0134,1990 January 19
+RG-50.030.0135_trs_en.txt,Rabbi Eugene Lipman,Male,3,1.0,RG-50.030.0135,1990 February 08
+RG-50.030.0136_trs_en.txt,Mrs. Simone W. Lipman,Female,3,1.0,RG-50.030.0136,1990 July 03
+RG-50.030.0137_trs_en.txt,Cornelius Loen,Male,3,1.0,RG-50.030.0137,1990 May 11
+RG-50.030.0138_trs_en.txt,Masha Loen,Female,3,1.0,RG-50.030.0138,1990 May 11
+RG-50.030.0139_trs_en.txt,William J. Lowenberg,Male,3,1.0,RG-50.030.0139,1993 January 28
+RG-50.030.0140_trs_en.txt,William Luksenburg,Male,3,1.0,RG-50.030.0140,1991 April 14
+RG-50.030.0141_trs_en.txt,Sol (Shaya) Lurie,Male,3,1.0,RG-50.030.0141,1993 July 08
+RG-50.030.0142_trs_en.txt,Mieczyslaw Madejski,Male,3,1.0,RG-50.030.0142,1992 May 19
+RG-50.030.0143_trs_en.txt,Mr. Joseph Maier,Male,3,1.0,RG-50.030.0143,1992 June 22
+RG-50.030.0144_trs_en.txt,Mr. Abraham Malach,Male,3,1.0,RG-50.030.0144,1990 March 20
+RG-50.030.0145_trs_en.txt,Mr. Abraham Malnik,Male,3,1.0,RG-50.030.0145,1990 May 10
+RG-50.030.0146_trs_en.txt,Mrs. Lilly Malnik,Female,3,1.0,RG-50.030.0146,1990 May 10
+RG-50.030.0147_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.030.0147,1989 June 23
+RG-50.030.0148_trs_en.txt,Yehuda Mandel,Male,3,1.0,RG-50.030.0148,1990 November 30
+RG-50.030.0149_trs_en.txt,Laura L. Margolis,Female,3,1.0,RG-50.030.0149,1990 July 11
+RG-50.030.0150_trs_en.txt,Lily Margules,Female,3,1.0,RG-50.030.0150,1990 October 16
+RG-50.030.0151_trs_en.txt,Paul Matasovsky,Male,3,1.0,RG-50.030.0151,1989 August 08
+RG-50.030.0152_trs_en.txt,Benjamin Meed,Male,3,1.0,RG-50.030.0152,1990 March 01
+RG-50.030.0154_trs_en.txt,Mr. Pieter A. Meerburg,Male,3,1.0,RG-50.030.0154,1990 October 12
+RG-50.030.0155_trs_en.txt,Hans Meier,Male,3,1.0,RG-50.030.0155,1990 November 07
+RG-50.030.0156_trs_en.txt,Klaus Meier,Male,3,1.0,RG-50.030.0156,1990 November 07
+RG-50.030.0157_trs_en.txt,Judith B. Meisel,Female,3,1.0,RG-50.030.0157,1990 January 25
+RG-50.030.0158_trs_en.txt,Frank Meissner,Male,3,1.0,RG-50.030.0158,1989 December 01
+RG-50.030.0159_trs_en.txt,Semyon Menyuk,Male,3,1.0,RG-50.030.0159,1990 October 25
+RG-50.030.0161_trs_en.txt,Ruth K. Meyerowitz,Female,3,1.0,RG-50.030.0161,1990 February 20
+RG-50.030.0162_trs_en.txt,Peretz Milbauer,Male,3,1.0,RG-50.030.0162,1990 February 20
+RG-50.030.0163_trs_en.txt,Elisabeth D. Model,Female,3,1.0,RG-50.030.0163,1990 September 11
+RG-50.030.0164_trs_en.txt,Stefan Moise,Male,3,1.0,RG-50.030.0164,1991 April 09
+RG-50.030.0165_trs_en.txt,Maria S. Moise,Female,3,1.0,RG-50.030.0165,1991 April 09
+RG-50.030.0166_trs_en.txt,Leah Mosak,Female,3,1.0,RG-50.030.0166,1990 July 17
+RG-50.030.0167_trs_en.txt,Mr. Preben Munch-Nielsen,Male,3,1.0,RG-50.030.0167,1989 November 06
+RG-50.030.0168_trs_en.txt,Ms. Lisa Murik,Female,3,1.0,RG-50.030.0168,1989 May 30
+RG-50.030.0169_trs_en.txt,Rabbi Judah Nadich,Male,3,1.0,RG-50.030.0169,1990 February 22
+RG-50.030.0170_trs_en.txt,Mrs. Johanna J. Neumann,Female,3,1.0,RG-50.030.0170,1990 March 06
+RG-50.030.0171_trs_en.txt,Julian Noga,Male,3,1.0,RG-50.030.0171,1990 December 11
+RG-50.030.0172_trs_en.txt,Frieda Noga,Female,3,1.0,RG-50.030.0172,1990 December 11
+RG-50.030.0174_trs_en.txt,Mr. Murray Pantirer,Male,3,1.0,RG-50.030.0174,1990 April 23
+RG-50.030.0175_trs_en.txt,Ms. Beatrice Pappenheimer,Female,3,1.0,RG-50.030.0175,1990 June 06
+RG-50.030.0176_trs_en.txt,Mrs. Bella S. Pasternak,Female,3,1.0,RG-50.030.0176,1994 April 21
+RG-50.030.0177_trs_en.txt,Mr. Bernard Pasternak,Male,3,1.0,RG-50.030.0177,1994 April 21
+RG-50.030.0178_trs_en.txt,Giorgio Perlasca,Male,3,1.0,RG-50.030.0178,1990 September 05
+RG-50.030.0180_trs_en.txt,Mina Perlberger,Female,3,1.0,RG-50.030.0180,1989 December 01
+RG-50.030.0181_trs_en.txt,Major Henry G. Plitt,Male,3,1.0,RG-50.030.0181,1992 January 23
+RG-50.030.0182_trs_en.txt,David Pollack,Male,3,1.0,RG-50.030.0182,1990 February 06
+RG-50.030.0183_trs_en.txt,Karel Poons,Male,3,1.0,RG-50.030.0183,1990 October 12
+RG-50.030.0184_trs_en.txt,Esther T. Raab,Female,3,1.0,RG-50.030.0184,1990 April 30
+RG-50.030.0185_trs_en.txt,Chil M. Rajchman,Male,3,1.0,RG-50.030.0185,1988 December 07
+RG-50.030.0186_trs_en.txt,Dr. Liane Reif-Lehrer,Female,3,1.0,RG-50.030.0186,1989 October 24
+RG-50.030.0187_trs_en.txt,Mr. Frank Reiss,Male,3,1.0,RG-50.030.0187,1991 June 18
+RG-50.030.0188_trs_en.txt,Eve W. Rich,Female,3,1.0,RG-50.030.0188,1990 August 23
+RG-50.030.0189_trs_en.txt,Gerhart Riegner,Male,3,1.0,RG-50.030.0189,1991 April 28; 1992 May 11
+RG-50.030.0191_trs_en.txt,J. Milnor Roberts,Male,3,1.0,RG-50.030.0191,1992 April 10
+RG-50.030.0192_trs_en.txt,Ms. Barbara Rodbell,Female,3,1.0,RG-50.030.0192,1990 June 12
+RG-50.030.0194_trs_en.txt,Ms. Alice L. Rosen,Female,3,1.0,RG-50.030.0194,1990 March 06
+RG-50.030.0195_trs_en.txt,Ms. Yaffa Rosenthal,Female,3,1.0,RG-50.030.0195,1990 August 20
+RG-50.030.0196_trs_en.txt,Ms. Fani B. Ross,Female,3,1.0,RG-50.030.0196,1991 June 27
+RG-50.030.0197_trs_en.txt,Ms. Dora Goldstein Roth,Female,3,1.0,RG-50.030.0197,1989 June 08
+RG-50.030.0198_trs_en.txt,Amalie P. Salsitz,Female,3,1.0,RG-50.030.0198,1990 May 15
+RG-50.030.0199_trs_en.txt,Norman Salsitz,Male,3,1.0,RG-50.030.0199,1990 May 15
+RG-50.030.0200_trs_en.txt,Mr. George L. Salton,Male,3,1.0,RG-50.030.0200,1990 October 10
+RG-50.030.0201_trs_en.txt,Mrs. Ruth Salton,Female,3,1.0,RG-50.030.0201,1990 October 10
+RG-50.030.0202_trs_en.txt,Mr. Pierre Sauvage,Male,3,1.0,RG-50.030.0202,1990 November 19
+RG-50.030.0203_trs_en.txt,Mrs. Charlene P. Schiff,Female,3,1.0,RG-50.030.0203,1993 March 23
+RG-50.030.0204_trs_en.txt,Dr. Henry Schmelzer,Male,3,1.0,RG-50.030.0204,1990 January 12
+RG-50.030.0205_trs_en.txt,Leo Schneiderman,Male,3,1.0,RG-50.030.0205,1990 May 24
+RG-50.030.0206_trs_en.txt,Mr. Walter Schnell,Male,3,1.0,RG-50.030.0206,1989 June 28
+RG-50.030.0207_trs_en.txt,Ms. Cornelia Schouten,Female,3,1.0,RG-50.030.0207,1990 June 08
+RG-50.030.0208_trs_en.txt,Fred Schwartz,Male,3,1.0,RG-50.030.0208,1990 May 08
+RG-50.030.0210_trs_en.txt,Richard R. Seibel,Male,3,1.0,RG-50.030.0210,1990 September 14
+RG-50.030.0211_trs_en.txt,David J. Selznick,Male,3,1.0,RG-50.030.0211,1990 September 06
+RG-50.030.0212_trs_en.txt,Mrs. Brenda S. Senders,Female,3,1.0,RG-50.030.0212,1991 June 20
+RG-50.030.0215_trs_en.txt,Jerry Slivka,Male,3,1.0,RG-50.030.0215,1990 June 15
+RG-50.030.0216_trs_en.txt,Rochelle B. Slivka,Female,3,1.0,RG-50.030.0216,1990 June 15
+RG-50.030.0217_trs_en.txt,Stanislaw Soszynski,Male,3,1.0,RG-50.030.0217,1990 October 06
+RG-50.030.0218_trs_en.txt,Martin Spett,Male,3,1.0,RG-50.030.0218,1989 November 07
+RG-50.030.0219_trs_en.txt,Drexel A. Sprecher,Male,3,1.0,RG-50.030.0219,1990 June 08
+RG-50.030.0220_trs_en.txt,Steven Springfield,Male,3,1.0,RG-50.030.0220,1990 March 30
+RG-50.030.0221_trs_en.txt,Mrs. Pela Starkopf; Adam Starkopf,Female,3,1.0,RG-50.030.0221,1990 May 24
+RG-50.030.0222_trs_en.txt,Erna T. Stern,Female,3,1.0,RG-50.030.0222,1989 July 03
+RG-50.030.0223_trs_en.txt,Guy Stern,Male,3,1.0,RG-50.030.0223,1990 May 01
+RG-50.030.0224_trs_en.txt,Toby Stern,Female,3,1.0,RG-50.030.0224,1990 April 16
+RG-50.030.0225_trs_en.txt,Eva R. Stock,Female,3,1.0,RG-50.030.0225,1989 July 26
+RG-50.030.0226_trs_de.txt,Karl Stojka,Male,3,1.0,RG-50.030.0226,1992 April 29
+RG-50.030.0227_trs_en.txt,Dr. Paul A. Strassmann,Male,3,1.0,RG-50.030.0227,1990 July 11
+RG-50.030.0228_trs_en.txt,Mr. Martin Strauss,Male,3,1.0,RG-50.030.0228,1991 May 17
+RG-50.030.0229_trs_en.txt,Eugenia Szamosi,Female,3,1.0,RG-50.030.0229,1990 September 12
+RG-50.030.0230_trs_en.txt,Mrs. Hessy L. Taft,Female,3,1.0,RG-50.030.0230,1990 February 15
+RG-50.030.0231_trs_en.txt,Ms. Carolina Taitz,Female,3,1.0,RG-50.030.0231,1990 November 13
+RG-50.030.0232_trs_en.txt,Chana Tencer,Female,3,1.0,RG-50.030.0232,1991 September 30
+RG-50.030.0233_trs_en.txt,Kurt M. Thomas,Male,3,1.0,RG-50.030.0233,1990 November 09
+RG-50.030.0234_trs_en.txt,Avraham Tory,Male,3,1.0,RG-50.030.0234,1991 September 27
+RG-50.030.0235_trs_en.txt,Pnina Tory,Female,3,1.0,RG-50.030.0235,1991 September 27
+RG-50.030.0236_trs_en.txt,Bella J. Tovey,Female,3,1.0,RG-50.030.0236,1990 February 15
+RG-50.030.0238_trs_en.txt,Tom Veres,Male,3,1.0,RG-50.030.0238,1992 June 22
+RG-50.030.0240_trs_en.txt,Michael Vogel,Male,3,1.0,RG-50.030.0240,1989 July 14
+RG-50.030.0241_trs_en.txt,Mr. Gerald S. von Halle,Male,3,1.0,RG-50.030.0241,1990 June 25
+RG-50.030.0242_trs_en.txt,Frida A. Wallenstein,Female,3,1.0,RG-50.030.0242,1990 November 01
+RG-50.030.0243_trs_en.txt,Herman Wajcman,Male,3,1.0,RG-50.030.0243,1991 July 08
+RG-50.030.0244_trs_en.txt,Thomas Ward,Male,3,1.0,RG-50.030.0244,1989 November 16
+RG-50.030.0245_trs_en.txt,Joseph S. Wardzala,Male,3,1.0,RG-50.030.0245,1990 October 23
+RG-50.030.0246_trs_en.txt,Helen H. Waterford,Female,3,1.0,RG-50.030.0246,1989 November 14
+RG-50.030.0248_trs_en.txt,Ernst Weihs,Male,3,1.0,RG-50.030.0248,1989 May 30
+RG-50.030.0249_trs_en.txt,Rabbi Jacob G. Wiener Ph.D.,Male,3,1.0,RG-50.030.0249,1994 June 30
+RG-50.030.0250_trs_en.txt,Guta B. Weintraub,Female,3,1.0,RG-50.030.0250,1990 January 04
+RG-50.030.0251_trs_en.txt,Gerta B. Wilchfort,Female,3,1.0,RG-50.030.0251,1989 July 03
+RG-50.030.0252_trs_en.txt,Eddie H. Willner,Male,3,1.0,RG-50.030.0252,1989 May 25
+RG-50.030.0253_trs_en.txt,Mr. Curtis R. Whiteway,Male,3,1.0,RG-50.030.0253,1990 June 07
+RG-50.030.0254_trs_en.txt,Mr. Wallace A. Witkowski,Male,3,1.0,RG-50.030.0254,1990 September 13
+RG-50.030.0255_trs_en.txt,Fred R. Wohl,Male,3,1.0,RG-50.030.0255,1989 November 22
+RG-50.030.0256_trs_en.txt,Franz Wohlfahrt,Male,3,1.0,RG-50.030.0256,1989 December 07
+RG-50.030.0257_01_trs_en.txt,Norbert Wollheim,Male,3,1.0,RG-50.030.0257,1991 May 10; 1991 May 17
+RG-50.030.0257_02_trs_en.txt,Norbert Wollheim,Male,3,1.0,RG-50.030.0257,1991 May 10; 1991 May 17
+RG-50.030.0258_trs_en.txt,Mrs. Anna Heilman,Female,3,1.0,RG-50.030.0258,1994 August 10
+RG-50.030.0259_trs_en.txt,Gina S. Beckerman,Female,3,1.0,RG-50.030.0259,1994 July 13
+RG-50.030.0260_trs_en.txt,Florence Eisen,Female,3,1.0,RG-50.030.0260,1994 August 18
+RG-50.030.0262_trs_en.txt,Sonja G. Ludsin,Female,3,1.0,RG-50.030.0262,1994 July 13
+RG-50.030.0263_trs_en.txt,Mr. Norbert J. Yasharoff,Male,3,1.0,RG-50.030.0263,1989 November 22
+RG-50.030.0264_trs_en.txt,Ms. Liny Yollick,Female,3,1.0,RG-50.030.0264,1990 March 30
+RG-50.030.0265_trs_en.txt,Hiltgunt M. Zassenhaus,Female,3,1.0,RG-50.030.0265,1994 May 26
+RG-50.030.0266_trs_en.txt,COL Robert Zimmer,Male,3,1.0,RG-50.030.0266,1990 September 13
+RG-50.030.0268_trs_en.txt,William D. Denson,Male,3,1.0,RG-50.030.0268,1994 August 25
+RG-50.030.0269_trs_en.txt,Mr. Benjamin B. Ferencz,Male,3,1.0,RG-50.030.0269,1994 August 26; 1994 October 21
+RG-50.030.0270_trs_en.txt,Rose S. Warner,Female,3,1.0,RG-50.030.0270,1994 September 12
+RG-50.030.0271_trs_en.txt,Leonard T. Zawacki,Male,3,1.0,RG-50.030.0271,1994 September 21
+RG-50.030.0272_trs_en.txt,Mr. Peter Feigl,Male,3,1.0,RG-50.030.0272,1995 August 23
+RG-50.030.0273_trs_en.txt,Ilse Sauer,Female,3,1.0,RG-50.030.0273,1995 August 21
+RG-50.030.0274_trs_en.txt,Fred Deutsch,Male,3,1.0,RG-50.030.0274,1995 August 18
+RG-50.030.0275_trs_en.txt,Chana Mehler,Female,3,1.0,RG-50.030.0275,1993 December 13
+RG-50.030.0276_trs_en.txt,Mr. David Wasserman,Male,3,1.0,RG-50.030.0276,1993 December 15
+RG-50.030.0277_trs_en.txt,Siegfried Warter,Male,3,1.0,RG-50.030.0277,1993 December 14
+RG-50.030.0279_trs_en.txt,Max Schmidt,Male,3,1.0,RG-50.030.0279,1993 December 14
+RG-50.030.0280_trs_en.txt,Max Hersch,Male,3,1.0,RG-50.030.0280,1993 December 13
+RG-50.030.0281_trs_en.txt,Blanka Rothschild,Female,3,1.0,RG-50.030.0281,1994 September 27
+RG-50.030.0282_trs_en.txt,Conrad Mehler,Male,3,1.0,RG-50.030.0282,1993 December 13
+RG-50.030.0283_trs_en.txt,Dov Dafner,Male,2,0.6666666666666666,RG-50.030.0283,1994 September 12
+RG-50.030.0284_trs_en.txt,Saul Sorrin,Male,3,1.0,RG-50.030.0284,1994 October 05
+RG-50.030.0286_trs_en.txt,Anna Leiser-Kleinhaus,Female,3,1.0,RG-50.030.0286,1994 September 29
+RG-50.030.0287_trs_en.txt,Norma Schneiderman,Female,3,1.0,RG-50.030.0287,1994 September 21
+RG-50.030.0288_trs_en.txt,William Schneiderman,Male,3,1.0,RG-50.030.0288,1994 September 21
+RG-50.030.0289_trs_en.txt,Raphael Aronson,Male,3,1.0,RG-50.030.0289,1994 September 22
+RG-50.030.0290_trs_en.txt,Henny F. Aronson,Female,3,1.0,RG-50.030.0290,1994 September 23
+RG-50.030.0291_trs_en.txt,Enrique Don,Male,3,1.0,RG-50.030.0291,1994 September 26
+RG-50.030.0292_trs_en.txt,Abraham Resnick,Male,3,1.0,RG-50.030.0292,1994 September 22
+RG-50.030.0293_trs_en.txt,Ms. Lucine Horn,Female,3,1.0,RG-50.030.0293,1994 July 15
+RG-50.030.0294_trs_en.txt,Felix Horn,Male,3,1.0,RG-50.030.0294,1994 July 19
+RG-50.030.0295_trs_en.txt,Samuel Flor,Male,3,1.0,RG-50.030.0295,1994 July 28
+RG-50.030.0296_trs_en.txt,Gertrude G. Flor,Female,3,1.0,RG-50.030.0296,1994 July 28
+RG-50.030.0298_trs_en.txt,Dov Levin,Male,3,1.0,RG-50.030.0298,1994 November 10
+RG-50.030.0299_trs_en.txt,Aron Derman,Male,3,1.0,RG-50.030.0299,1994 November 30
+RG-50.030.0300_trs_en.txt,Lisa N. Derman,Female,3,1.0,RG-50.030.0300,1994 November 30
+RG-50.030.0301_trs_en.txt,Per Anger,Male,3,1.0,RG-50.030.0301,1995 January 16
+RG-50.030.0302_trs_en.txt,Helene Barac,Female,3,1.0,RG-50.030.0302,1995 February 06
+RG-50.030.0303_trs_en.txt,Fela Warschau,Female,3,1.0,RG-50.030.0303,1995 February 09
+RG-50.030.0304_trs_en.txt,Jan Nowak,Male,3,1.0,RG-50.030.0304,1995 February 21
+RG-50.030.0305_trs_en.txt,Solomon Radasky,Male,3,1.0,RG-50.030.0305,1995 January 23
+RG-50.030.0306_trs_en.txt,Arnold H. Einhorn,Male,3,1.0,RG-50.030.0306,1995 March 01
+RG-50.030.0307_trs_en.txt,William Loew,Male,3,1.0,RG-50.030.0307,1995 March 01
+RG-50.030.0308_trs_en.txt,Cedomir Markovic,Male,3,1.0,RG-50.030.0308,1995 March 02
+RG-50.030.0309_trs_en.txt,Ms. Erika R. Kinel,Female,3,1.0,RG-50.030.0309,1995 March 08
+RG-50.030.0310_trs_en.txt,George L. Mosse,Male,3,1.0,RG-50.030.0310,1995 March 13
+RG-50.030.0311_trs_en.txt,Jack Ahrens,Male,3,1.0,RG-50.030.0311,1995 May 11
+RG-50.030.0312_trs_en.txt,Marianne R. Rosner,Female,3,1.0,RG-50.030.0312,1995 May 12
+RG-50.030.0313_trs_en.txt,Dr. Henry Levis,Male,3,1.0,RG-50.030.0313,1993 October 28
+RG-50.030.0314_trs_en.txt,Louis J. Walinsky,Male,3,1.0,RG-50.030.0314,1995 March 24
+RG-50.030.0315_trs_en.txt,Avraham Tory; Dr. Joel Elkes,Male,3,1.0,RG-50.030.0315,1991 September 26
+RG-50.030.0316_trs_en.txt,Avraham Tory; Dr. Jack Brauns,Male,3,1.0,RG-50.030.0316,1991 September 27
+RG-50.030.0317_trs_en.txt,Ava Dorfman,Female,3,1.0,RG-50.030.0317,1995 April 10
+RG-50.030.0318_trs_en.txt,Harold Zissman,Male,3,1.0,RG-50.030.0318,1995 April 12
+RG-50.030.0320_trs_en.txt,Rene Slotkin; Irene Hizme,Female,3,1.0,RG-50.030.0320,1995 April 19
+RG-50.030.0321_trs_en.txt,Father Henry van den Boogard,Male,3,1.0,RG-50.030.0321,1995 April 10
+RG-50.030.0322_trs_en.txt,Solomon Fox,Male,3,1.0,RG-50.030.0322,1995 April 13
+RG-50.030.0324_trs_en.txt,Samuel Spiegel,Male,3,1.0,RG-50.030.0324,1995 April 28
+RG-50.030.0325_trs_en.txt,Mr. Fritz Schnaittacher,Male,3,1.0,RG-50.030.0325,1995 May 09
+RG-50.030.0326_trs_en.txt,Susan Beer,Female,3,1.0,RG-50.030.0326,1995 May 16
+RG-50.030.0327_trs_en.txt,Adam Beer,Male,3,1.0,RG-50.030.0327,1995 May 16
+RG-50.030.0329_trs_en.txt,Braunia B. Sztul,Female,3,1.0,RG-50.030.0329,1995 May 19
+RG-50.030.0330_trs_en.txt,Frode Jakobsen,Male,3,1.0,RG-50.030.0330,1995 April 30
+RG-50.030.0331_trs_en.txt,Harold Zissman,Male,3,1.0,RG-50.030.0331,1995 May 24
+RG-50.030.0332_trs_en.txt,Sonia H. Zissman,Female,3,1.0,RG-50.030.0332,1995 May 25
+RG-50.030.0333_trs_en.txt,Rudolph Haas,Male,3,1.0,RG-50.030.0333,1995 June 13
+RG-50.030.0334_trs_en.txt,Gerda Schild Haas,Female,3,1.0,RG-50.030.0334,1995 June 12
+RG-50.030.0335_trs_en.txt,Theodore Feder,Male,3,1.0,RG-50.030.0335,1995 June 01
+RG-50.030.0336_trs_en.txt,Theodore Feder; Herbert Katzki,Male,3,1.0,RG-50.030.0336,1995 June 02
+RG-50.030.0337_trs_en.txt,Herbert Katzki,Male,3,1.0,RG-50.030.0337,1995 June 02
+RG-50.030.0338_trs_en.txt,Simon Federman,Male,3,1.0,RG-50.030.0338,1995 June 05
+RG-50.030.0339_trs_en.txt,Joseph S. Kutrzeba,Male,3,1.0,RG-50.030.0339,1995 June 06
+RG-50.030.0340_trs_en.txt,Mrs. Bella Mischkinsky,Female,3,1.0,RG-50.030.0340,1995 July 12
+RG-50.030.0341_trs_en.txt,Mr. Henry Bermanis,Male,3,1.0,RG-50.030.0341,1995 July 12
+RG-50.030.0342_trs_en.txt,Flory K. Jagoda,Female,3,1.0,RG-50.030.0342,1995 August 10
+RG-50.030.0343_trs_en.txt,Natan Gierowitz,Male,3,1.0,RG-50.030.0343,1995 July 27
+RG-50.030.0344_trs_en.txt,Emily Schleissner,Female,3,1.0,RG-50.030.0344,1995 July 31
+RG-50.030.0345_trs_en.txt,Mr. David Klipp,Male,3,1.0,RG-50.030.0345,1995 July 24
+RG-50.030.0346_trs_en.txt,Estelle Klipp,Female,3,1.0,RG-50.030.0346,1995 July 24
+RG-50.030.0347_trs_en.txt,David Davis,Male,3,1.0,RG-50.030.0347,1995 August 02
+RG-50.030.0348_trs_en.txt,Frances Davis,Female,3,1.0,RG-50.030.0348,1995 August 03
+RG-50.030.0349_trs_en.txt,Jacques L. Godel,Male,3,1.0,RG-50.030.0349,1995 August 15
+RG-50.030.0351_trs_en.txt,Malvina G. Burstein,Female,3,1.0,RG-50.030.0351,1995 October 11
+RG-50.030.0352_trs_en.txt,Rifka M. Glatz,Female,3,1.0,RG-50.030.0352,1995 October 17
+RG-50.030.0353_trs_en.txt,Haim Solomon,Male,3,1.0,RG-50.030.0353,1993 October 19
+RG-50.030.0355_trs_en.txt,Teofil Kosinski,Male,3,1.0,RG-50.030.0355,1995 November 08
+RG-50.030.0356_trs_en.txt,Ms. Flora Singer,Female,3,1.0,RG-50.030.0356,1995 December 12
+RG-50.030.0357_trs_en.txt,Israel Ipson,Male,3,1.0,RG-50.030.0357,1995 December 03
+RG-50.030.0358_trs_en.txt,Edna B. Ipson,Female,3,1.0,RG-50.030.0358,1995 December 02
+RG-50.030.0359_trs_en.txt,Jay Ipson,Male,3,1.0,RG-50.030.0359,1995 December 03
+RG-50.030.0360_trs_en.txt,Alice Masters,Female,3,1.0,RG-50.030.0360,1995 November 08
+RG-50.030.0362_trs_en.txt,Mr. Henry Cohen,Male,3,1.0,RG-50.030.0362,1996 April 23
+RG-50.030.0363_trs_en.txt,Leah H. Silverstein,Female,3,1.0,RG-50.030.0363,1996 May 22
+RG-50.030.0364_trs_en.txt,Bent Melchior,Male,3,1.0,RG-50.030.0364,1996 June 24
+RG-50.030.0365_trs_en.txt,Bert Fleming,Male,3,1.0,RG-50.030.0365,1996 May 16
+RG-50.030.0366_trs_en.txt,Irene S. Fleming,Female,3,1.0,RG-50.030.0366,1996 May 16
+RG-50.030.0367_trs_en.txt,Norman C. Belfer,Male,3,1.0,RG-50.030.0367,1996 May 31
+RG-50.030.0368_trs_en.txt,Carol S. Steinhardt,Female,3,1.0,RG-50.030.0368,1996 June 03
+RG-50.030.0370_trs_en.txt,Renata Laqueur,Female,3,1.0,RG-50.030.0370,1996 July 16
+RG-50.030.0371_trs_en.txt,Walter Meyer,Male,3,1.0,RG-50.030.0371,1996 August 02
+RG-50.030.0372_trs_en.txt,Dora K. Dimitro,Female,3,1.0,RG-50.030.0372,1996 July 18
+RG-50.030.0373_trs_en.txt,Michel Reynders,Male,3,1.0,RG-50.030.0373,1996 August 05
+RG-50.030.0374_trs_en.txt,Marthe Cohn,Female,3,1.0,RG-50.030.0374,1996 July 29
+RG-50.030.0375_trs_en.txt,Miriam K. Shulman,Female,3,1.0,RG-50.030.0375,1996 July 23
+RG-50.030.0377_trs_en.txt,Steven Galezewski,Male,3,1.0,RG-50.030.0377,1996 July 26
+RG-50.030.0378_trs_en.txt,Mr. George Havas,Male,3,1.0,RG-50.030.0378,1996 August 26
+RG-50.030.0379_trs_en.txt,Maria Rosenbloom,Female,3,1.0,RG-50.030.0379,1996 September 17
+RG-50.030.0380_trs_en.txt,"Friedman, Dr. Joe",Male,3,1.0,RG-50.030.0380,1996 October 03
+RG-50.030.0381_trs_en.txt,Rose Klepfisz,Female,3,1.0,RG-50.030.0381,1996 October 18
+RG-50.030.0382_trs_en.txt,William Zeck; Belle M. Zeck,Male,1,0.3333333333333333,RG-50.030.0382,1996 September 12
+RG-50.030.0384_trs_en.txt,David Stoliar,Male,3,1.0,RG-50.030.0384,1997 August 18
+RG-50.030.0386_trs_en.txt,Eli Rock,Male,3,1.0,RG-50.030.0386,1998 January 28
+RG-50.030.0387_trs_en.txt,Stefan Czyzewski,Male,3,1.0,RG-50.030.0387,1998 April 08
+RG-50.030.0388_trs_en.txt,Samuel Makower,Male,3,1.0,RG-50.030.0388,1998 June 15
+RG-50.030.0389_trs_en.txt,Inge S. Rosenthal,Female,3,1.0,RG-50.030.0389,1998 June 19
+RG-50.030.0390_trs_en.txt,Joseph Elman,Male,3,1.0,RG-50.030.0390,1998 May 19
+RG-50.030.0392_trs_en.txt,Edith Hahn-Beer,Female,3,1.0,RG-50.030.0392,1998 May 21
+RG-50.030.0393_trs_en.txt,Mr. Tadeusz J. Marchaj,Male,3,1.0,RG-50.030.0393,1998 September 21
+RG-50.030.0394_trs_en.txt,Trude Heller,Female,3,1.0,RG-50.030.0394,1998 September 24
+RG-50.030.0395_trs_en.txt,Max Heller,Male,3,1.0,RG-50.030.0395,1998 September 24
+RG-50.030.0396_trs_en.txt,Rosalie L. Lerman,Female,3,1.0,RG-50.030.0396,1998 December 01; 1999 January 13
+RG-50.030.0397_trs_en.txt,Sigmund Strochlitz,Male,3,1.0,RG-50.030.0397,1999 February 25
+RG-50.030.0398_trs_en.txt,Amy Z. Gottlieb,Female,3,1.0,RG-50.030.0398,1999 June 09
+RG-50.030.0399_trs_en.txt,Sulamif S. Zhabinskaya,Female,3,1.0,RG-50.030.0399,1999 August 17
+RG-50.030.0400_trs_en.txt,Rachel B. Gurdus,Female,3,1.0,RG-50.030.0400,1999 August 16
+RG-50.030.0401_trs_en.txt,Sulamif S. Zhabinskaya; Rachel B. Gurdus,Female,3,1.0,RG-50.030.0401,1999 August 17
+RG-50.030.0402_trs_en.txt,Ruth Zellner,Female,3,1.0,RG-50.030.0402,1999 October 13
+RG-50.030.0403_trs_en.txt,Michael N. Matsas,Male,3,1.0,RG-50.030.0403,1999 October 04
+RG-50.030.0404_trs_en.txt,Marguerite Glicksman,Female,3,1.0,RG-50.030.0404,1999 December 17
+RG-50.030.0405_trs_en.txt,Ms. Lidia K. Siciarz,Female,3,1.0,RG-50.030.0405,2000 January 11
+RG-50.030.0406_trs_en.txt,Gunnar Sønsteby,Male,3,1.0,RG-50.030.0406,2000 February 09
+RG-50.030.0407_trs_en.txt,Hans Mommsen,Male,3,1.0,RG-50.030.0407,2000 April 04
+RG-50.030.0408_trs_en.txt,John Dolibois,Male,3,1.0,RG-50.030.0408,2000 May 11
+RG-50.030.0409_trs_en.txt,Dr. Peter Black,Male,3,1.0,RG-50.030.0409,2000 September 21
+RG-50.030.0410_trs_en.txt,Ms. Regina L. Gelb,Female,3,1.0,RG-50.030.0410,2001 February 20
+RG-50.030.0411_trs_en.txt,Anna L. Wilson,Female,3,1.0,RG-50.030.0411,2001 February 21
+RG-50.030.0412_trs_en.txt,Ms. Sophie Koper,Female,3,1.0,RG-50.030.0412,2001 June 26
+RG-50.030.0413_trs_en.txt,Miles Lerman,Male,3,1.0,RG-50.030.0413,2001 July 17
+RG-50.030.0414_trs_en.txt,Helene Reeves,Female,3,1.0,RG-50.030.0414,2001 July 24
+RG-50.030.0415_trs_en.txt,Edith Csengeri,Female,3,1.0,RG-50.030.0415,2001 October 30
+RG-50.030.0416_trs_en.txt,Andrei Rosenberg,Male,3,1.0,RG-50.030.0416,2001 November 07
+RG-50.030.0417_trs_en.txt,Lucille Eichengreen,Female,3,1.0,RG-50.030.0417,2001 November 07
+RG-50.030.0418_trs_en.txt,Steen C. Fischer,Male,3,1.0,RG-50.030.0418,2001 August 27
+RG-50.030.0419_trs_en.txt,Ernest Loewenstein,Male,3,1.0,RG-50.030.0419,2001 October 30
+RG-50.030.0420_trs_en.txt,King Michael I,Male,3,1.0,RG-50.030.0420,2001 November 12
+RG-50.030.0421_trs_en.txt,Hannah Biberstein,Female,3,1.0,RG-50.030.0421,1995 October 10
+RG-50.030.0422_trs_en.txt,Sir Nicholas Winton,Male,3,1.0,RG-50.030.0422,1995 November 17
+RG-50.030.0423_trs_en.txt,Robert Treuer,Male,3,1.0,RG-50.030.0423,1995 October 27
+RG-50.030.0424_trs_en.txt,Jack Baum,Male,3,1.0,RG-50.030.0424,1995 December 16
+RG-50.030.0425_trs_en.txt,Rabbi Jacob G. Wiener Ph.D.,Male,3,1.0,RG-50.030.0425,1996 February 08
+RG-50.030.0426_trs_en.txt,Ms. Anna Hanusova-Flachova,Female,3,1.0,RG-50.030.0426,1996 February 12
+RG-50.030.0427_trs_en.txt,Anna M. Ware,Female,3,1.0,RG-50.030.0427,1996 April 01-1996 April 04
+RG-50.030.0428_trs_en.txt,Mel London,Male,3,1.0,RG-50.030.0428,1996 April 22
+RG-50.030.0429_trs_en.txt,Gisela Feldman,Female,3,1.0,RG-50.030.0429,1996 May 13
+RG-50.030.0430_trs_en.txt,Irene S. Fleming; Bert Fleming,Male,3,1.0,RG-50.030.0430,1996 May 17
+RG-50.030.0431_trs_en.txt,Mrs. Raya M. Markon,Female,3,1.0,RG-50.030.0431,1989 November 27
+RG-50.030.0433_trs_en.txt,Mr. Philip D. Vock,Male,3,1.0,RG-50.030.0433,1994 May 26
+RG-50.030.0435_trs_en.txt,Itka F. Zygmuntowicz,Female,3,1.0,RG-50.030.0435,1996 May 30
+RG-50.030.0436_trs_en.txt,Gertrude G. Flor,Female,3,1.0,RG-50.030.0436,1996 May 29
+RG-50.030.0439_trs_en.txt,Renee Scheuer,Female,3,1.0,RG-50.030.0439,1996 May 28
+RG-50.030.0440_trs_en.txt,Lotte L. Hirsch,Female,3,1.0,RG-50.030.0440,1995 May 05
+RG-50.030.0441_trs_en.txt,Carl Hirsch,Male,3,1.0,RG-50.030.0441,1995 May 05
+RG-50.030.0442_trs_en.txt,Mrs. Herma E. Barber,Female,3,1.0,RG-50.030.0442,1996 August 11
+RG-50.030.0443_trs_en.txt,William Perl,Male,3,1.0,RG-50.030.0443,1996 September 10; 1996 October 07
+RG-50.030.0444_trs_en.txt,Erna Karplus,Female,3,1.0,RG-50.030.0444,1997 August 27
+RG-50.030.0445_trs_en.txt,Rolf Hirschberg,Male,3,1.0,RG-50.030.0445,1996 October 14
+RG-50.030.0446_trs_en.txt,Anna S. Palarczyk; Helen S. Tichauer,Female,3,1.0,RG-50.030.0446,1996 August 16-1996 August 17
+RG-50.030.0447_trs_en.txt,Lore Perl,Female,3,1.0,RG-50.030.0447,1996 November 13
+RG-50.030.0448_trs_en.txt,Anne H. Resnik,Female,3,1.0,RG-50.030.0448,1996 November 25
+RG-50.030.0449_trs_en.txt,Seymour J. Rubin,Male,3,1.0,RG-50.030.0449,1997 January 06
+RG-50.030.0450_trs_en.txt,Ernest Fontheim,Male,3,1.0,RG-50.030.0450,1997 March 12; 1997 June 04
+RG-50.030.0451_trs_en.txt,Dr. Edward Anders,Male,3,1.0,RG-50.030.0451,1997 February 28
+RG-50.030.0452_trs_en.txt,Lucia Franco,Female,3,1.0,RG-50.030.0452,1997 June 04
+RG-50.030.0453_trs_en.txt,Mikulas Judikovic,Male,3,1.0,RG-50.030.0453,1997 April 07
+RG-50.030.0455_trs_en.txt,Juergen Simonson,Male,3,1.0,RG-50.030.0455,1998 March 30
+RG-50.030.0457_trs_en.txt,Ms. Anita Sockol,Female,3,1.0,RG-50.030.0457,1999 August 13
+RG-50.030.0458_trs_en.txt,Ms. Ginetta Sagan,Female,3,1.0,RG-50.030.0458,1999 September 23-1999 September 24
+RG-50.030.0459_trs_en.txt,George Kadar,Male,3,1.0,RG-50.030.0459,2000 April 24
+RG-50.030.0460_trs_en.txt,Gabriele Derenberg Schiff,Female,3,1.0,RG-50.030.0460,2000 July 27
+RG-50.030.0461_trs_en.txt,Louise Segaar,Female,3,1.0,RG-50.030.0461,2000 November 10
+RG-50.030.0462_trs_en.txt,Helen S. Tichauer,Female,3,1.0,RG-50.030.0462,2000 September 07
+RG-50.030.0463_trs_en.txt,Jack Moss,Male,3,1.0,RG-50.030.0463,1995 March 23
+RG-50.030.0464_trs_en.txt,Michael Wertman,Male,3,1.0,RG-50.030.0464,2002 March 20
+RG-50.030.0466_trs_en.txt,Sylvia F. Green,Female,3,1.0,RG-50.030.0466,1996 January 11
+RG-50.030.0467_trs_en.txt,Dr. Robert Holczer,Male,3,1.0,RG-50.030.0467,1996 January 10; 1996 April 29; 1999 March 17
+RG-50.030.0469_trs_en.txt,Alice Jakubovic,Female,3,1.0,RG-50.030.0469,2002 August 27
+RG-50.030.0470_trs_en.txt,Ms. Theodora Basch Vrančić Klayman,Female,3,1.0,RG-50.030.0470,2002 September 24
+RG-50.030.0471_trs_en.txt,Mrs. Lucie S. Rosenberg,Female,3,1.0,RG-50.030.0471,2002 September 24
+RG-50.030.0472_trs_en.txt,Mr. Isaac Nehama,Male,3,1.0,RG-50.030.0472,2002 October 22
+RG-50.030.0473_trs_en.txt,Mr. Julian J. Bussgang,Male,3,1.0,RG-50.030.0473,2002 December 17
+RG-50.030.0474_trs_en.txt,Nicole D. Long,Female,3,1.0,RG-50.030.0474,2003 January 28
+RG-50.030.0475_trs_en.txt,Paulette Nehama,Female,3,1.0,RG-50.030.0475,2003 June 24; 2003 July 08
+RG-50.030.0476_trs_en.txt,Ms. Gisela E. Zamora,Female,3,1.0,RG-50.030.0476,2003 June 01
+RG-50.030.0477_trs_en.txt,Charles Siegman,Male,3,1.0,RG-50.030.0477,2003 July 24
+RG-50.030.0478_trs_en.txt,Mr. Edgar Krasa,Male,3,1.0,RG-50.030.0478,2003 September 09
+RG-50.030.0479_trs_en.txt,Mrs. Hana Krasa,Female,3,1.0,RG-50.030.0479,2003 September 10
+RG-50.030.0480_trs_en.txt,Paul Wos,Male,3,1.0,RG-50.030.0480,2003 April 08
+RG-50.030.0481_trs_en.txt,Diet Eman,Female,3,1.0,RG-50.030.0481,2003 November 06
+RG-50.030.0482_trs_en.txt,Helen R. Bamber,Female,3,1.0,RG-50.030.0482,2003 December 28
+RG-50.030.0483_trs_en.txt,Gitta Sereny,Female,3,1.0,RG-50.030.0483,2004 February 29
+RG-50.030.0484_trs_en.txt,Claudia R. Liberchuk,Female,3,1.0,RG-50.030.0484,2004 March 16
+RG-50.030.0485_trs_en.txt,Grigory Liberchuk,Male,3,1.0,RG-50.030.0485,2004 March 16
+RG-50.030.0486_trs_en.txt,Rachelle P. Margosh,Female,3,1.0,RG-50.030.0486,2004 June 24
+RG-50.030.0487_trs_en.txt,John Meyerstein,Male,3,1.0,RG-50.030.0487,2004 July 01
+RG-50.030.0488_trs_en.txt,Ms. Ursula L. Pawel,Female,3,1.0,RG-50.030.0488,2004 September 09
+RG-50.030.0489_trs_en.txt,Manfred Gans,Male,3,1.0,RG-50.030.0489,2004 November 11
+RG-50.030.0490_trs_en.txt,Mrs. Sibylle Sarah Niemoeller,Female,3,1.0,RG-50.030.0490,2004 December 01
+RG-50.030.0491_trs_en.txt,Mr. Moshe Leshem,Male,3,1.0,RG-50.030.0491,2004 October 06; 2004 November 13
+RG-50.030.0492_trs_en.txt,Paul Peeters,Male,3,1.0,RG-50.030.0492,2004 December 22
+RG-50.030.0493_trs_en.txt,Dr. George D. Schwab Ph.D.,Male,3,1.0,RG-50.030.0493,2005 March 18
+RG-50.030.0494_trs_en.txt,Steven J. Fenves Ph.D.,Male,3,1.0,RG-50.030.0494,2005 March 25
+RG-50.030.0495_trs_en.txt,Michael M. Cernea,Male,3,1.0,RG-50.030.0495,2005 May 04
+RG-50.030.0496_trs_en.txt,Hedwig Rose,Female,3,1.0,RG-50.030.0496,2005 July 14
+RG-50.030.0498_trs_en.txt,Evelyn A. Bergl,Female,3,1.0,RG-50.030.0498,2005 September 13
+RG-50.030.0499_trs_en.txt,Zdenko Bergl,Male,3,1.0,RG-50.030.0499,2005 September 14
+RG-50.030.0500_trs_en.txt,Paula S. Biren,Female,3,1.0,RG-50.030.0500,2005 November 17
+RG-50.030.0501_trs_en.txt,Fred Loewy,Male,3,1.0,RG-50.030.0501,2005 November 30
+RG-50.030.0502_trs_en.txt,Budd Schulberg,Male,3,1.0,RG-50.030.0502,2005 November 30
+RG-50.030.0503_trs_en.txt,Marianne Windholm,Female,3,1.0,RG-50.030.0503,2005 November 18; 2005 December 03
+RG-50.030.0504_trs_en.txt,Ernest Culman,Male,3,1.0,RG-50.030.0504,2006 February 24
+RG-50.030.0505_trs_en.txt,Irena Veisaite,Female,3,1.0,RG-50.030.0505,2004 September 07
+RG-50.030.0506_trs_en.txt,Robert A. Belfer,Male,3,1.0,RG-50.030.0506,2006 April 20
+RG-50.030.0507_trs_en.txt,Betsy Cohen,Female,3,1.0,RG-50.030.0507,2006 April 27
+RG-50.030.0508_trs_en.txt,Joseph Gurwin,Male,3,1.0,RG-50.030.0508,2006 August 01
+RG-50.030.0509_trs_en.txt,Ann Green,Female,3,1.0,RG-50.030.0509,2006 July 25
+RG-50.030.0510_trs_en.txt,Lillyan Rosenberg,Female,3,1.0,RG-50.030.0510,2006 August 31
+RG-50.030.0511_trs_en.txt,Kurt Julich,Male,3,1.0,RG-50.030.0511,2006 October 31
+RG-50.030.0512_trs_en.txt,Mr. Henry Bialowas,Male,3,1.0,RG-50.030.0512,2006 December 04
+RG-50.030.0513_trs_en.txt,Sarah Zelazny,Female,3,1.0,RG-50.030.0513,2007 February 20
+RG-50.030.0514_trs_en.txt,Saul Kagan,Male,3,1.0,RG-50.030.0514,2007 March 20
+RG-50.030.0515_trs_en.txt,Nick Levi,Male,3,1.0,RG-50.030.0515,2007 March 22
+RG-50.030.0516_trs_en.txt,Ruth Buhling,Female,3,1.0,RG-50.030.0516,2007 April 11
+RG-50.030.0518_trs_en.txt,Sara Shapiro,Female,3,1.0,RG-50.030.0518,2007 July 06
+RG-50.030.0519_trs_en.txt,Asa Shapiro,Male,3,1.0,RG-50.030.0519,2007 July 07
+RG-50.030.0520_trs_en.txt,Dr. Kristine Keren,Female,3,1.0,RG-50.030.0520,2007 October 25
+RG-50.030.0522_trs_en.txt,Ms. Lore Segal,Female,3,1.0,RG-50.030.0522,2008 February 25
+RG-50.030.0523_trs_en.txt,Mr. Werner Kleeman,Male,3,1.0,RG-50.030.0523,2008 March 19
+RG-50.030.0525_trs_en.txt,Adalbert Lallier,Male,3,1.0,RG-50.030.0525,2008 April 24
+RG-50.030.0526_trs_en.txt,Zygmund Shipper,Male,3,1.0,RG-50.030.0526,2008 May 27
+RG-50.030.0527_trs_en.txt,Ms. Ada Ustjanauskas,Female,3,1.0,RG-50.030.0527,2008 November 17
+RG-50.030.0528_trs_en.txt,Mr. Henry Gallant,Male,3,1.0,RG-50.030.0528,2009 May 11
+RG-50.030.0529_trs_en.txt,Mr. Sholom Rosenheck,Male,3,1.0,RG-50.030.0529,2009 May 20
+RG-50.030.0530_trs_en.txt,Fred Jarvis,Male,3,1.0,RG-50.030.0530,2009 June 09
+RG-50.030.0531_trs_en.txt,Tracy Strong,Male,3,1.0,RG-50.030.0531,2009 June 11
+RG-50.030.0532_trs_en.txt,Ms. Lucie Ragin,Female,3,1.0,RG-50.030.0532,2009 July 23
+RG-50.030.0533_trs_en.txt,Mr. André Zalc,Male,3,1.0,RG-50.030.0533,2009 July 23
+RG-50.030.0534_trs_en.txt,Ms. Joyce Zalc Mizrachi,Female,3,1.0,RG-50.030.0534,2009 July 23
+RG-50.030.0535_trs_en.txt,Mr. André Zalc; Ms. Lucie Ragin; Ms. Joyce Zalc Mizrachi,Male,3,1.0,RG-50.030.0535,2009 July 23
+RG-50.030.0536_trs_en.txt,Dr. Maurice Friedberg,Male,3,1.0,RG-50.030.0536,2009 August 12
+RG-50.030.0537_trs_en.txt,Ms. Paula G. Blue,Female,3,1.0,RG-50.030.0537,2009 August 07
+RG-50.030.0539_trs_en.txt,Saul C. Merin,Male,3,1.0,RG-50.030.0539,2009 April 19
+RG-50.030.0541_trs_en.txt,Ms. Lili Brody-Carmosino,Female,3,1.0,RG-50.030.0541,2009 October 15
+RG-50.030.0543_trs_en.txt,Ms. Feiga Hollenberg Connors,Female,3,1.0,RG-50.030.0543,2009 November 01; 2010 October 08
+RG-50.030.0544_trs_en.txt,Mr. Norbert Krasnosielski,Male,3,1.0,RG-50.030.0544,2009 November 24
+RG-50.030.0545_trs_en.txt,Ms. Ellen Zweig,Female,3,1.0,RG-50.030.0545,2010 March 02
+RG-50.030.0546_trs_en.txt,Eva Brettler,Female,3,1.0,RG-50.030.0546,2008 November 09
+RG-50.030.0547_trs_en.txt,Paula Bronstein,Female,3,1.0,RG-50.030.0547,2008 November 10
+RG-50.030.0548_trs_en.txt,Mr. José Coltof,Male,3,1.0,RG-50.030.0548,2008 November 09
+RG-50.030.0549_trs_en.txt,Sonja DuBois,Female,3,1.0,RG-50.030.0549,2008 November 10
+RG-50.030.0550_trs_en.txt,Ms. Esther Fol,Female,3,1.0,RG-50.030.0550,2008 November 08
+RG-50.030.0551_trs_en.txt,Annette Fein,Female,3,1.0,RG-50.030.0551,2008 November 07
+RG-50.030.0552_trs_en.txt,Ms. Gittel Jaskulski Hunt,Female,3,1.0,RG-50.030.0552,2008 November 09
+RG-50.030.0553_trs_en.txt,Ms. Ellen Kaidanow,Female,3,1.0,RG-50.030.0553,2008 November 08
+RG-50.030.0554_trs_en.txt,William Z. Kisielewski,Male,3,1.0,RG-50.030.0554,2008 November 08
+RG-50.030.0555_trs_en.txt,Harry Merin,Male,3,1.0,RG-50.030.0555,2008 November 09
+RG-50.030.0556_trs_en.txt,Renee Schiller,Female,3,1.0,RG-50.030.0556,2008 November 09
+RG-50.030.0557_trs_en.txt,Ira Segalewitz,Male,3,1.0,RG-50.030.0557,2008 November 07
+RG-50.030.0558_trs_en.txt,Ms. Helena Swierczynska,Female,3,1.0,RG-50.030.0558,2008 November 08
+RG-50.030.0559_trs_en.txt,Leonard Vis,Male,3,1.0,RG-50.030.0559,2008 November 09
+RG-50.030.0561_trs_en.txt,Vera Glasberg,Female,3,1.0,RG-50.030.0561,2009 January 07
+RG-50.030.0565_trs_en.txt,Eshke S. Levin,Female,3,1.0,RG-50.030.0565,2010 February 22
+RG-50.030.0566_trs_en.txt,Joachim J. Baer,Male,3,1.0,RG-50.030.0566,2010 March 01
+RG-50.030.0567_trs_en.txt,Romeo J. Fagiolo,Male,3,1.0,RG-50.030.0567,2010 March 01
+RG-50.030.0568_trs_en.txt,Anita Graber,Female,3,1.0,RG-50.030.0568,2010 March 02
+RG-50.030.0569_trs_en.txt,Rita Penn,Female,3,1.0,RG-50.030.0569,2010 March 02
+RG-50.030.0570_trs_en.txt,Barbara Firestone,Female,3,1.0,RG-50.030.0570,2010 March 02
+RG-50.030.0575_trs_en.txt,Lily Cohen,Female,3,1.0,RG-50.030.0575,2010 June 29
+RG-50.030.0578_trs_en.txt,Virgil Myers,Male,3,1.0,RG-50.030.0578,2010 August 13
+RG-50.030.0579_trs_en.txt,Clarence Brockman,Male,3,1.0,RG-50.030.0579,2010 August 13
+RG-50.030.0580_trs_en.txt,Edward Klein,Male,3,1.0,RG-50.030.0580,2010 August 16
+RG-50.030.0581_trs_en.txt,Dr. Joseph W. Eaton,Male,3,1.0,RG-50.030.0581,2010 May 27-2010 August 01
+RG-50.030.0582_trs_en.txt,Ernie Pollak,Male,3,1.0,RG-50.030.0582,2010 March 01
+RG-50.030.0583_trs_en.txt,Harry N. Iticovici,Male,3,1.0,RG-50.030.0583,2010 August 24
+RG-50.030.0584_trs_en.txt,Mrs. Edith Lowy,Female,3,1.0,RG-50.030.0584,2010 September 12
+RG-50.030.0585_trs_en.txt,Eugene Miller,Male,3,1.0,RG-50.030.0585,2010 September 13
+RG-50.030.0586_trs_en.txt,Ninetta Matsa Feldman,Female,3,1.0,RG-50.030.0586,2010 September 14
+RG-50.030.0587_trs_en.txt,Fred Firnbacher,Male,3,1.0,RG-50.030.0587,2010 September 16
+RG-50.030.0588_trs_en.txt,Ms. Bertl R. Esenstad,Female,3,1.0,RG-50.030.0588,2010 September 16
+RG-50.030.0589_trs_en.txt,Grant Shultheis,Male,3,1.0,RG-50.030.0589,2010 October 09
+RG-50.030.0590_trs_en.txt,Ms. Frida Ruderman,Female,3,1.0,RG-50.030.0590,2010 October 15
+RG-50.030.0591_trs_en.txt,Ms. Blanche Hall,Female,3,1.0,RG-50.030.0591,2010 October 15
+RG-50.030.0592_trs_en.txt,Mr. Harry W. Ebert,Male,3,1.0,RG-50.030.0592,2010 October 16
+RG-50.030.0593_trs_en.txt,Erica Kanter,Female,3,1.0,RG-50.030.0593,2010 October 15
+RG-50.030.0594_trs_en.txt,Mr. John H. Lang,Male,3,1.0,RG-50.030.0594,2010 October 15
+RG-50.030.0595_trs_en.txt,Herbert Friedman,Male,3,1.0,RG-50.030.0595,2010 October 17
+RG-50.030.0596_trs_en.txt,Marion Wolff,Female,3,1.0,RG-50.030.0596,2010 October 16
+RG-50.030.0597_trs_en.txt,Doris Small,Female,3,1.0,RG-50.030.0597,2010 October 16
+RG-50.030.0598_trs_en.txt,Ms. Ruth K. Heiman,Female,3,1.0,RG-50.030.0598,2010 October 16
+RG-50.030.0599_trs_en.txt,Paul M. Wolff,Male,3,1.0,RG-50.030.0599,2010 October 16
+RG-50.030.0600_trs_en.txt,Eleanor Rolfe,Female,3,1.0,RG-50.030.0600,2010 October 17
+RG-50.030.0601_trs_en.txt,Ms. Hanny Leitson,Female,3,1.0,RG-50.030.0601,2010 October 15
+RG-50.030.0602_trs_en.txt,Mr. Paul F. Halpern,Male,3,1.0,RG-50.030.0602,2010 October 16
+RG-50.030.0603_trs_en.txt,Ms. Eva Yachnes,Female,3,1.0,RG-50.030.0603,2010 October 17
+RG-50.030.0604_trs_en.txt,Michael W. Wolff,Male,3,1.0,RG-50.030.0604,2010 October 17
+RG-50.030.0605_trs_en.txt,Ms. Lore J. Schore,Female,3,1.0,RG-50.030.0605,2010 October 17
+RG-50.030.0606_trs_en.txt,Mr. Manfred Lindenbaum,Male,3,1.0,RG-50.030.0606,2010 October 16
+RG-50.030.0608_trs_en.txt,Algimantas Gureckas,Male,3,1.0,RG-50.030.0608,2010 October 14
+RG-50.030.0616_trs_en.txt,Margaret Schoenfeld,Female,3,1.0,RG-50.030.0616,2011 February 04
+RG-50.030.0617_trs_en.txt,Martin Gaudian,Male,3,1.0,RG-50.030.0617,2011 February 16
+RG-50.030.0618_trs_en.txt,Mr. Anthony Acevedo,Male,3,1.0,RG-50.030.0618,2010 October 13
+RG-50.030.0619_trs_en.txt,Mr. David S. Wisnia,Male,3,1.0,RG-50.030.0619,2011 April 07
+RG-50.030.0620_trs_en.txt,John J. Truty,Male,3,1.0,RG-50.030.0620,2011 April 08
+RG-50.030.0621_trs_en.txt,Ms. Fanny Aizenberg,Female,3,1.0,RG-50.030.0621,2011 April 21
+RG-50.030.0626_trs_en.txt,Brooks McClure,Male,3,1.0,RG-50.030.0626,2011 July 07
+RG-50.030.0628_trs_en.txt,Mr. David Rynecki,Male,3,1.0,RG-50.030.0628,2011 July 06
+RG-50.030.0643_trs_en.txt,Judith Heimann,Female,3,1.0,RG-50.030.0643,2011 November 21
+RG-50.030.0650_trs_en.txt,Agnieszka Holland,Female,3,1.0,RG-50.030.0650,2012 January 18
+RG-50.030.0651_trs_en.txt,Mr. Rubin Pizem,Male,3,1.0,RG-50.030.0651,2011 December 16
+RG-50.030.0652_trs_en.txt,Fred Lorber,Male,3,1.0,RG-50.030.0652,2011 December 02; 2011 December 08
+RG-50.030.0653_trs_en.txt,Leni Hoffman,Female,3,1.0,RG-50.030.0653,2012 January 05
+RG-50.030.0655_trs_en.txt,Mr. Rafael Wilschanski,Male,3,1.0,RG-50.030.0655,2012 March 25
+RG-50.030.0657_trs_en.txt,Mr. Pranas Jurkus,Male,3,1.0,RG-50.030.0657,2012 April 30
+RG-50.030.0660_trs_en.txt,Uri Chanoch,Male,3,1.0,RG-50.030.0660,2010 July 12
+RG-50.030.0662_trs_en.txt,Lester Libo Ph.D.,Male,3,1.0,RG-50.030.0662,2012 August 03-2012 October 25
+RG-50.030.0663_trs_en.txt,Mr. Eric Hamberg,Male,3,1.0,RG-50.030.0663,2012 August 08
+RG-50.030.0664_trs_en.txt,Ms. Rebecca Fried,Female,3,1.0,RG-50.030.0664,2012 July 24
+RG-50.030.0668_trs_en.txt,Freddy Schumer,Male,3,1.0,RG-50.030.0668,2012 August 14
+RG-50.030.0669_trs_en.txt,Eric H. Bondy,Male,3,1.0,RG-50.030.0669,2012 August 30
+RG-50.030.0670_trs_en.txt,Mr. Gerald L. Liebenau,Male,3,1.0,RG-50.030.0670,2012 September 12
+RG-50.030.0671_trs_en.txt,Ruth Geller,Female,3,1.0,RG-50.030.0671,2012 August 30
+RG-50.030.0672_trs_en.txt,Ed Gardner,Male,3,1.0,RG-50.030.0672,2012 August 29
+RG-50.030.0674_trs_en.txt,Mr. Erwin R. Dankner,Male,3,1.0,RG-50.030.0674,2012 October 03
+RG-50.030.0676_trs_en.txt,Suzanne Coppel,Female,3,1.0,RG-50.030.0676,2012 October 31
+RG-50.030.0677_trs_en.txt,Ms. Sylvia Rosen,Female,3,1.0,RG-50.030.0677,2012 November 20
+RG-50.030.0678_trs_en.txt,Raymond Turgel,Male,3,1.0,RG-50.030.0678,2012 November 08
+RG-50.030.0684_trs_en.txt,Mr. Jack Mondschein,Male,3,1.0,RG-50.030.0684,2013 February 15
+RG-50.030.0685_trs_en.txt,Arvydas J. Kliore,Male,3,1.0,RG-50.030.0685,2013 February 18
+RG-50.030.0686_trs_en.txt,Cesare Ugianskis,Male,3,1.0,RG-50.030.0686,2013 February 18
+RG-50.030.0687_trs_en.txt,Ernest E. Dutcher Jr.,Male,3,1.0,RG-50.030.0687,2013 February 19
+RG-50.030.0690_trs_en.txt,Samuel Marein-Efron,Male,3,1.0,RG-50.030.0690,2013 May 08
+RG-50.030.0691_trs_en.txt,Chasten L. Bowen,Male,3,1.0,RG-50.030.0691,2013 April 26
+RG-50.030.0692_trs_en.txt,Richard Bedford,Male,3,1.0,RG-50.030.0692,2013 April 26
+RG-50.030.0693_trs_en.txt,Norman A. Miller,Male,3,1.0,RG-50.030.0693,2013 April 15
+RG-50.030.0694_trs_en.txt,Ms. Mania Jonas Mayer,Female,3,1.0,RG-50.030.0694,2013 May 03
+RG-50.030.0695_trs_en.txt,Mr. Paul Jonas,Male,3,1.0,RG-50.030.0695,2013 May 03
+RG-50.030.0696_trs_en.txt,Shulim Jonas,Male,3,1.0,RG-50.030.0696,2013 May 05
+RG-50.030.0697_trs_en.txt,Goldie Buch Jonas,Female,3,1.0,RG-50.030.0697,2013 May 05
+RG-50.030.0698_trs_en.txt,Ms. Wanda Wos Lorenc,Female,3,1.0,RG-50.030.0698,2013 May 07
+RG-50.030.0699_trs_en.txt,Jerzy Glówczewski,Male,3,1.0,RG-50.030.0699,2013 May 07
+RG-50.030.0700_trs_en.txt,Ms. Maria Pawulska Rasiej,Female,3,1.0,RG-50.030.0700,2013 May 08
+RG-50.030.0701_trs_en.txt,Ms. Alice Tyroler,Female,3,1.0,RG-50.030.0701,2013 May 08
+RG-50.030.0702_trs_en.txt,Ms. Eugenia Greenberg,Female,3,1.0,RG-50.030.0702,2013 May 09
+RG-50.030.0703_trs_en.txt,Ms. Helena K. Knapczyk,Female,3,1.0,RG-50.030.0703,2013 May 10
+RG-50.030.0706_trs_en.txt,Frank Hyde,Male,3,1.0,RG-50.030.0706,2013 May 04
+RG-50.030.0707_trs_en.txt,Eva Desrosiers,Female,3,1.0,RG-50.030.0707,2013 June 17
+RG-50.030.0709_trs_en.txt,Ron Jones,Male,3,1.0,RG-50.030.0709,2012 July 09
+RG-50.030.0710_trs_en.txt,Arthur Gifford-England,Male,3,1.0,RG-50.030.0710,2012 July 10
+RG-50.030.0711_trs_en.txt,Brian Bishop,Male,3,1.0,RG-50.030.0711,2012 July 10
+RG-50.030.0712_trs_en.txt,Pepi Schafler,Female,3,1.0,RG-50.030.0712,2013 August 19
+RG-50.030.0717_trs_en.txt,Harold Burson,Male,3,1.0,RG-50.030.0717,2013 November 19
+RG-50.030.0720_trs_en.txt,Sybe K. Bakker,Male,3,1.0,RG-50.030.0720,2013 October 07
+RG-50.030.0721_trs_en.txt,Ms. Hilde Gundel,Female,3,1.0,RG-50.030.0721,2013 September 11
+RG-50.030.0722_trs_en.txt,Matilda R. Bakker,Female,3,1.0,RG-50.030.0722,2013 October 07
+RG-50.030.0723_trs_en.txt,Mr. Norman G. Coulson,Male,3,1.0,RG-50.030.0723,2013 October 04
+RG-50.030.0724_trs_en.txt,Gerhard L. Weinberg,Male,3,1.0,RG-50.030.0724,2012 March 13
+RG-50.030.0735_trs_en.txt,Mr. Sol Kohn,Male,3,1.0,RG-50.030.0735,2013 August 20
+RG-50.030.0737_trs_en.txt,Mr. Stanley Kiersnowski,Male,3,1.0,RG-50.030.0737,2014 June 20
+RG-50.030.0745_trs_en.txt,Frank Towers,Male,3,1.0,RG-50.030.0745,2014 February 28
+RG-50.030.0746_trs_en.txt,Walter Meyer,Male,3,1.0,RG-50.030.0746,2010 May 19-2010 May 20
+RG-50.030.0749_trs_en.txt,Roger Neighborgall,Male,3,1.0,RG-50.030.0749,2014 May 02
+RG-50.030.0750_trs_en.txt,Mr. Ezra Sherman,Male,3,1.0,RG-50.030.0750,2014 May 16
+RG-50.030.0751_trs_en.txt,Ms. Sara Sherman,Female,3,1.0,RG-50.030.0751,2014 May 16
+RG-50.030.0752_trs_en.txt,Jacques Ribons,Male,3,1.0,RG-50.030.0752,2014 May 20-2014 June 10
+RG-50.030.0753_trs_en.txt,Professor David Halivni,Male,3,1.0,RG-50.030.0753,2014 June 13
+RG-50.030.0754_trs_en.txt,Eric Simon,Male,3,1.0,RG-50.030.0754,2014 June 21
+RG-50.030.0762_trs_en.txt,Jutta Preuss,Female,3,1.0,RG-50.030.0762,2014 July 13
+RG-50.030.0769_trs_en.txt,Julian Kulski,Male,3,1.0,RG-50.030.0769,2014 September 25
+RG-50.030.0770_trs_en.txt,Barbara J. Syska,Female,3,1.0,RG-50.030.0770,2014 October 22
+RG-50.030.0771_trs_en.txt,Dino A. Brugioni,Male,3,1.0,RG-50.030.0771,2014 November 13
+RG-50.030.0772_trs_en.txt,William H. Hunley,Male,3,1.0,RG-50.030.0772,2014 November 21
+RG-50.030.0776_trs_en.txt,Gilbert Waganheim,Male,3,1.0,RG-50.030.0776,2015 January 13
+RG-50.030.0780_trs_en.txt,Mr. Eugene A. Chmielowski,Male,3,1.0,RG-50.030.0780,2015 January 31
+RG-50.030.0781_trs_en.txt,Ms. Sabina Berggren,Female,3,1.0,RG-50.030.0781,2015 January 30
+RG-50.030.0782_trs_en.txt,John Krawiec,Male,3,1.0,RG-50.030.0782,2015 January 29
+RG-50.030.0783_trs_en.txt,Mr. Thaddeus Gubala,Male,3,1.0,RG-50.030.0783,2015 January 27
+RG-50.030.0784_trs_en.txt,Mr. Adam Szymel,Male,3,1.0,RG-50.030.0784,2015 January 25
+RG-50.030.0785_trs_en.txt,Mr. Anthony Chudzik,Male,3,1.0,RG-50.030.0785,2015 January 24
+RG-50.030.0786_trs_en.txt,Ms. Mira Zimmerman,Female,3,1.0,RG-50.030.0786,2015 January 23
+RG-50.030.0788_trs_en.txt,Mr. Witold J. Pawlikowski,Male,3,1.0,RG-50.030.0788,2015 January 21
+RG-50.030.0789_trs_en.txt,Ms. Jolanta M. Pawlikowski,Female,3,1.0,RG-50.030.0789,2015 January 21
+RG-50.030.0790_trs_en.txt,Ms. Irene Sobczak,Female,3,1.0,RG-50.030.0790,2015 January 28
+RG-50.030.0791_trs_en.txt,Ms. Stella Tobis,Female,3,1.0,RG-50.030.0791,2015 January 28
+RG-50.030.0796_trs_en.txt,Cornelio G. Grandi,Male,3,1.0,RG-50.030.0796,2015 March 03
+RG-50.030.0814_trs_en.txt,Ms. Edith Weinstein,Female,3,1.0,RG-50.030.0814,2015 May 18
+RG-50.030.0819_trs_en.txt,Robert R. Max,Male,3,1.0,RG-50.030.0819,2015 July 14
+RG-50.030.0831_trs_en.txt,Benni Korzen,Male,3,1.0,RG-50.030.0831,2015 September 18
+RG-50.030.0836_trs_en.txt,Susi Annes,Female,3,1.0,RG-50.030.0836,2015 October 04
+RG-50.030.0841_trs_en.txt,Gary H. Philipp,Male,3,1.0,RG-50.030.0841,2015 October 08
+RG-50.030.0846_trs_en.txt,George Dynin,Male,3,1.0,RG-50.030.0846,2015 October 21
+RG-50.030.0856_trs_en.txt,Ms. Danguole Gabis,Female,3,1.0,RG-50.030.0856,2015 December 10
+RG-50.030.0858_trs_en.txt,Mr. Joseph Bach,Male,3,1.0,RG-50.030.0858,2015 December 12
+RG-50.030.0859_trs_en.txt,Ms. Irena Bach,Female,3,1.0,RG-50.030.0859,2015 December 12
+RG-50.030.0863_trs_en.txt,Ms. Erika Tamar,Female,3,1.0,RG-50.030.0863,2015 December 18
+RG-50.030.0870_trs_en.txt,Ms. Marcia Loewi,Female,3,1.0,RG-50.030.0870,2016 January 08
+RG-50.030.0873_trs_en.txt,Mr. Ralph M. Hockley,Male,3,1.0,RG-50.030.0873,2016 January 12
+RG-50.030.0877_trs_en.txt,Herta Baitch,Female,3,1.0,RG-50.030.0877,2016 May 10
+RG-50.030.0878_trs_en.txt,Al Jaffee,Male,3,1.0,RG-50.030.0878,2016 May 21
+RG-50.030.0879_trs_en.txt,Arie Letzter,Male,3,1.0,RG-50.030.0879,2016 May 22
+RG-50.030.0880_trs_en.txt,Niklas Frank,Male,3,1.0,RG-50.030.0880,2016 June 06
+RG-50.030.0882_trs_en.txt,Ursula G. Marx,Female,3,1.0,RG-50.030.0882,2016 June 08
+RG-50.030.0883_trs_en.txt,Henry Stern,Male,3,1.0,RG-50.030.0883,2016 June 08
+RG-50.030.0885_trs_en.txt,Kitty Penner,Female,3,1.0,RG-50.030.0885,2016 July 29
+RG-50.030.0886_trs_en.txt,Ingeborg Protentis,Female,3,1.0,RG-50.030.0886,2016 August 08
+RG-50.030.0887_trs_en.txt,Jan Hieminga,Male,3,1.0,RG-50.030.0887,2016 August 09
+RG-50.030.0888_trs_en.txt,Jacqueline Hieminga,Female,3,1.0,RG-50.030.0888,2016 August 09
+RG-50.030.0894_trs_en.txt,Jan Aronson,Female,3,1.0,RG-50.030.0894,2016 August 24
+RG-50.030.0895_trs_en.txt,Edith Palkowitz,Female,3,1.0,RG-50.030.0895,2016 August 26
+RG-50.030.0902_trs_en.txt,Ginger Lane,Female,3,1.0,RG-50.030.0902,2016 September 28
+RG-50.030.0922_trs_en.txt,Regina Plawner,Female,3,1.0,RG-50.030.0922,2017 March 02
+RG-50.030.0923_trs_en.txt,Shimon Schwarzschild,Male,3,1.0,RG-50.030.0923,2017 April 23
+RG-50.030.0927_trs_en.txt,Dorothea Fingerhood,Female,3,1.0,RG-50.030.0927,2017 April 27
+RG-50.030.0942_trs_en.txt,Judge Guido Calabresi,Male,3,1.0,RG-50.030.0942,2017 July 27
+RG-50.030.0977_trs_en.txt,Jonas Mekas,Male,3,1.0,RG-50.030.0977,2018 June 29-2018 July 01
+RG-50.030.0980_trs_en.txt,Wiesław Orlowski,Male,3,1.0,RG-50.030.0980,2018 August 15; 2019 May 23
+RG-50.042.0001_trs_en.txt,Gerda W. Klein,Female,3,1.0,RG-50.042.0001,1992 March 13
+RG-50.042.0002_trs_en.txt,Ms. Agnes M. Adachi,Female,3,1.0,RG-50.042.0002,1992 February 10
+RG-50.042.0003_trs_en.txt,Edward Adler,Male,3,1.0,RG-50.042.0003,1992 February 27
+RG-50.042.0004_trs_en.txt,Mr. Harry Alexander,Male,3,1.0,RG-50.042.0004,1992 February 11
+RG-50.042.0005_trs_en.txt,Sam Bankhalter,Male,3,1.0,RG-50.042.0005,1992 February 26
+RG-50.042.0006_trs_en.txt,Frank Blaichman,Male,3,1.0,RG-50.042.0006,1992 February 10
+RG-50.042.0007_trs_en.txt,Shony A. Braun,Male,3,1.0,RG-50.042.0007,1992 March 09
+RG-50.042.0008_trs_en.txt,Mr. Leo Bretholz,Male,3,1.0,RG-50.042.0008,<empty> 1992 January 28
+RG-50.042.0009_trs_en.txt,Chaim Engel,Male,3,1.0,RG-50.042.0009,1992 February 12
+RG-50.042.0010_trs_en.txt,Ms. Selma S. Engel,Female,3,1.0,RG-50.042.0010,1992 February 12
+RG-50.042.0011_trs_en.txt,Paulette Fink,Female,3,1.0,RG-50.042.0011,1992 March 07
+RG-50.042.0012_trs_en.txt,Sam Goldberg,Male,3,1.0,RG-50.042.0012,1992 March 08
+RG-50.042.0013_trs_en.txt,Siegfried Halbreich,Male,3,1.0,RG-50.042.0013,1992 March 10
+RG-50.042.0014_trs_en.txt,Isadore Helfing,Male,3,1.0,RG-50.042.0014,1992 March 09
+RG-50.042.0015_trs_en.txt,Kurt Klein,Male,3,1.0,RG-50.042.0015,1992 March 13
+RG-50.042.0016_trs_en.txt,John Komski,Male,3,1.0,RG-50.042.0016,1992 January 30
+RG-50.042.0017_trs_en.txt,Stefa Kupfer,Female,3,1.0,RG-50.042.0017,1992 March 10
+RG-50.042.0018_trs_en.txt,Ms. Cecilie Klein-Pollack,Female,3,1.0,RG-50.042.0018,1992 February 26
+RG-50.042.0019_trs_en.txt,Mr. Abraham Malnik,Male,3,1.0,RG-50.042.0019,1992 February 27
+RG-50.042.0020_trs_en.txt,Mrs. Lilly Malnik,Female,3,1.0,RG-50.042.0020,1992 February 27
+RG-50.042.0021_trs_en.txt,Ludmila Page,Female,3,1.0,RG-50.042.0021,1992 March 11
+RG-50.042.0022_trs_en.txt,Leopold Page,Male,3,1.0,RG-50.042.0022,1992 March 11
+RG-50.042.0023_trs_en.txt,Esther T. Raab,Female,3,1.0,RG-50.042.0023,1992 February 18
+RG-50.042.0024_trs_en.txt,Agi Rubin,Female,3,1.0,RG-50.042.0024,1992 February 25
+RG-50.042.0025_trs_en.txt,Bart Stern,Male,3,1.0,RG-50.042.0025,1992 March 08
+RG-50.042.0026_trs_en.txt,Tina Strobos,Female,3,1.0,RG-50.042.0026,1992 February 11
+RG-50.042.0027_trs_en.txt,Dr. Emanuel Tanay,Male,3,1.0,RG-50.042.0027,1992 February 24
+RG-50.042.0028_trs_en.txt,Bella J. Tovey,Female,3,1.0,RG-50.042.0028,1992 January 30
+RG-50.042.0029_trs_en.txt,Helen H. Waterford,Female,3,1.0,RG-50.042.0029,1992 March 12
+RG-50.042.0030_trs_en.txt,Ruth Webber,Female,3,1.0,RG-50.042.0030,1992 February 24
+RG-50.042.0031_trs_en.txt,Ernst Weihs,Male,3,1.0,RG-50.042.0031,1992 January 29
+RG-50.042.0032_trs_en.txt,Norbert Wollheim,Male,3,1.0,RG-50.042.0032,1992 February 18
+RG-50.106.0001_trs_en.txt,Mrs. Tana Gelfer,Female,3,1.0,RG-50.106.0001,1994 October 12
+RG-50.106.0002_trs_en.txt,Maria Devinki,Female,3,1.0,RG-50.106.0002,1994 October 18
+RG-50.106.0003_trs_en.txt,Suzanne Foldes,Female,3,1.0,RG-50.106.0003,1996 January 25
+RG-50.106.0005_trs_en.txt,Jerome Stasson,Male,3,1.0,RG-50.106.0005,1994 March 21
+RG-50.106.0006_trs_en.txt,Adriana F. Pacifici,Female,3,1.0,RG-50.106.0006,1994 April 08
+RG-50.106.0007_trs_en.txt,Ernest Kolben,Male,3,1.0,RG-50.106.0007,1994 April 06
+RG-50.106.0008_trs_en.txt,Mr. Henry Kolber,Male,3,1.0,RG-50.106.0008,1994 April 08
+RG-50.106.0009_trs_en.txt,Marie Schwartzman,Female,3,1.0,RG-50.106.0009,1994 August 12
+RG-50.106.0010_trs_en.txt,Ms. Ruth Greifer,Female,3,1.0,RG-50.106.0010,1994 December 05
+RG-50.106.0011_trs_en.txt,Anna Wollner,Female,3,1.0,RG-50.106.0011,1994 December 18
+RG-50.106.0013_trs_en.txt,Roberta S. Jones,Female,3,1.0,RG-50.106.0013,1997 May 31
+RG-50.106.0015_trs_en.txt,Ms. Doris Rauch,Female,3,1.0,RG-50.106.0015,1995 July 07
+RG-50.106.0016_trs_en.txt,Ivan Becker,Male,3,1.0,RG-50.106.0016,1995 January 18
+RG-50.106.0017_trs_en.txt,Solomon Cohen,Male,3,1.0,RG-50.106.0017,1995 October 23
+RG-50.106.0019_trs_en.txt,Mr. Ernest L. Marx,Male,3,1.0,RG-50.106.0019,1995 July 26
+RG-50.106.0020_trs_en.txt,Joseph Elman,Male,3,1.0,RG-50.106.0020,1994 August 21
+RG-50.106.0036_trs_en.txt,Mr. Charles Barber,Male,3,1.0,RG-50.106.0036,1996 August 09
+RG-50.106.0049_trs_en.txt,Jaffa Munk,Female,3,1.0,RG-50.106.0049,1996 October 08; 1997 March 11
+RG-50.106.0051_trs_en.txt,Moris Gluckman,Male,3,1.0,RG-50.106.0051,1996 September 25
+RG-50.106.0052_trs_en.txt,Margie Rosenthal,Female,3,1.0,RG-50.106.0052,1996 October 24
+RG-50.106.0055_trs_en.txt,Ida Henig,Female,3,1.0,RG-50.106.0055,1996 November 22
+RG-50.106.0058_trs_en.txt,Mrs. Joan I. Schwab,Female,3,1.0,RG-50.106.0058,1996 November 05
+RG-50.106.0059_trs_en.txt,Hugh M. Jenkins,Male,3,1.0,RG-50.106.0059,1997 January 31
+RG-50.106.0062_trs_en.txt,Yehuda Adam,Male,3,1.0,RG-50.106.0062,1997 April 04
+RG-50.106.0063_trs_en.txt,Arlette de Long,Female,3,1.0,RG-50.106.0063,1997 May 23
+RG-50.106.0065_trs_en.txt,Herbert Bitter,Male,3,1.0,RG-50.106.0065,1997 May 19
+RG-50.106.0074_trs_en.txt,Ms. Goldie Gendelman,Female,3,1.0,RG-50.106.0074,1997 October 08
+RG-50.106.0077_trs_en.txt,Jutta Levy,Female,3,1.0,RG-50.106.0077,1997 September 08
+RG-50.106.0079_trs_en.txt,Mr. Kurt Pauly,Male,3,1.0,RG-50.106.0079,1997 November 18
+RG-50.106.0080_trs_en.txt,Mr. Bernard Pasternak,Male,3,1.0,RG-50.106.0080,1997 October 22
+RG-50.106.0081_trs_en.txt,Mrs. Bella S. Pasternak,Female,3,1.0,RG-50.106.0081,1997 October 22
+RG-50.106.0082_trs_en.txt,Mr. Gerald Schwab,Male,3,1.0,RG-50.106.0082,1997 November 18
+RG-50.106.0083_trs_en.txt,Hedi Pope,Female,3,1.0,RG-50.106.0083,1997 November 06
+RG-50.106.0084_trs_en.txt,George Pick,Male,3,1.0,RG-50.106.0084,1997 November 13
+RG-50.106.0086_trs_en.txt,Marion Friedman,Female,3,1.0,RG-50.106.0086,1997 November 22
+RG-50.106.0087_trs_en.txt,Elizabeth Lusthaus Strassburger,Female,3,1.0,RG-50.106.0087,1997 October 31
+RG-50.106.0089_trs_en.txt,Ms. Ruth Harvey,Female,3,1.0,RG-50.106.0089,1997 August 22
+RG-50.106.0090_trs_en.txt,Thomas B. Gardiner,Male,3,1.0,RG-50.106.0090,1997 August 24
+RG-50.106.0102_trs_en.txt,William Luksenburg,Male,3,1.0,RG-50.106.0102,1998 May 26
+RG-50.106.0103_trs_en.txt,Rose Weisfeld,Female,3,1.0,RG-50.106.0103,1998 May 19
+RG-50.106.0108_trs_en.txt,Mr. Wallace A. Witkowski,Male,3,1.0,RG-50.106.0108,1998 September 01
+RG-50.106.0109_trs_en.txt,Ms. Lena Jurand,Female,3,1.0,RG-50.106.0109,1998 August 15
+RG-50.106.0110_trs_en.txt,Peter Masters,Male,3,1.0,RG-50.106.0110,1998 August 07
+RG-50.106.0111_trs_en.txt,Lena Gitter,Female,3,1.0,RG-50.106.0111,1998 July 21
+RG-50.106.0112_trs_en.txt,Rabbi Jacob G. Wiener Ph.D.,Male,3,1.0,RG-50.106.0112,1998 October 25
+RG-50.106.0113_trs_en.txt,Riane Gruss,Female,3,1.0,RG-50.106.0113,1994 April 22
+RG-50.106.0114_trs_en.txt,Richard W. Peterson,Male,3,1.0,RG-50.106.0114,1999 April 06
+RG-50.106.0115_trs_en.txt,Noah Roitman,Male,3,1.0,RG-50.106.0115,1999 April 08
+RG-50.106.0116_trs_en.txt,Regina Spiegel,Female,3,1.0,RG-50.106.0116,1999 May 11
+RG-50.106.0117_trs_en.txt,Charles Stein,Male,3,1.0,RG-50.106.0117,1999 June 08
+RG-50.106.0118_trs_en.txt,Hannah Kalman,Female,3,1.0,RG-50.106.0118,1999 May 20
+RG-50.106.0119_trs_en.txt,Morris Rosen,Male,3,1.0,RG-50.106.0119,1999 August 05
+RG-50.106.0120_trs_en.txt,Mrs. Romana Koplewicz,Female,3,1.0,RG-50.106.0120,1993 October 08
+RG-50.106.0121_trs_en.txt,Mr. Joseph Koplewicz,Male,3,1.0,RG-50.106.0121,1993 October 07
+RG-50.106.0122_trs_en.txt,Irving Schaffer,Male,3,1.0,RG-50.106.0122,1993 October 19
+RG-50.106.0123_trs_en.txt,William Klein,Male,3,1.0,RG-50.106.0123,1993 October 18
+RG-50.106.0124_trs_en.txt,George Pisik,Male,3,1.0,RG-50.106.0124,1993 July 14
+RG-50.106.0125_trs_en.txt,Ruth Rosicka,Female,3,1.0,RG-50.106.0125,1993 October 22
+RG-50.106.0126_trs_en.txt,Samuel Spiegel,Male,3,1.0,RG-50.106.0126,1999 August 24
+RG-50.106.0127_trs_en.txt,Fred Gutter,Male,3,1.0,RG-50.106.0127,1999 October 30
+RG-50.106.0128_trs_en.txt,Mr. Henry Greenbaum,Male,3,1.0,RG-50.106.0128,1999 December 20
+RG-50.106.0129_trs_en.txt,Ruth Alper,Female,3,1.0,RG-50.106.0129,1999 December 22
+RG-50.106.0130_trs_en.txt,Alice Masters,Female,3,1.0,RG-50.106.0130,2000 January 12
+RG-50.106.0131_trs_en.txt,Michael Lin,Male,3,1.0,RG-50.106.0131,2000 February 27
+RG-50.106.0132_trs_en.txt,Dorrit L. Ostberg,Female,3,1.0,RG-50.106.0132,2000 July 29
+RG-50.106.0133_trs_en.txt,Hannah Kalman,Female,3,1.0,RG-50.106.0133,1992 November 23
+RG-50.106.0134_trs_en.txt,Mr. Martin Weiss,Male,3,1.0,RG-50.106.0134,2000 August 26
+RG-50.106.0135_trs_en.txt,Leonard Gordon,Male,3,1.0,RG-50.106.0135,2000 October 24
+RG-50.106.0138_trs_en.txt,Eve K. Belfoure,Female,3,1.0,RG-50.106.0138,2001 February 02
+RG-50.106.0139_trs_en.txt,Helen L. Goldkind,Female,3,1.0,RG-50.106.0139,2001 February 21
+RG-50.106.0140_trs_en.txt,Brigitte Freidin,Female,3,1.0,RG-50.106.0140,2001 March 13
+RG-50.106.0141_trs_en.txt,Kurt Roberg,Male,3,1.0,RG-50.106.0141,2001 March 16; 2020 March 06
+RG-50.106.0142_trs_en.txt,Alfred Schnog,Male,3,1.0,RG-50.106.0142,2001 March 10
+RG-50.106.0143_trs_en.txt,Mr. Fred H. Taucher,Male,3,1.0,RG-50.106.0143,2001 April 26
+RG-50.106.0144_trs_en.txt,Inge E. Katzenstein,Female,3,1.0,RG-50.106.0144,2001 October 17
+RG-50.106.0145_trs_en.txt,Mr. Werner Katzenstein,Male,3,1.0,RG-50.106.0145,2001 October 17
+RG-50.106.0146_trs_en.txt,Fred Goldman,Male,3,1.0,RG-50.106.0146,2001 November 19
+RG-50.106.0147_trs_en.txt,Margitta Cooper,Female,3,1.0,RG-50.106.0147,2002 January 04
+RG-50.106.0148_trs_en.txt,Erika N. Eckstut,Female,3,1.0,RG-50.106.0148,2002 January 16
+RG-50.106.0149_trs_en.txt,Tole J. Madna,Male,3,1.0,RG-50.106.0149,2002 April 18
+RG-50.106.0152_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.106.0152,2002 June 03
+RG-50.106.0155_trs_en.txt,Mr. Norbert V. Hilsberg,Male,3,1.0,RG-50.106.0155,2002 August 12
+RG-50.106.0156_trs_en.txt,Dr. Alfred Munzer,Male,3,1.0,RG-50.106.0156,2002 August 04
+RG-50.106.0159_trs_en.txt,Susan Berlin,Female,3,1.0,RG-50.106.0159,2003 March 07
+RG-50.106.0160_trs_en.txt,John Bucur,Male,3,1.0,RG-50.106.0160,2003 August 18
+RG-50.106.0161_trs_en.txt,Ms. Lore Schneider,Female,3,1.0,RG-50.106.0161,2003 August 14
+RG-50.106.0162_trs_en.txt,Liebermann family,Male,3,1.0,RG-50.106.0162,2003 September 24
+RG-50.106.0163_trs_en.txt,Ms. Marianne Liebermann,Female,3,1.0,RG-50.106.0163,2004 January 09
+RG-50.106.0164_trs_en.txt,Thea S. Rips,Female,3,1.0,RG-50.106.0164,2004 January 20
+RG-50.106.0165_trs_en.txt,Mr. Andrew J. Glass,Male,3,1.0,RG-50.106.0165,2005 February 14
+RG-50.106.0166_trs_en.txt,Renate F. Chernoff,Female,3,1.0,RG-50.106.0166,2005 June 23
+RG-50.106.0167_trs_en.txt,Eli Dortort,Male,3,1.0,RG-50.106.0167,2005 August 03
+RG-50.106.0168_trs_en.txt,Hilda Seftor,Female,3,1.0,RG-50.106.0168,2006 June 12
+RG-50.106.0169_trs_en.txt,Felix Nicinski,Male,3,1.0,RG-50.106.0169,2007 March 06
+RG-50.106.0170_trs_en.txt,David Brombart,Male,3,1.0,RG-50.106.0170,2007 May 07
+RG-50.106.0171_trs_en.txt,Mr. Gunter Haimann,Male,3,1.0,RG-50.106.0171,2001 January 10
+RG-50.106.0173_trs_en.txt,Alfred J. Lakritz,Male,3,1.0,RG-50.106.0173,2008 April 03
+RG-50.106.0174_trs_en.txt,Ms. Rita Rubinstein,Female,3,1.0,RG-50.106.0174,2009 August 25
+RG-50.106.0175_trs_en.txt,Ms. Anita Etzyon,Female,3,1.0,RG-50.106.0175,2009 September 03
+RG-50.106.0176_trs_en.txt,Mr. Melvin Galun,Male,3,1.0,RG-50.106.0176,2009 October 29
+RG-50.106.0177_trs_en.txt,Magdalena Farkas Berkovics,Female,3,1.0,RG-50.106.0177,2009 October 15
+RG-50.106.0178_trs_en.txt,Mr. Sol Mackler,Male,3,1.0,RG-50.106.0178,2009 December 28
+RG-50.106.0179_trs_en.txt,Ms. Carolina Taitz,Female,3,1.0,RG-50.106.0179,2010 January 24
+RG-50.106.0180_trs_en.txt,Helen Schwartz,Female,3,1.0,RG-50.106.0180,2010 March 01
+RG-50.106.0181_trs_en.txt,Irene Silver,Female,3,1.0,RG-50.106.0181,2010 March 01
+RG-50.106.0183_trs_en.txt,Regine Ginsberg,Female,3,1.0,RG-50.106.0183,2010 April 23
+RG-50.106.0184_trs_en.txt,Ursula Guttstadt McKinney,Female,3,1.0,RG-50.106.0184,2010 August 31
+RG-50.106.0185_trs_en.txt,Ruth Rappaport,Female,3,1.0,RG-50.106.0185,2010 October 14
+RG-50.106.0187_trs_en.txt,Edith Langer,Female,3,1.0,RG-50.106.0187,2011 February 27
+RG-50.106.0189_trs_en.txt,Marianne Milkman,Female,3,1.0,RG-50.106.0189,2011 August 12
+RG-50.106.0190_en_trs.txt,Ms. Ruth Cohen,Female,3,1.0,RG-50.106.0190,2011 October 04
+RG-50.106.0191_trs_en.txt,George Arnstein,Male,3,1.0,RG-50.106.0191,2011 October 23
+RG-50.106.0192_trs_en.txt,Phillip Abraham,Male,3,1.0,RG-50.106.0192,2011 August 21
+RG-50.106.0193_trs_en.txt,Gertrude S. Epstein,Female,3,1.0,RG-50.106.0193,2011 November 17
+RG-50.106.0194_trs_en.txt,Ms. Matilde Neuwirt,Female,3,1.0,RG-50.106.0194,2011 December 11
+RG-50.106.0195_trs_en.txt,Susanne K. Bennet,Female,3,1.0,RG-50.106.0195,2012 March 22
+RG-50.106.0196_trs_en.txt,Ms. Marianne Roberts,Female,3,1.0,RG-50.106.0196,2012 April 11
+RG-50.106.0197_trs_en.txt,Mr. Harry Markowicz,Male,3,1.0,RG-50.106.0197,2012 May 16
+RG-50.106.0198_trs_en.txt,Julie Keefer,Female,3,1.0,RG-50.106.0198,2012 August 09
+RG-50.106.0199_trs_en.txt,Erica Laufer,Female,3,1.0,RG-50.106.0199,2012 August 19
+RG-50.106.0200_trs_en.txt,Barbara Goldberg,Female,3,1.0,RG-50.106.0200,2012 August 22
+RG-50.106.0201_trs_en.txt,Liselotte Ivry,Female,3,1.0,RG-50.106.0201,2012 November 29
+RG-50.106.0202_trs_en.txt,Hans Ziegler,Male,3,1.0,RG-50.106.0202,2012 December 21
+RG-50.106.0203_trs_en.txt,Ms. Vera Levine,Female,3,1.0,RG-50.106.0203,2013 February 07
+RG-50.106.0204_trs_en.txt,Guenter Lewy,Male,3,1.0,RG-50.106.0204,2013 March 18
+RG-50.106.0205_trs_en.txt,Malvy Solomon,Female,3,1.0,RG-50.106.0205,2013 May 02
+RG-50.106.0208_trs_en.txt,Alan W. Lukens,Male,3,1.0,RG-50.106.0208,2013 June 11
+RG-50.106.0209_trs_en.txt,Mr. David Schnitzer,Male,3,1.0,RG-50.106.0209,2013 July 17
+RG-50.106.0210_trs_en.txt,Rose Kamin,Female,3,1.0,RG-50.106.0210,2013 August 12
+RG-50.106.0212_trs_en.txt,Ms. Sarah Ludwig,Female,3,1.0,RG-50.106.0212,2013 August 19
+RG-50.106.0213_trs_en.txt,Rosa Weinstein,Female,3,1.0,RG-50.106.0213,2013 September 19
+RG-50.106.0215_trs_en.txt,Hans Tuch,Male,3,1.0,RG-50.106.0215,2013 November 07
+RG-50.106.0216_trs_en.txt,Ms. Agnes Hoffman,Female,3,1.0,RG-50.106.0216,2014 January 10
+RG-50.106.0217_trs_en.txt,Trudy Schonberger,Female,3,1.0,RG-50.106.0217,2014 January 16
+RG-50.106.0218_trs_en.txt,Ms. Alice Barzilay,Female,3,1.0,RG-50.106.0218,2014 January 23
+RG-50.106.0219_trs_en.txt,Rose Liberman,Female,3,1.0,RG-50.106.0219,2014 February 20
+RG-50.106.0221_trs_en.txt,Philip Pines,Male,3,1.0,RG-50.106.0221,2014 March 13
+RG-50.106.0222_trs_en.txt,Hugo Herzog,Male,3,1.0,RG-50.106.0222,2014 March 06
+RG-50.106.0224_trs_en.txt,Wolfgang Price,Male,3,1.0,RG-50.106.0224,2014 May 02
+RG-50.106.0225_trs_en.txt,Joseph Sucher,Male,3,1.0,RG-50.106.0225,2014 July 23
+RG-50.106.0226_trs_en.txt,Rabbi Marc Samuels,Male,3,1.0,RG-50.106.0226,2014 July 25
+RG-50.106.0227_trs_en.txt,Esfir Brodskaya,Female,3,1.0,RG-50.106.0227,2014 August 11
+RG-50.106.0229_trs_en.txt,Renate Mann,Female,3,1.0,RG-50.106.0229,2013 October 10
+RG-50.106.0230_trs_en.txt,Adi Eisenberg,Male,3,1.0,RG-50.106.0230,2014 August 29
+RG-50.106.0245_trs_en.txt,Moshe Kraus,Male,3,1.0,RG-50.106.0245,2014 November 30
+RG-50.106.0246_trs_en.txt,Nathan Neiberg,Male,3,1.0,RG-50.106.0246,2015 July 24
+RG-50.233.0001_trs_en.txt,Miru Alcana,Female,3,1.0,RG-50.233.0001,1992 August 30
+RG-50.233.0002_trs_en.txt,Ms. Inge Auerbacher,Female,3,1.0,RG-50.233.0002,1992 April 11
+RG-50.233.0003_trs_en.txt,Helen Balsam,Female,3,1.0,RG-50.233.0003,1992 March 15
+RG-50.233.0004_trs_en.txt,Irving Balsam,Male,3,1.0,RG-50.233.0004,1992 March 15
+RG-50.233.0005_trs_en.txt,Harry Bass,Male,3,1.0,RG-50.233.0005,1992 April 21
+RG-50.233.0006_trs_en.txt,Abraham Bergman,Male,3,1.0,RG-50.233.0006,1992 March 01
+RG-50.233.0008_trs_en.txt,Alice Bogart,Female,3,1.0,RG-50.233.0008,
+RG-50.233.0010_trs_en.txt,George Brieger,Male,3,1.0,RG-50.233.0010,1992 March 25
+RG-50.233.0011_trs_en.txt,Maria Brieger,Female,3,1.0,RG-50.233.0011,1992 March 29
+RG-50.233.0012_trs_en.txt,Claude R. Brunswic,Male,3,1.0,RG-50.233.0012,1992 April 01
+RG-50.233.0014_trs_en.txt,Renee Carasso,Female,3,1.0,RG-50.233.0014,1992 May 13
+RG-50.233.0020_trs_en.txt,Aron Derman,Male,3,1.0,RG-50.233.0020,1993 March 04
+RG-50.233.0021_trs_en.txt,Henry Drobiarz,Male,3,1.0,RG-50.233.0021,1992 March 20
+RG-50.233.0022_trs_en.txt,Maria Efes,Female,3,1.0,RG-50.233.0022,1992 July 24
+RG-50.233.0024_trs_en.txt,Ms. Selma S. Engel,Female,3,1.0,RG-50.233.0024,1992 February 28
+RG-50.233.0025_trs_en.txt,Lonia Fishman,Female,3,1.0,RG-50.233.0025,1992 March 29
+RG-50.233.0026_trs_en.txt,Sevek Fishman,Male,3,1.0,RG-50.233.0026,1992 May 12
+RG-50.233.0029_trs_en.txt,John Friedmann,Male,3,1.0,RG-50.233.0029,1993 April 12
+RG-50.233.0030_trs_en.txt,Irene Frisch,Female,3,1.0,RG-50.233.0030,1992 June 09
+RG-50.233.0032_trs_en.txt,Bozenna Urbanowicz Gilbride,Female,3,1.0,RG-50.233.0032,1992 April 15
+RG-50.233.0034_trs_en.txt,Alma Goldberg,Female,3,1.0,RG-50.233.0034,
+RG-50.233.0036_trs_en.txt,Helen L. Goldkind,Female,3,1.0,RG-50.233.0036,1992 May 21
+RG-50.233.0037_trs_en.txt,Philip Goldstein,Male,3,1.0,RG-50.233.0037,1992 June 02
+RG-50.233.0039_trs_en.txt,Monique Goodrich,Female,3,1.0,RG-50.233.0039,1992 April 02
+RG-50.233.0042_trs_en.txt,Matvey Gredinger,Male,3,1.0,RG-50.233.0042,1992 April 24
+RG-50.233.0043_trs_en.txt,Bernard Green,Male,3,1.0,RG-50.233.0043,1992 January 30
+RG-50.233.0044_trs_en.txt,Sabina Green,Female,3,1.0,RG-50.233.0044,1992 January 30
+RG-50.233.0048_trs_en.txt,Gerald Grossman,Male,3,1.0,RG-50.233.0048,1992 March 28
+RG-50.233.0049_trs_en.txt,Robert Gruber,Male,3,1.0,RG-50.233.0049,1992 June 16
+RG-50.233.0050_trs_en.txt,Eugenia Grudzinska,,0,0.0,,
+RG-50.233.0051_trs_en.txt,Laura Gruenbaum,Female,3,1.0,RG-50.233.0051,1992 January 18
+RG-50.233.0053_trs_en.txt,Irving Hass,Male,3,1.0,RG-50.233.0053,1992 March 24
+RG-50.233.0055_trs_en.txt,William Himmelfarb,Male,3,1.0,RG-50.233.0055,1992 April 12
+RG-50.233.0056_trs_en.txt,Irene Hizme; Rene Slotkin,Female,3,1.0,RG-50.233.0056,1992 April 12
+RG-50.233.0057_trs_en.txt,Irving Horn,Male,3,1.0,RG-50.233.0057,1992 January 11
+RG-50.233.0058_trs_en.txt,Molly Ingster,,0,0.0,,
+RG-50.233.0059_trs_en.txt,Katalin Karpati,Female,3,1.0,RG-50.233.0059,1992 June 09
+RG-50.233.0060_trs_en.txt,Joseph Kirzhner,Male,3,1.0,RG-50.233.0060,1992 April 24
+RG-50.233.0061_trs_en.txt,Meilech Kisielnicki,,0,0.0,,
+RG-50.233.0064_trs_en.txt,Walter Lachman,Male,3,1.0,RG-50.233.0064,1992 July 31
+RG-50.233.0065_trs_en.txt,Aaron Laro,Male,3,1.0,RG-50.233.0065,1992 February 05
+RG-50.233.0066_trs_en.txt,Anthony Lazar,Male,3,1.0,RG-50.233.0066,1991 December 09
+RG-50.233.0067_trs_en.txt,Lillian Lazar,Female,3,1.0,RG-50.233.0067,1992 January 16
+RG-50.233.0068_trs_en.txt,Fanny Lebovits,,0,0.0,,
+RG-50.233.0069_trs_en.txt,Emmi Lehner,Female,3,1.0,RG-50.233.0069,1992 July 09
+RG-50.233.0070_trs_en.txt,Ms. Isabella Leitner,Female,3,1.0,RG-50.233.0070,1991 December 08
+RG-50.233.0072_trs_en.txt,Ms. Johanna E. Liebmann,Female,3,1.0,RG-50.233.0072,1992 March 28
+RG-50.233.0073_trs_en.txt,Mr. Max K. Liebmann,Male,3,1.0,RG-50.233.0073,1992 March 28
+RG-50.233.0074_trs_en.txt,Margaret Lipton,Female,3,1.0,RG-50.233.0074,1992 March 27
+RG-50.233.0075_trs_en.txt,Arlette de Long,Female,3,1.0,RG-50.233.0075,1992 June 05
+RG-50.233.0077_trs_en.txt,Elizabeth Lubell,Female,3,1.0,RG-50.233.0077,1992 April 10
+RG-50.233.0078_trs_en.txt,Henry Lubell,Male,3,1.0,RG-50.233.0078,1992 March 02
+RG-50.233.0079_trs_en.txt,Trude Ludwig,Female,3,1.0,RG-50.233.0079,1992 January 16
+RG-50.233.0080_trs_en.txt,Nathan Magier,Male,3,1.0,RG-50.233.0080,1992 April 08
+RG-50.233.0083_trs_en.txt,Ms. Judith Mandel,Female,3,1.0,RG-50.233.0083,1992 September 01
+RG-50.233.0084_trs_en.txt,Lily Margules,Female,3,1.0,RG-50.233.0084,1992 April 20
+RG-50.233.0088_trs_en.txt,Ellen Mendel,Female,3,1.0,RG-50.233.0088,1992 March 25
+RG-50.233.0089_trs_en.txt,Arthur Menke,Male,3,1.0,RG-50.233.0089,1992 February 28
+RG-50.233.0090_trs_en.txt,Semyon Menyuk,Male,3,1.0,RG-50.233.0090,1993 January
+RG-50.233.0091_trs_en.txt,Leon Merrick,Male,3,1.0,RG-50.233.0091,1992 April
+RG-50.233.0092_trs_en.txt,Mr. Abraham Morgenstern,Male,3,1.0,RG-50.233.0092,
+RG-50.233.0093_trs_en.txt,Betty Migdol,Female,3,1.0,RG-50.233.0093,1992 April 12
+RG-50.233.0094_trs_en.txt,Israel Milkow,Male,3,1.0,RG-50.233.0094,1992 April 01
+RG-50.233.0095_trs_en.txt,Emanuel Munzer,Male,3,1.0,RG-50.233.0095,1992 July 21
+RG-50.233.0096_trs_en.txt,Sylvia Murawski,Female,3,1.0,RG-50.233.0096,1992 June 05
+RG-50.233.0097_trs_en.txt,Eugene Miller,Male,3,1.0,RG-50.233.0097,1992 April 10
+RG-50.233.0100_trs_en.txt,Ms. Miki Pear,Female,3,1.0,RG-50.233.0100,1992 June 12
+RG-50.233.0101_trs_en.txt,Eva Peker,Female,3,1.0,RG-50.233.0101,1992 March
+RG-50.233.0102_trs_en.txt,Catherine Polak,Female,3,1.0,RG-50.233.0102,
+RG-50.233.0103_trs_en.txt,Mr. Jack Polak,Male,3,1.0,RG-50.233.0103,1992 March 02
+RG-50.233.0104_trs_en.txt,Dr. Janina Prot,Female,3,1.0,RG-50.233.0104,1992 April 01
+RG-50.233.0105_trs_en.txt,Frederick Raymes,Male,3,1.0,RG-50.233.0105,1992 April 14
+RG-50.233.0106_trs_en.txt,Moses Rechnitz,Male,3,1.0,RG-50.233.0106,1992 July 12
+RG-50.233.0108_trs_en.txt,Dr. Liane Reif-Lehrer,Female,3,1.0,RG-50.233.0108,1992 March 29
+RG-50.233.0111_trs_en.txt,Henry Robertson,Male,3,1.0,RG-50.233.0111,
+RG-50.233.0112_trs_en.txt,Mr. Coenraad Rood,Male,3,1.0,RG-50.233.0112,1992 July 01
+RG-50.233.0113_trs_en.txt,Izy Rosenblat,Male,3,1.0,RG-50.233.0113,1992 February 27
+RG-50.233.0114_trs_en.txt,Pal Rozsa,Male,3,1.0,RG-50.233.0114,1992 June 18
+RG-50.233.0115_trs_en.txt,Eva Roth,Female,3,1.0,RG-50.233.0115,1992 February 12
+RG-50.233.0116_trs_en.txt,Marsha Rozenblit,Female,3,1.0,RG-50.233.0116,1992 August 06
+RG-50.233.0117_trs_en.txt,Eva Rozsa,Female,3,1.0,RG-50.233.0117,1992 February 12
+RG-50.233.0119_01_trs_en.txt,Norman Salsitz,Male,3,1.0,RG-50.233.0119,1992 November 05
+RG-50.233.0119_02_trs_en.txt,Norman Salsitz,Male,3,1.0,RG-50.233.0119,1992 November 05
+RG-50.233.0120_trs_en.txt,Mrs. Charlene P. Schiff,Female,3,1.0,RG-50.233.0120,1993 March 02
+RG-50.233.0121_trs_en.txt,Michael Scislowski,Male,3,1.0,RG-50.233.0121,
+RG-50.233.0125_trs_en.txt,Mrs. Irene Shapiro,Female,3,1.0,RG-50.233.0125,1992 March 27
+RG-50.233.0126_trs_en.txt,Ms. Flora Singer,Female,3,1.0,RG-50.233.0126,1992 June 30
+RG-50.233.0129_trs_en.txt,Harold Spear,Male,3,1.0,RG-50.233.0129,1992 May 16
+RG-50.233.0131_trs_en.txt,Morris Steiman,Male,3,1.0,RG-50.233.0131,1992 April 21
+RG-50.233.0133_trs_en.txt,Florence Tabrys,Female,3,1.0,RG-50.233.0133,1992 July 27
+RG-50.233.0134_trs_en.txt,Harry Tabrys,Male,3,1.0,RG-50.233.0134,1992 July 27
+RG-50.233.0135_trs_en.txt,Walter Taranowicz,Male,3,1.0,RG-50.233.0135,1992 April 16
+RG-50.233.0136_trs_en.txt,Mr. George Topas,Male,3,1.0,RG-50.233.0136,1992 April 07
+RG-50.233.0137_trs_en.txt,Jack Trompettor,Male,3,1.0,RG-50.233.0137,1992 April 02
+RG-50.233.0139_trs_en.txt,Sol Urbach,Male,3,1.0,RG-50.233.0139,1992 April 08
+RG-50.233.0140_trs_en.txt,Moishe Weiner,Male,3,1.0,RG-50.233.0140,1992 May 04
+RG-50.233.0141_trs_en.txt,Paul Wos,Male,3,1.0,RG-50.233.0141,1992 April 16
+RG-50.233.0142_trs_en.txt,David Yegher,Male,3,1.0,RG-50.233.0142,1992 August 18
+RG-50.233.0143_trs_en.txt,Ms. Eva Young,Female,3,1.0,RG-50.233.0143,1992 August
+RG-50.233.0144_trs_en.txt,Frances Zatz,Female,3,1.0,RG-50.233.0144,1992 April 09
+RG-50.234.0022_trs_en.txt,Daniel Dagen; Dan Hiram,Male,3,1.0,RG-50.234.0022,1981 October
+RG-50.344.0001_trs_en.txt,Ruth Kirby,Female,3,1.0,RG-50.344.0001,1995 July 14
+RG-50.344.0002_trs_en.txt,Mary M. Wood,Female,3,1.0,RG-50.344.0002,1995 July 14
+RG-50.344.0003_trs_en.txt,Elizabeth Feldhusen,Female,3,1.0,RG-50.344.0003,1995 July 14
+RG-50.344.0004_trs_en.txt,Dorothy Maroon,Female,3,1.0,RG-50.344.0004,1995 July 15
+RG-50.344.0005_trs_en.txt,Ms. Louise Birch,Female,3,1.0,RG-50.344.0005,1995 July 15
+RG-50.344.0006_trs_en.txt,Mary Bergquist,Female,3,1.0,RG-50.344.0006,1995 July 15
+RG-50.344.0007_trs_en.txt,Clarice MacLeod,Female,3,1.0,RG-50.344.0007,1995 July 15
+RG-50.344.0008_trs_en.txt,Ellen Marchese,Female,3,1.0,RG-50.344.0008,1995 July 15
+RG-50.344.0009_trs_en.txt,Phyllis Law,Female,3,1.0,RG-50.344.0009,1995 July 15
+RG-50.429.0001_trs_en.txt,Milton Green,Male,3,1.0,RG-50.429.0001,1996 May 14
+RG-50.429.0002_trs_en.txt,John Woodruff,Male,3,1.0,RG-50.429.0002,1996 May 15
+RG-50.429.0003_trs_en.txt,Herman Goldberg,Male,3,1.0,RG-50.429.0003,1996 May 15
+RG-50.429.0004_trs_en.txt,Marty Glickman,Male,3,1.0,RG-50.429.0004,1996 May 20
+RG-50.429.0005_trs_en.txt,Ms. Margaret Lambert,Female,3,1.0,RG-50.429.0005,1996 May 20
+RG-50.468.0006_02_trs_sr.txt,Ado Kabiljo,Male,3,1.0,RG-50.468.0006,1997 July 11
+RG-50.470.0001_trs_en.txt,Boleslaw Brodecki,Male,3,1.0,RG-50.470.0001,1995 February 13
+RG-50.470.0002_trs_en.txt,Zelda P. Brodecki,Female,3,1.0,RG-50.470.0002,1995 February 13
+RG-50.470.0003_trs_en.txt,Jim Cacioppo,Male,3,1.0,RG-50.470.0003,1995 February 13
+RG-50.470.0004_trs_en.txt,Dr. Helen Fagin,Female,3,1.0,RG-50.470.0004,1995 February 21
+RG-50.470.0005_trs_en.txt,Suzanne Foldes,Female,3,1.0,RG-50.470.0005,1995 February 13
+RG-50.470.0006_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.470.0006,1995 February 20
+RG-50.470.0007_trs_en.txt,Henny Gurko,Female,3,1.0,RG-50.470.0007,1995 February 13
+RG-50.470.0008_trs_en.txt,COL Irving Heymont,Male,3,1.0,RG-50.470.0008,1995 February 14
+RG-50.470.0009_trs_en.txt,John Holmes,Male,3,1.0,RG-50.470.0009,1995 February 14
+RG-50.470.0010_trs_en.txt,Joseph Kahoe,Male,3,1.0,RG-50.470.0010,1995 February 14
+RG-50.470.0011_trs_en.txt,Henry Kanner,Male,3,1.0,RG-50.470.0011,1995 February 14
+RG-50.470.0012_trs_en.txt,Rabbi Abraham J. Klausner,Male,3,1.0,RG-50.470.0012,1995 February 23
+RG-50.470.0013_trs_en.txt,John Komski,Male,3,1.0,RG-50.470.0013,1995 February 14
+RG-50.470.0014_trs_en.txt,Pat Lynch,Female,3,1.0,RG-50.470.0014,1995 February 14
+RG-50.470.0015_trs_en.txt,William O. McWorkman,Male,3,1.0,RG-50.470.0015,1995 February 21
+RG-50.470.0016_trs_en.txt,James Moncrief,Male,3,1.0,RG-50.470.0016,1995 February 21
+RG-50.470.0017_trs_en.txt,Rabbi Judah Nadich,Male,3,1.0,RG-50.470.0017,1995 February 15
+RG-50.470.0018_trs_en.txt,Mr. George L. Salton,Male,3,1.0,RG-50.470.0018,1995 February 23
+RG-50.470.0019_trs_en.txt,Richard R. Seibel,Male,3,1.0,RG-50.470.0019,1995 February 23
+RG-50.470.0020_trs_en.txt,Milton L. Shurr,Male,3,1.0,RG-50.470.0020,1995 February 15
+RG-50.470.0021_trs_en.txt,Alfred Sundquist,Male,3,1.0,RG-50.470.0021,1995 February 20
+RG-50.470.0022_trs_en.txt,Fela Warschau,Female,3,1.0,RG-50.470.0022,1995 February 15
+RG-50.470.0023_trs_en.txt,Irene Weber,Female,3,1.0,RG-50.470.0023,1995 February 21
+RG-50.470.0024_trs_en.txt,Nick White,Male,3,1.0,RG-50.470.0024,1995 February 15
+RG-50.470.0025_trs_en.txt,Mr. Alan Zimm,Male,3,1.0,RG-50.470.0025,1995 February 20
+RG-50.471.0001_trs_en.txt,David Levine,Male,3,1.0,RG-50.471.0001,1997 May 20
+RG-50.471.0002_trs_en.txt,Celia Yewlow,Female,3,1.0,RG-50.471.0002,1997 May 27
+RG-50.471.0003_trs_en.txt,Brigitte Altman,Female,3,1.0,RG-50.471.0003,1997 May 27
+RG-50.471.0004_trs_en.txt,Ivar Segalowitz,Male,3,1.0,RG-50.471.0004,1997 May 27
+RG-50.471.0005_trs_en.txt,Eta Hecht,Female,3,1.0,RG-50.471.0005,1997 May 27
+RG-50.471.0006_trs_en.txt,Henry Kellen,Male,3,1.0,RG-50.471.0006,1997 May 27
+RG-50.471.0007_trs_en.txt,Abraham Rodstein,Male,3,1.0,RG-50.471.0007,1997 June 02
+RG-50.471.0008_trs_en.txt,Miriam Gershwin,Female,3,1.0,RG-50.471.0008,1997 June 02
+RG-50.471.0009_trs_en.txt,Ted Pais,Male,3,1.0,RG-50.471.0009,1997 June 02
+RG-50.471.0010_trs_en.txt,Jacob Lewin,Male,3,1.0,RG-50.471.0010,1997 June 02
+RG-50.471.0011_trs_en.txt,Berel Zisman,Male,3,1.0,RG-50.471.0011,1997 June 03
+RG-50.471.0013_trs_en.txt,Avraham Tory,Male,3,1.0,RG-50.471.0013,1997 July 23
+RG-50.471.0014_trs_en.txt,Pnina Tory,Female,3,1.0,RG-50.471.0014,1997 July 23
+RG-50.471.0015_trs_en.txt,Esther Lurie,Female,3,1.0,RG-50.471.0015,1997 July 23
+RG-50.471.0016_trs_en.txt,Ms. Tamara Lazerson-Rostovsky,Female,3,1.0,RG-50.471.0016,1997 July 23
+RG-50.498.0011_trs_en.txt,Beate Klarsfeld,Female,3,1.0,RG-50.498.0011,1997 June 24
+RG-50.549.01.0001_trs_en.txt,Mr. Harry Alexander,Male,3,1.0,RG-50.549.01.0001,1995 October 11
+RG-50.549.01.0002_trs_en.txt,Ms. Agnes M. Adachi,Female,3,1.0,RG-50.549.01.0002,1995 October 14
+RG-50.549.01.0003_trs_en.txt,Esthy Adler,Female,3,1.0,RG-50.549.01.0003,1995 November 15
+RG-50.549.01.0004_trs_en.txt,Irene Hizme,Female,3,1.0,RG-50.549.01.0004,1995 November 22
+RG-50.549.01.0005_trs_en.txt,Thomas Buergenthal,Male,3,1.0,RG-50.549.01.0005,1995 November 28
+RG-50.549.01.0006_trs_en.txt,William Loew,Male,3,1.0,RG-50.549.01.0006,1995 December 01
+RG-50.549.01.0007_trs_en.txt,Erwin Baum,Male,3,1.0,RG-50.549.01.0007,1995 December 05
+RG-50.549.01.0008_trs_en.txt,Barbara Marton Farkas,Female,3,1.0,RG-50.549.01.0008,1995 December 09
+RG-50.549.01.0009_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.549.01.0009,1995 December 14
+RG-50.549.01.0010_trs_en.txt,Edwarda K. Rorat,Female,3,1.0,RG-50.549.01.0010,1996 February 25
+RG-50.549.01.0011_trs_en.txt,Bella J. Tovey,Female,3,1.0,RG-50.549.01.0011,1996 June 10
+RG-50.549.01.0012_trs_en.txt,Leonard T. Zawacki,Male,3,1.0,RG-50.549.01.0012,1996 June 29
+RG-50.549.01.0013_trs_en.txt,Mrs. Eva Edmands,Female,3,1.0,RG-50.549.01.0013,1996 July 25
+RG-50.549.01.0014_trs_en.txt,Thomas Blatt,Male,3,1.0,RG-50.549.01.0014,1996 July 26
+RG-50.549.01.0015_trs_en.txt,Ms. Anny R. Kast,Female,3,1.0,RG-50.549.01.0015,1996 August 05
+RG-50.549.01.0016_trs_en.txt,Anna Leiser-Kleinhaus,Female,3,1.0,RG-50.549.01.0016,1996 August 06
+RG-50.549.01.0017_trs_en.txt,Anita M. Frank,Female,3,1.0,RG-50.549.01.0017,1996 August 11
+RG-50.549.01.0018_trs_en.txt,Felix Horn,Male,3,1.0,RG-50.549.01.0018,1996 August 17
+RG-50.549.01.0019_trs_en.txt,Ms. Lucine Horn,Female,3,1.0,RG-50.549.01.0019,1996 August 19
+RG-50.549.01.0021_trs_en.txt,Lily Margules,Female,3,1.0,RG-50.549.01.0021,1996 August 27
+RG-50.549.01.0022_trs_en.txt,Florence Eisen,Female,3,1.0,RG-50.549.01.0022,1996 September 11
+RG-50.549.01.0024_trs_en.txt,William J. Lowenberg,Male,3,1.0,RG-50.549.01.0024,1996 September 16
+RG-50.549.01.0025_trs_en.txt,Jan Nowak,Male,3,1.0,RG-50.549.01.0025,1996 September 18
+RG-50.549.01.0026_trs_en.txt,Mr. Fritz Schnaittacher,Male,3,1.0,RG-50.549.01.0026,1996 November 24
+RG-50.549.01.0027_trs_en.txt,Madeline Deutsch,Female,3,1.0,RG-50.549.01.0027,1996 December 29
+RG-50.549.02.0001_trs_en.txt,Doriane Kurz,Female,3,1.0,RG-50.549.02.0001,1997 May 13
+RG-50.549.02.0002_trs_en.txt,Ms. Elizabeth Koenig,Female,3,1.0,RG-50.549.02.0002,1997 June 04
+RG-50.549.02.0003_trs_en.txt,Ernest Koenig,Male,3,1.0,RG-50.549.02.0003,1997 June 12
+RG-50.549.02.0004_trs_en.txt,Drexel A. Sprecher,Male,3,1.0,RG-50.549.02.0004,1998 September 28; 1997 June 18
+RG-50.549.02.0006_trs_en.txt,Agnes Vogel,Female,3,1.0,RG-50.549.02.0006,1997 July 09
+RG-50.549.02.0007_trs_en.txt,Michael Vogel,Male,3,1.0,RG-50.549.02.0007,1997 July 10
+RG-50.549.02.0008_trs_en.txt,Rene Slotkin,Male,3,1.0,RG-50.549.02.0008,1997 September 18
+RG-50.549.02.0010_trs_en.txt,Renata Laqueur,Female,3,1.0,RG-50.549.02.0010,1998 February 07
+RG-50.549.02.0011_trs_en.txt,Mrs. Brenda S. Senders,Female,3,1.0,RG-50.549.02.0011,1998 February 22
+RG-50.549.02.0012_trs_en.txt,Ms. Cecilie Klein-Pollack,Female,3,1.0,RG-50.549.02.0012,1998 February 24
+RG-50.549.02.0013_trs_en.txt,Ms. Regina L. Gelb,Female,3,1.0,RG-50.549.02.0013,1998 March 18
+RG-50.549.02.0014_trs_en.txt,Ms. Selma S. Engel; Chaim Engel,Female,3,1.0,RG-50.549.02.0014,1998 March 30
+RG-50.549.02.0015_trs_en.txt,Mr. Max K. Liebmann; Ms. Johanna E. Liebmann,Female,3,1.0,RG-50.549.02.0015,1998 June 02
+RG-50.549.02.0016_trs_en.txt,Mr. Leo Bretholz,Male,3,1.0,RG-50.549.02.0016,1998 June 04
+RG-50.549.02.0017_trs_en.txt,Mrs. Bella Mischkinsky,Female,3,1.0,RG-50.549.02.0017,1998 June 23
+RG-50.549.02.0018_trs_en.txt,Mrs. Simone W. Lipman,Female,3,1.0,RG-50.549.02.0018,1998 August 04
+RG-50.549.02.0019_trs_en.txt,Ms. Barbara Rodbell,Female,3,1.0,RG-50.549.02.0019,1998 August 05
+RG-50.549.02.0020_trs_en.txt,Fritzie W. Fritzshall,Female,3,1.0,RG-50.549.02.0020,1998 September 22
+RG-50.549.02.0021_trs_en.txt,Mr. Francis Akos,Male,3,1.0,RG-50.549.02.0021,1998 September 23
+RG-50.549.02.0022_trs_en.txt,Ruth K. Meyerowitz,Female,3,1.0,RG-50.549.02.0022,1998 September 23
+RG-50.549.02.0023_trs_en.txt,Stefan Czyzewski,Male,3,1.0,RG-50.549.02.0023,1998 September 24
+RG-50.549.02.0024_trs_en.txt,Ms. Susie Schwarz,Female,3,1.0,RG-50.549.02.0024,1998 September 24
+RG-50.549.02.0025_trs_en.txt,Gerda Schild Haas,Female,3,1.0,RG-50.549.02.0025,1998 September 25
+RG-50.549.02.0026_trs_en.txt,Rochelle B. Slivka,Female,3,1.0,RG-50.549.02.0026,1998 October 22
+RG-50.549.02.0027_trs_en.txt,Jerry Slivka,Male,3,1.0,RG-50.549.02.0027,1998 October 23
+RG-50.549.02.0028_trs_en.txt,Doris F. Greenberg,Female,3,1.0,RG-50.549.02.0028,1998 November 22
+RG-50.549.02.0029_trs_en.txt,Dr. Leon Chameides,Male,3,1.0,RG-50.549.02.0029,1998 November 23
+RG-50.549.02.0030_trs_en.txt,Ms. Frima Laub,Female,3,1.0,RG-50.549.02.0030,1998 November 23
+RG-50.549.02.0031_trs_en.txt,Sol (Shaya) Lurie,Male,3,1.0,RG-50.549.02.0031,1998 November 30
+RG-50.549.02.0032_trs_en.txt,Mr. Fred Bachner,Male,3,1.0,RG-50.549.02.0032,1999 January 10
+RG-50.549.02.0033_trs_en.txt,Ms. Hetty de Leeuwe,Female,3,1.0,RG-50.549.02.0033,1999 January 13
+RG-50.549.02.0034_trs_en.txt,Fred Deutsch,Male,3,1.0,RG-50.549.02.0034,1999 January 19
+RG-50.549.02.0035_trs_en.txt,Judith B. Meisel,Female,3,1.0,RG-50.549.02.0035,1999 January 20
+RG-50.549.02.0036_trs_en.txt,Leo Hanin,Male,3,1.0,RG-50.549.02.0036,1999 January 22
+RG-50.549.02.0037_trs_en.txt,Jack Ahrens,Male,3,1.0,RG-50.549.02.0037,1999 January 27
+RG-50.549.02.0038_trs_en.txt,Isaac Danon,Male,3,1.0,RG-50.549.02.0038,1999 February 26; 1999 March 05
+RG-50.549.02.0039_trs_en.txt,Michael A. Diamond,Male,3,1.0,RG-50.549.02.0039,1999 March 30
+RG-50.549.02.0040_trs_en.txt,Mr. Preben Munch-Nielsen,Male,3,1.0,RG-50.549.02.0040,1999 April 16
+RG-50.549.02.0041_trs_en.txt,Walter Meyer,Male,3,1.0,RG-50.549.02.0041,1999 April 28
+RG-50.549.02.0042_trs_en.txt,Mr. Abraham Malach,Male,3,1.0,RG-50.549.02.0042,1999 May 16
+RG-50.549.02.0043_trs_en.txt,Dr. Liane Reif-Lehrer,Female,3,1.0,RG-50.549.02.0043,1999 May 28
+RG-50.549.02.0044_trs_en.txt,Fela Warschau,Female,3,1.0,RG-50.549.02.0044,1999 June 10
+RG-50.549.02.0045_trs_en.txt,Leah Mosak,Female,3,1.0,RG-50.549.02.0045,1999 June 11
+RG-50.549.02.0046_trs_en.txt,Adam Starkopf,Male,3,1.0,RG-50.549.02.0046,1999 June 14
+RG-50.549.02.0047_trs_en.txt,Ms. Eva B. Cooper,Female,3,1.0,RG-50.549.02.0047,1999 June 22
+RG-50.549.02.0048_trs_en.txt,Kurt M. Thomas,Male,3,1.0,RG-50.549.02.0048,1999 June 23-1999 June 24; 1999 June 23
+RG-50.549.02.0049_trs_en.txt,Frida A. Wallenstein,Female,3,1.0,RG-50.549.02.0049,1999 June 25
+RG-50.549.02.0050_trs_en.txt,Carla H. Lessing,Female,3,1.0,RG-50.549.02.0050,1999 June 28
+RG-50.549.02.0051_trs_en.txt,Mr. Edward Lessing,Male,3,1.0,RG-50.549.02.0051,1999 June 28
+RG-50.549.02.0052_trs_en.txt,Norman Salsitz,Male,3,1.0,RG-50.549.02.0052,1999 July 06
+RG-50.549.02.0053_trs_en.txt,Masha Loen,Female,3,1.0,RG-50.549.02.0053,1999 July 11
+RG-50.549.02.0054_trs_en.txt,Amalie P. Salsitz,Female,3,1.0,RG-50.549.02.0054,1999 July 08
+RG-50.549.02.0055_trs_en.txt,Mr. Gerald S. von Halle,Male,3,1.0,RG-50.549.02.0055,1999 July 10
+RG-50.549.02.0056_trs_en.txt,Cornelius Loen,Male,3,1.0,RG-50.549.02.0056,1999 July 11
+RG-50.549.02.0057_trs_en.txt,Blanka Rothschild,Female,3,1.0,RG-50.549.02.0057,1999 July 13
+RG-50.549.02.0058_trs_en.txt,Rose S. Warner,Female,3,1.0,RG-50.549.02.0058,1999 July 15
+RG-50.549.02.0059_trs_en.txt,Estelle Klipp,Female,3,1.0,RG-50.549.02.0059,1999 July 16
+RG-50.549.02.0060_trs_en.txt,Guta B. Weintraub,Female,3,1.0,RG-50.549.02.0060,1999 August 18
+RG-50.549.02.0061_trs_en.txt,Mr. Morris Kornberg,Male,3,1.0,RG-50.549.02.0061,1999 September 27
+RG-50.549.02.0062_trs_en.txt,Harold Zissman,Male,3,1.0,RG-50.549.02.0062,2000 February 28
+RG-50.549.02.0063_trs_en.txt,Norman C. Belfer,Male,3,1.0,RG-50.549.02.0063,2000 March 01
+RG-50.549.02.0064_trs_en.txt,Beno Helmer,Male,3,1.0,RG-50.549.02.0064,2000 March 03
+RG-50.549.02.0065_trs_en.txt,Eddie H. Willner,Male,3,1.0,RG-50.549.02.0065,2000 July 12
+RG-50.549.02.0066_trs_en.txt,Julian Noga,Male,3,1.0,RG-50.549.02.0066,2000 December 14
+RG-50.549.02.0067_trs_en.txt,Frieda Noga,Female,3,1.0,RG-50.549.02.0067,2000 December 15
+RG-50.549.02.0068_trs_en.txt,Mrs. Charlene P. Schiff,Female,3,1.0,RG-50.549.02.0068,2003 January 29
+RG-50.549.02.0069_trs_en.txt,Mr. Isaac Nehama,Male,3,1.0,RG-50.549.02.0069,2003 June 02
+RG-50.549.02.0070_trs_en.txt,Boleslaw Brodecki,Male,3,1.0,RG-50.549.02.0070,2003 July 26
+RG-50.549.02.0071_trs_en.txt,Zelda P. Brodecki,Female,3,1.0,RG-50.549.02.0071,2003 July 26
+RG-50.549.02.0072_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.549.02.0072,2003 July 07
+RG-50.549.02.0073_trs_en.txt,Flory K. Jagoda,Female,3,1.0,RG-50.549.02.0073,2004 January 12
+RG-50.549.02.0074_trs_en.txt,Mieczyslaw Madejski,Male,3,1.0,RG-50.549.02.0074,2004 January 30
+RG-50.549.02.0075_trs_en.txt,Haim Solomon,Male,3,1.0,RG-50.549.02.0075,2004 January 05
+RG-50.549.02.0076_trs_en.txt,Dr. Paul A. Strassmann,Male,3,1.0,RG-50.549.02.0076,2004 January 08
+RG-50.549.02.0077_trs_en.txt,Fred R. Wohl,Male,3,1.0,RG-50.549.02.0077,2004 February 13; 2004 February 17
+RG-50.549.02.0078_trs_en.txt,Mrs. Lucie S. Rosenberg,Female,3,1.0,RG-50.549.02.0078,2004 April 16; 2004 April 22
+RG-50.549.02.0079_trs_en.txt,Ms. Theodora Basch Vrančić Klayman,Female,3,1.0,RG-50.549.02.0079,2004 April 26
+RG-50.549.02.0080_trs_en.txt,Joseph Elman,Male,3,1.0,RG-50.549.02.0080,2004 October 08
+RG-50.549.03.0001_trs_en.txt,Thomas Buergenthal,Male,3,1.0,RG-50.549.03.0001,2001 February 27
+RG-50.549.03.0002_trs_en.txt,Ms. Regina L. Gelb,Female,3,1.0,RG-50.549.03.0002,2001 March 23
+RG-50.549.03.0003_trs_en.txt,Blanka Rothschild,Female,3,1.0,RG-50.549.03.0003,2001 March 16
+RG-50.549.03.0004_trs_en.txt,Norman Salsitz,Male,3,1.0,RG-50.549.03.0004,2001 February 09
+RG-50.549.04.0001_trs_en.txt,Harry Gelb,Male,3,1.0,RG-50.549.04.0001,2001 December 13
+RG-50.549.04.0002_trs_en.txt,Dustin Dezube,Male,3,1.0,RG-50.549.04.0002,2000 December 07
+RG-50.549.04.0003_trs_en.txt,Esther Dezube,Female,3,1.0,RG-50.549.04.0003,2000 December 07
+RG-50.549.04.0004_trs_en.txt,Shelly Rothschild-Sherwin,Female,3,1.0,RG-50.549.04.0004,2001 March 15
+RG-50.549.05.0001_trs_en.txt,Dr. Robert Holczer,Male,3,1.0,RG-50.549.05.0001,1999 March 17
+RG-50.549.05.0002_trs_en.txt,Sylvia F. Green,Female,3,1.0,RG-50.549.05.0002,1999 April 22
+RG-50.549.05.0003_trs_en.txt,Justine Lerner,Female,3,1.0,RG-50.549.05.0003,1999 May 05
+RG-50.549.05.0004_trs_en.txt,Abram Jakubowicz,Male,3,1.0,RG-50.549.05.0004,1999 July 14
+RG-50.549.05.0005_trs_en.txt,Ann Klein,Female,3,1.0,RG-50.549.05.0005,1999 July 15
+RG-50.549.05.0006_trs_en.txt,Paul Pressman,Male,3,1.0,RG-50.549.05.0006,1999 August 17
+RG-50.549.05.0007_trs_en.txt,John Rosenberg,Male,3,1.0,RG-50.549.05.0007,1999 August 22
+RG-50.549.05.0008_trs_en.txt,Emilie Szekely,Female,3,1.0,RG-50.549.05.0008,2000 January 18
+RG-50.549.05.0011_trs_en.txt,Oscar Haber,Male,3,1.0,RG-50.549.05.0011,2000 May 17
+RG-50.549.05.0012_trs_en.txt,Mr. Alexander F. Rosenberg,Male,3,1.0,RG-50.549.05.0012,2000 June 13
+RG-50.549.05.0014_trs_en.txt,Paul Schlisser,Male,3,1.0,RG-50.549.05.0014,2000 June 26
+RG-50.562.0001_trs_en.txt,Jack Bass,Male,3,1.0,RG-50.562.0001,2003 October 17
+RG-50.562.0002_trs_en.txt,Alan Kalish,Male,3,1.0,RG-50.562.0002,2003 October 24
+RG-50.562.0004_trs_en.txt,Janine Oberrotman,Female,3,1.0,RG-50.562.0004,2004 March 30
+RG-50.562.0005_trs_en.txt,Mark Moskovitz,Male,3,1.0,RG-50.562.0005,2004 October 04
+RG-50.562.0006_trs_fr.txt,Jack Unikoski; Georges Kestenberg,Male,3,1.0,RG-50.562.0006,2004 September 10
+RG-50.562.0010_trs_en.txt,Gert Silver,Male,3,1.0,RG-50.562.0010,2006 March 27; 2006 March 30
+RG-50.637.0003_trs_en.txt,"Laks, Aleksander Henryk",Male,3,1.0,RG-50.637.0003,2005 January 24
+RG-50.718.0003_trs_en.txt,Helga Gross,Female,3,1.0,RG-50.718.0003,2003 January 22
+RG-50.924.0001_trs_en.txt,Samuel Schalkowsky,Male,3,1.0,RG-50.924.0001,2007 October 23
+RG-50.924.0002_trs_en.txt,Robert Behr,Male,3,1.0,RG-50.924.0002,2007 November 05
+RG-50.924.0003_trs_en.txt,Mrs. Helen C. Luksenburg,Female,3,1.0,RG-50.924.0003,2007 December 11
+RG-50.999.0408_trs_en.txt,George Pick,Male,3,1.0,RG-50.999.0408,2013 March 20
+RG-50.999.0409_trs_en.txt,Ms. Theodora Basch Vrančić Klayman,Female,3,1.0,RG-50.999.0409,2013 March 21
+RG-50.999.0410_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0410,2013 March 27
+RG-50.999.0411_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0411,2013 March 28
+RG-50.999.0412_trs_en.txt,Regina Spiegel,Female,3,1.0,RG-50.999.0412,2013 April 03
+RG-50.999.0413_trs_en.txt,Josiane Traum,Female,3,1.0,RG-50.999.0413,2013 April 04
+RG-50.999.0414_trs_en.txt,Mr. Marcel Drimer,Male,3,1.0,RG-50.999.0414,2013 April 10
+RG-50.999.0415_trs_en.txt,Charles Stein,Male,3,1.0,RG-50.999.0415,2013 April 11
+RG-50.999.0416_trs_en.txt,Dr. Alfred Munzer,Male,3,1.0,RG-50.999.0416,2013 April 17
+RG-50.999.0417_trs_en.txt,Mr. Marcel Hodak,Male,3,1.0,RG-50.999.0417,2013 April 18
+RG-50.999.0418_trs_en.txt,Mr. Henry Greenbaum,Male,3,1.0,RG-50.999.0418,2013 April 24
+RG-50.999.0419_trs_en.txt,Mr. Gerald Schwab,Male,3,1.0,RG-50.999.0419,2013 April 25
+RG-50.999.0420_trs_en.txt,Erika N. Eckstut,Female,3,1.0,RG-50.999.0420,2013 May 01
+RG-50.999.0421_trs_en.txt,Morris Rosen,Male,3,1.0,RG-50.999.0421,2013 May 02
+RG-50.999.0422_trs_en.txt,Susan Taube,Female,3,1.0,RG-50.999.0422,2013 May 08
+RG-50.999.0423_trs_en.txt,Irene Fogel Weiss,Female,3,1.0,RG-50.999.0423,2013 May 09
+RG-50.999.0424_trs_en.txt,Dr. Gideon Frieder,Male,3,1.0,RG-50.999.0424,2013 May 15
+RG-50.999.0425_trs_en.txt,Jacqueline Birn,Female,3,1.0,RG-50.999.0425,2013 May 16
+RG-50.999.0427_trs_en.txt,Mr. Albert Garih,Male,3,1.0,RG-50.999.0427,2013 May 23
+RG-50.999.0428_trs_en.txt,Mr. Alexander Shilo,Male,3,1.0,RG-50.999.0428,2013 May 29
+RG-50.999.0429_trs_en.txt,Jill B. Pauly,Female,3,1.0,RG-50.999.0429,2013 May 30
+RG-50.999.0430_trs_en.txt,Mr. Gerald L. Liebenau,Male,3,1.0,RG-50.999.0430,2013 June 05
+RG-50.999.0431_trs_en.txt,Dr. Julius Menn,Male,3,1.0,RG-50.999.0431,2013 June 06
+RG-50.999.0432_trs_en.txt,Mr. David Bayer,Male,3,1.0,RG-50.999.0432,2013 June 12
+RG-50.999.0433_trs_en.txt,Robert Behr,Male,3,1.0,RG-50.999.0433,2013 June 13
+RG-50.999.0434_trs_en.txt,Ms. Rita Rubinstein,Female,3,1.0,RG-50.999.0434,2013 June 19
+RG-50.999.0435_trs_en.txt,Steven J. Fenves Ph.D.,Male,3,1.0,RG-50.999.0435,2013 June 20
+RG-50.999.0436_trs_en.txt,Mr. Michel Margosis,Male,3,1.0,RG-50.999.0436,2013 June 26
+RG-50.999.0438_trs_en.txt,Mr. Martin Weiss,Male,3,1.0,RG-50.999.0438,2013 July 02
+RG-50.999.0439_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.999.0439,2013 July 03
+RG-50.999.0440_trs_en.txt,Inge E. Katzenstein,Female,3,1.0,RG-50.999.0440,2013 July 10
+RG-50.999.0441_trs_en.txt,Leon Merrick,Male,3,1.0,RG-50.999.0441,2013 July 11
+RG-50.999.0442_trs_en.txt,Ms. Manya Friedman,Female,3,1.0,RG-50.999.0442,2013 July 17
+RG-50.999.0443_trs_en.txt,Mr. Harry Markowicz,Male,3,1.0,RG-50.999.0443,2013 July 18
+RG-50.999.0444_trs_en.txt,Rachel M. Goldfarb,Female,3,1.0,RG-50.999.0444,2013 July 24
+RG-50.999.0445_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.999.0445,2013 July 25
+RG-50.999.0446_trs_en.txt,Ms. Susan Warsinger,Female,3,1.0,RG-50.999.0446,2013 July 31
+RG-50.999.0447_trs_en.txt,Mr. Jacques Fein,Male,3,1.0,RG-50.999.0447,2013 August 01
+RG-50.999.0448_trs_en.txt,Estelle Laughlin,Female,3,1.0,RG-50.999.0448,2013 August 07
+RG-50.999.0449_trs_en.txt,Mr. Frank Liebermann,Male,3,1.0,RG-50.999.0449,2013 August 08
+RG-50.999.0450_trs_en.txt,Margit Meissner,Female,3,1.0,RG-50.999.0450,2013 August 14
+RG-50.999.0452_trs_en.txt,George Pick,Male,3,1.0,RG-50.999.0452,2014 March 20
+RG-50.999.0453_trs_en.txt,Mr. Henry Greenbaum,Male,3,1.0,RG-50.999.0453,2014 March 26
+RG-50.999.0454_trs_en.txt,Irene Fogel Weiss,Female,3,1.0,RG-50.999.0454,2014 March 27
+RG-50.999.0455_trs_en.txt,Ms. Fanny Aizenberg,Female,3,1.0,RG-50.999.0455,2014 April 02
+RG-50.999.0457_trs_en.txt,Regina Spiegel,Female,3,1.0,RG-50.999.0457,2014 April 09
+RG-50.999.0458_trs_en.txt,Mr. Marcel Drimer,Male,3,1.0,RG-50.999.0458,2014 April 10
+RG-50.999.0459_trs_en.txt,Robert Behr,Male,3,1.0,RG-50.999.0459,2014 April 16
+RG-50.999.0460_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0460,2014 April 17
+RG-50.999.0461_trs_en.txt,Morris Rosen,Male,3,1.0,RG-50.999.0461,2014 April 23
+RG-50.999.0462_trs_en.txt,Ms. Theodora Basch Vrančić Klayman,Female,3,1.0,RG-50.999.0462,2014 April 24
+RG-50.999.0464_trs_en.txt,Mrs. Esther Rosenfeld Starobin,Female,3,1.0,RG-50.999.0464,2014 May 01
+RG-50.999.0465_trs_en.txt,Ms. Susan Warsinger,Female,3,1.0,RG-50.999.0465,2014 May 07
+RG-50.999.0466_trs_en.txt,Robert Behr,Male,3,1.0,RG-50.999.0466,2014 May 08
+RG-50.999.0469_trs_en.txt,Josiane Traum,Female,3,1.0,RG-50.999.0469,2014 May 21
+RG-50.999.0470_trs_en.txt,Mr. Harry Markowicz,Male,3,1.0,RG-50.999.0470,2014 May 22
+RG-50.999.0471_trs_en.txt,Mr. Alexander Shilo,Male,3,1.0,RG-50.999.0471,2014 May 28
+RG-50.999.0472_trs_en.txt,Jacqueline Birn,Female,3,1.0,RG-50.999.0472,2014 May 29
+RG-50.999.0473_trs_en.txt,Sam Ponczak,Male,3,1.0,RG-50.999.0473,2014 June 04
+RG-50.999.0474_trs_en.txt,Agi Geva,Female,3,1.0,RG-50.999.0474,2014 June 05
+RG-50.999.0475_trs_en.txt,Rachel M. Goldfarb,Female,3,1.0,RG-50.999.0475,2014 June 11
+RG-50.999.0476_trs_en.txt,Mr. Marcel Drimer,Male,3,1.0,RG-50.999.0476,2014 June 12
+RG-50.999.0477_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.999.0477,2014 June 18
+RG-50.999.0478_trs_en.txt,Mr. Martin Weiss,Male,3,1.0,RG-50.999.0478,2014 June 19
+RG-50.999.0479_trs_en.txt,Mr. David Bayer,Male,3,1.0,RG-50.999.0479,2014 June 25
+RG-50.999.0480_trs_en.txt,Mr. Nathan Shaffir,Male,3,1.0,RG-50.999.0480,2014 June 26
+RG-50.999.0481_trs_en.txt,Mr. Jacques Fein,Male,3,1.0,RG-50.999.0481,2014 July 02
+RG-50.999.0482_trs_en.txt,Henry H. Kahn,Male,3,1.0,RG-50.999.0482,2014 July 03
+RG-50.999.0483_trs_en.txt,Dr. Alfred Munzer,Male,3,1.0,RG-50.999.0483,2014 July 09
+RG-50.999.0484_trs_en.txt,Mr. Michel Margosis,Male,3,1.0,RG-50.999.0484,2014 July 10
+RG-50.999.0485_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.999.0485,2014 July 16
+RG-50.999.0486_trs_en.txt,Mr. Albert Garih,Male,3,1.0,RG-50.999.0486,2014 July 17
+RG-50.999.0487_trs_en.txt,Dr. Gideon Frieder,Male,3,1.0,RG-50.999.0487,2014 July 23
+RG-50.999.0488_trs_en.txt,Mr. Frank Liebermann,Male,3,1.0,RG-50.999.0488,2014 July 24
+RG-50.999.0490_trs_en.txt,George Pick,Male,3,1.0,RG-50.999.0490,2014 July 31
+RG-50.999.0492_trs_en.txt,Jill B. Pauly,Female,3,1.0,RG-50.999.0492,2014 August 07
+RG-50.999.0493_trs_en.txt,Mr. Marcel Hodak,Male,3,1.0,RG-50.999.0493,2014 August 13
+RG-50.999.0494_trs_en.txt,Dr. Fritz P. Gluckstein,Male,3,1.0,RG-50.999.0494,2014 August 14
+RG-50.999.0495_trs_en.txt,Mr. David Bayer,Male,3,1.0,RG-50.999.0495,2015 March 18
+RG-50.999.0496_trs_en.txt,Steven J. Fenves Ph.D.,Male,3,1.0,RG-50.999.0496,2015 March 19
+RG-50.999.0497_trs_en.txt,Dr. Gideon Frieder,Male,3,1.0,RG-50.999.0497,2015 March 25
+RG-50.999.0498_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0498,2015 March 26
+RG-50.999.0499_trs_en.txt,Susan Taube,Female,3,1.0,RG-50.999.0499,2015 April 01
+RG-50.999.0500_trs_en.txt,Mr. Alexander Shilo,Male,3,1.0,RG-50.999.0500,2015 April 02
+RG-50.999.0503_trs_en.txt,Agi Geva,Female,3,1.0,RG-50.999.0503,2015 April 15
+RG-50.999.0505_trs_en.txt,Mr. Marcel Drimer,Male,3,1.0,RG-50.999.0505,2015 April 22
+RG-50.999.0507_trs_en.txt,Morris Rosen,Male,3,1.0,RG-50.999.0507,2015 April 29
+RG-50.999.0508_trs_en.txt,Mr. Nathan Shaffir,Male,3,1.0,RG-50.999.0508,2015 April 30
+RG-50.999.0509_trs_en.txt,Mr. Peter Gorog,Male,3,1.0,RG-50.999.0509,2015 May 06
+RG-50.999.0510_trs_en.txt,Josiane Traum,Female,3,1.0,RG-50.999.0510,2015 May 07
+RG-50.999.0511_trs_en.txt,Mrs. Esther Rosenfeld Starobin,Female,3,1.0,RG-50.999.0511,2015 May 13
+RG-50.999.0513_trs_en.txt,Ms. Rita Rubinstein,Female,3,1.0,RG-50.999.0513,2015 May 20
+RG-50.999.0515_trs_en.txt,Sam Ponczak,Male,3,1.0,RG-50.999.0515,2015 May 27
+RG-50.999.0516_trs_en.txt,Jill B. Pauly,Female,3,1.0,RG-50.999.0516,2015 May 28
+RG-50.999.0517_trs_en.txt,Sylvia Perelmuter Rozines,Female,3,1.0,RG-50.999.0517,2015 June 03
+RG-50.999.0518_trs_en.txt,Jacqueline Birn,Female,3,1.0,RG-50.999.0518,2015 June 04
+RG-50.999.0519_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.999.0519,2015 June 10
+RG-50.999.0521_trs_en.txt,Mr. Frank Liebermann,Male,3,1.0,RG-50.999.0521,2015 June 17
+RG-50.999.0522_trs_en.txt,Ms. Theodora Basch Vrančić Klayman,Female,3,1.0,RG-50.999.0522,2015 June 18
+RG-50.999.0523_trs_en.txt,Mr. Martin Weiss,Male,3,1.0,RG-50.999.0523,2015 June 24
+RG-50.999.0524_trs_en.txt,Henry H. Kahn,Male,3,1.0,RG-50.999.0524,2015 June 25
+RG-50.999.0525_trs_en.txt,Estelle Laughlin,Female,3,1.0,RG-50.999.0525,2015 July 01
+RG-50.999.0527_trs_en.txt,Leon Merrick,Male,3,1.0,RG-50.999.0527,2015 July 08
+RG-50.999.0528_trs_en.txt,Mr. Albert Garih,Male,3,1.0,RG-50.999.0528,2015 July 09
+RG-50.999.0529_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.999.0529,2015 July 15
+RG-50.999.0530_trs_en.txt,Mr. Harry Markowicz,Male,3,1.0,RG-50.999.0530,2015 July 16
+RG-50.999.0531_trs_en.txt,Anna Grosz,Female,3,1.0,RG-50.999.0531,2015 July 22
+RG-50.999.0532_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0532,2015 July 23
+RG-50.999.0533_trs_en.txt,Dr. Alfred Munzer,Male,3,1.0,RG-50.999.0533,2015 July 29
+RG-50.999.0534_trs_en.txt,Mr. Jacques Fein,Male,3,1.0,RG-50.999.0534,2015 July 30
+RG-50.999.0535_trs_en.txt,Rachel M. Goldfarb,Female,3,1.0,RG-50.999.0535,2015 August 05
+RG-50.999.0536_trs_en.txt,George Pick,Male,3,1.0,RG-50.999.0536,2015 August 06
+RG-50.999.0537_trs_en.txt,Ms. Susan Warsinger,Female,3,1.0,RG-50.999.0537,2015 August 12
+RG-50.999.0538_trs_en.txt,Julie Keefer,Female,3,1.0,RG-50.999.0538,2015 August 13
+RG-50.999.0539_trs_en.txt,Ms. Fanny Aizenberg,Female,3,1.0,RG-50.999.0539,2016 March 16
+RG-50.999.0540_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.999.0540,2016 March 17
+RG-50.999.0541_trs_en.txt,Dr. Alfred Munzer,Male,3,1.0,RG-50.999.0541,2016 March 23
+RG-50.999.0542_trs_en.txt,Susan Taube,Female,3,1.0,RG-50.999.0542,2016 March 24
+RG-50.999.0543_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0543,2016 March 30
+RG-50.999.0544_trs_en.txt,Mr. David Bayer,Male,3,1.0,RG-50.999.0544,2016 March 31
+RG-50.999.0545_trs_en.txt,Margit Meissner,Female,3,1.0,RG-50.999.0545,2016 April 06
+RG-50.999.0546_trs_en.txt,Steven J. Fenves Ph.D.,Male,3,1.0,RG-50.999.0546,2016 April 07
+RG-50.999.0547_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.999.0547,2016 April 13
+RG-50.999.0548_trs_en.txt,Mr. Frank Liebermann,Male,3,1.0,RG-50.999.0548,2016 April 14
+RG-50.999.0549_trs_en.txt,Sam Ponczak,Male,3,1.0,RG-50.999.0549,2016 April 20
+RG-50.999.0550_trs_en.txt,Mr. Frank Liebermann,Male,3,1.0,RG-50.999.0550,2017 April 20
+RG-50.999.0551_trs_en.txt,Anna Grosz,Female,3,1.0,RG-50.999.0551,2016 April 21
+RG-50.999.0552_trs_en.txt,Mr. Marcel Drimer,Male,3,1.0,RG-50.999.0552,2016 April 27
+RG-50.999.0555_trs_en.txt,Robert Behr,Male,3,1.0,RG-50.999.0555,2016 May 05
+RG-50.999.0556_trs_en.txt,George Pick,Male,3,1.0,RG-50.999.0556,2016 May 11
+RG-50.999.0557_trs_en.txt,Dr. Julius Menn,Male,3,1.0,RG-50.999.0557,2016 May 12
+RG-50.999.0558_trs_en.txt,Dr. Gideon Frieder,Male,3,1.0,RG-50.999.0558,2016 May 18
+RG-50.999.0559_trs_en.txt,Irene Fogel Weiss,Female,3,1.0,RG-50.999.0559,2016 May 19
+RG-50.999.0560_trs_en.txt,Mr. Nathan Shaffir,Male,3,1.0,RG-50.999.0560,2016 May 25
+RG-50.999.0561_trs_en.txt,Mrs. Esther Rosenfeld Starobin,Female,3,1.0,RG-50.999.0561,2016 May 26
+RG-50.999.0563_trs_en.txt,Mr. Albert Garih,Male,3,1.0,RG-50.999.0563,2016 June 02
+RG-50.999.0565_trs_en.txt,Julie Keefer,Female,3,1.0,RG-50.999.0565,2016 June 09
+RG-50.999.0566_trs_en.txt,Dr. Fritz P. Gluckstein,Male,3,1.0,RG-50.999.0566,2016 June 15
+RG-50.999.0567_trs_en.txt,Ms. Susan Warsinger,Female,3,1.0,RG-50.999.0567,2016 June 16
+RG-50.999.0568_trs_en.txt,Ms. Rita Rubinstein,Female,3,1.0,RG-50.999.0568,2016 June 22
+RG-50.999.0569_trs_en.txt,Henry H. Kahn,Male,3,1.0,RG-50.999.0569,2016 June 23
+RG-50.999.0570_trs_en.txt,Rachel M. Goldfarb,Female,3,1.0,RG-50.999.0570,2016 June 29
+RG-50.999.0572_trs_en.txt,Jill B. Pauly,Female,3,1.0,RG-50.999.0572,2016 July 06
+RG-50.999.0573_trs_en.txt,Ms. Theodora Basch Vrančić Klayman,Female,3,1.0,RG-50.999.0573,2016 July 07
+RG-50.999.0574_trs_en.txt,Mr. Michel Margosis,Male,3,1.0,RG-50.999.0574,2016 July 13
+RG-50.999.0575_trs_en.txt,Mr. Martin Weiss,Male,3,1.0,RG-50.999.0575,2016 July 14
+RG-50.999.0576_trs_en.txt,Josiane Traum,Female,3,1.0,RG-50.999.0576,2016 July 20
+RG-50.999.0577_trs_en.txt,Estelle Laughlin,Female,3,1.0,RG-50.999.0577,2016 July 21
+RG-50.999.0578_trs_en.txt,Mr. Henry Greenbaum,Male,3,1.0,RG-50.999.0578,2016 July 27
+RG-50.999.0579_trs_en.txt,Mr. Frank Liebermann,Male,3,1.0,RG-50.999.0579,2016 July 28
+RG-50.999.0581_trs_en.txt,Agi Geva,Female,3,1.0,RG-50.999.0581,2016 August 04
+RG-50.999.0584_trs_en.txt,Ms. Fanny Aizenberg,Female,3,1.0,RG-50.999.0584,2017 March 15
+RG-50.999.0585_trs_en.txt,Susan Taube,Female,3,1.0,RG-50.999.0585,2017 March 16
+RG-50.999.0586_trs_en.txt,Ms. Susan Warsinger,Female,3,1.0,RG-50.999.0586,2017 March 22
+RG-50.999.0587_trs_en.txt,Dr. Alfred Munzer,Male,3,1.0,RG-50.999.0587,2017 March 23
+RG-50.999.0588_trs_en.txt,Mr. David Bayer,Male,3,1.0,RG-50.999.0588,2017 March 29
+RG-50.999.0589_trs_en.txt,Henry H. Kahn,Male,3,1.0,RG-50.999.0589,2017 March 30
+RG-50.999.0590_trs_en.txt,Ms. Theodora Basch Vrančić Klayman,Female,3,1.0,RG-50.999.0590,2017 April 05
+RG-50.999.0591_trs_en.txt,Irene Fogel Weiss,Female,3,1.0,RG-50.999.0591,2017 April 06
+RG-50.999.0592_trs_en.txt,Mr. Henry Greenbaum,Male,3,1.0,RG-50.999.0592,2017 April 12
+RG-50.999.0593_trs_en.txt,Rachel M. Goldfarb,Female,3,1.0,RG-50.999.0593,2017 April 13
+RG-50.999.0594_trs_en.txt,Mr. Alexander Shilo,Male,3,1.0,RG-50.999.0594,2017 April 19
+RG-50.999.0595_trs_en.txt,Robert Behr,Male,3,1.0,RG-50.999.0595,2017 April 26
+RG-50.999.0596_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0596,2017 April 27
+RG-50.999.0597_trs_en.txt,Ms. Nesse G. Godin,Female,3,1.0,RG-50.999.0597,2017 May 03
+RG-50.999.0598_trs_en.txt,Mr. Martin Weiss,Male,3,1.0,RG-50.999.0598,2017 May 04
+RG-50.999.0599_trs_en.txt,Jacqueline Birn,Female,3,1.0,RG-50.999.0599,2017 May 10
+RG-50.999.0600_trs_en.txt,Mr. Peter Gorog,Male,3,1.0,RG-50.999.0600,2017 May 11
+RG-50.999.0601_trs_en.txt,Mr. Nathan Shaffir,Male,3,1.0,RG-50.999.0601,2017 May 17
+RG-50.999.0602_trs_en.txt,Dr. Julius Menn,Male,3,1.0,RG-50.999.0602,2017 May 18
+RG-50.999.0603_trs_en.txt,Sylvia Perelmuter Rozines,Female,3,1.0,RG-50.999.0603,2017 May 24
+RG-50.999.0604_trs_en.txt,Mr. Marcel Drimer,Male,3,1.0,RG-50.999.0604,2017 May 25
+RG-50.999.0605_trs_en.txt,Margit Meissner,Female,3,1.0,RG-50.999.0605,2017 May 31
+RG-50.999.0607_trs_en.txt,Jill B. Pauly,Female,3,1.0,RG-50.999.0607,2017 June 07
+RG-50.999.0608_trs_en.txt,Mr. Kurt Pauly,Male,3,1.0,RG-50.999.0608,2017 June 08
+RG-50.999.0609_trs_en.txt,Mr. Michel Margosis,Male,3,1.0,RG-50.999.0609,2017 June 14
+RG-50.999.0610_trs_en.txt,Mr. Albert Garih,Male,3,1.0,RG-50.999.0610,2017 June 15
+RG-50.999.0612_trs_en.txt,Julie Keefer,Female,3,1.0,RG-50.999.0612,2017 June 21
+RG-50.999.0613_trs_en.txt,Mrs. Esther Rosenfeld Starobin,Female,3,1.0,RG-50.999.0613,2017 June 22
+RG-50.999.0614_trs_en.txt,Dr. Alfred Munzer,Male,3,1.0,RG-50.999.0614,2017 June 28
+RG-50.999.0615_trs_en.txt,Steven J. Fenves Ph.D.,Male,3,1.0,RG-50.999.0615,2017 June 29
+RG-50.999.0616_trs_en.txt,Anna Grosz,Female,3,1.0,RG-50.999.0616,2017 July 05
+RG-50.999.0617_trs_en.txt,Mr. Harry Markowicz,Male,3,1.0,RG-50.999.0617,2017 July 06
+RG-50.999.0618_trs_en.txt,Estelle Laughlin,Female,3,1.0,RG-50.999.0618,2017 July 12
+RG-50.999.0619_trs_en.txt,Fred Flatow,Male,3,1.0,RG-50.999.0619,2017 July 13
+RG-50.999.0620_trs_en.txt,Mr. Marcel Hodak,Male,3,1.0,RG-50.999.0620,2017 July 19
+RG-50.999.0621_trs_en.txt,Dr. Fritz P. Gluckstein,Male,3,1.0,RG-50.999.0621,2017 July 20
+RG-50.999.0625_trs_en.txt,Josiane Traum,Female,3,1.0,RG-50.999.0625,2017 July 27
+RG-50.999.0627_trs_en.txt,Fred Kahn,Male,3,1.0,RG-50.999.0627,2017 August 02
+RG-50.999.0628_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.999.0628,2017 August 03
+RG-50.999.0630_trs_en.txt,Ms. Rita Rubinstein,Female,3,1.0,RG-50.999.0630,2017 August 10
