@@ -13,3 +13,5 @@ preprocess_trs_txt
 preprocess_trs_txt/
 pdfs
 pdfs/
+
+STM-topic-extract/data/
