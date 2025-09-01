@@ -1,0 +1,3 @@
+filename,interviewee,predicted_gender,confidence_count,confidence_ratio,rg_number,interview_date,interviewer
+RG-50.030.0001_trs_en.txt,David A. Kochalski,Male,3,1.0,RG-50.030.0001,1994 July 28,Randy M. Goldman; Randy M. Goldman
+RG-50.030.0023_trs_en.txt,Kate Bernath,Female,3,1.0,RG-50.030.0023,1990 March 22,Linda G. Kuzmack; Linda G. Kuzmack

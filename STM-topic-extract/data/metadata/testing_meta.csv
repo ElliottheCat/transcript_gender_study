@@ -1,0 +1,58 @@
+filename,interviewee,predicted_gender,confidence_count,confidence_ratio,rg_number,interview_date,interviewer
+RG-50.030.0001_trs_en.txt,David A. Kochalski,Male,3,1.0,RG-50.030.0001,1994 July 28,Randy M. Goldman; Randy M. Goldman
+RG-50.030.0023_trs_en.txt,Kate Bernath,Female,3,1.0,RG-50.030.0023,1990 March 22,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0074_trs_en.txt,Herbert Friedman,Male,3,1.0,RG-50.030.0074,1992 June 12,Michael Berenbaum; Dr. Joan Ringelheim
+RG-50.030.0076_trs_en.txt,Ms. Renée S. Fritz,Female,3,1.0,RG-50.030.0076,1989 October 22,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0097_trs_en.txt,Ivo Herzer,Male,3,1.0,RG-50.030.0097,1989 September 13,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0128_trs_en.txt,Joseph Levine,Male,3,1.0,RG-50.030.0128,1990 September 11,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0147_trs_en.txt,Mr. Manny Mandel,Male,3,1.0,RG-50.030.0147,1989 June 23,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0168_trs_en.txt,Ms. Lisa Murik,Female,3,1.0,RG-50.030.0168,1989 May 30,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0176_trs_en.txt,Mrs. Bella S. Pasternak,Female,3,1.0,RG-50.030.0176,1994 April 21,Dr. Joan Ringelheim; Dr. Joan Ringelheim
+RG-50.030.0181_trs_en.txt,Major Henry G. Plitt,Male,3,1.0,RG-50.030.0181,1992 January 23,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0233_trs_en.txt,Kurt M. Thomas,Male,3,1.0,RG-50.030.0233,1990 November 09,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0268_trs_en.txt,William D. Denson,Male,3,1.0,RG-50.030.0268,1994 August 25,Dr. Joan Ringelheim; Dr. Joan Ringelheim
+RG-50.030.0270_trs_en.txt,Rose S. Warner,Female,3,1.0,RG-50.030.0270,1994 September 12,Randy M. Goldman; Randy M. Goldman
+RG-50.030.0292_trs_en.txt,Abraham Resnick,Male,3,1.0,RG-50.030.0292,1994 September 22,Randy M. Goldman; Randy M. Goldman
+RG-50.030.0306_trs_en.txt,Arnold H. Einhorn,Male,3,1.0,RG-50.030.0306,1995 March 01,Randy M. Goldman; Randy M. Goldman
+RG-50.030.0315_trs_en.txt,Avraham Tory; Dr. Joel Elkes,Male,3,1.0,RG-50.030.0315,1991 September 26,Linda G. Kuzmack; Linda G. Kuzmack
+RG-50.030.0356_trs_en.txt,Ms. Flora Singer,Female,3,1.0,RG-50.030.0356,1995 December 12,Randy M. Goldman; Randy M. Goldman
+RG-50.030.0388_trs_en.txt,Samuel Makower,Male,3,1.0,RG-50.030.0388,1998 June 15,Randy M. Goldman; Randy M. Goldman
+RG-50.030.0413_trs_en.txt,Miles Lerman,Male,3,1.0,RG-50.030.0413,2001 July 17,Dr. Joan Ringelheim; Dr. Joan Ringelheim
+RG-50.030.0461_trs_en.txt,Louise Segaar,Female,3,1.0,RG-50.030.0461,2000 November 10,Katie Davis; Katie Davis
+RG-50.030.0510_trs_en.txt,Lillyan Rosenberg,Female,3,1.0,RG-50.030.0510,2006 August 31,Amy Rubin; Amy Rubin
+RG-50.030.0519_trs_en.txt,Asa Shapiro,Male,3,1.0,RG-50.030.0519,2007 July 07,Sidney M. Bolkosky; Sidney M. Bolkosky
+RG-50.030.0527_trs_en.txt,Ms. Ada Ustjanauskas,Female,3,1.0,RG-50.030.0527,2008 November 17,Ina Navazelskis; Ina Navazelskis
+RG-50.030.0529_trs_en.txt,Mr. Sholom Rosenheck,Male,3,1.0,RG-50.030.0529,2009 May 20,Miss Julie Oswald; Miss Julie Oswald
+RG-50.030.0556_trs_en.txt,Renee Schiller,Female,3,1.0,RG-50.030.0556,2008 November 09,Stephanie Blyskal; Stephanie Blyskal
+RG-50.030.0601_trs_en.txt,Ms. Hanny Leitson,Female,3,1.0,RG-50.030.0601,2010 October 15,Ann E. Erling Gofus; Ann E. Erling Gofus
+RG-50.030.0608_trs_en.txt,Algimantas Gureckas,Male,3,1.0,RG-50.030.0608,2010 October 14,Ina Navazelskis; Ina Navazelskis
+RG-50.030.0657_trs_en.txt,Mr. Pranas Jurkus,Male,3,1.0,RG-50.030.0657,2012 April 30,Ina Navazelskis; Ina Navazelskis
+RG-50.106.0079_trs_en.txt,Mr. Kurt Pauly,Male,3,1.0,RG-50.106.0079,1997 November 18,Margaret Garrett; Margaret Garrett
+RG-50.106.0143_trs_en.txt,Mr. Fred H. Taucher,Male,3,1.0,RG-50.106.0143,2001 April 26,Gail Schwartz; Gail Schwartz
+RG-50.106.0152_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.106.0152,2002 June 03,Esther Finder; Esther Finder
+RG-50.233.0011_trs_en.txt,Maria Brieger,Female,3,1.0,RG-50.233.0011,1992 March 29,Anthony DiIorio; Anthony DiIorio
+RG-50.233.0042_trs_en.txt,Matvey Gredinger,Male,3,1.0,RG-50.233.0042,1992 April 24,Anthony Young; Anthony Young
+RG-50.233.0055_trs_en.txt,William Himmelfarb,Male,3,1.0,RG-50.233.0055,1992 April 12,Anthony DiIorio; Anthony DiIorio
+RG-50.233.0125_trs_en.txt,Mrs. Irene Shapiro,Female,3,1.0,RG-50.233.0125,1992 March 27,Anthony DiIorio; Anthony DiIorio
+RG-50.233.0135_trs_en.txt,Walter Taranowicz,Male,3,1.0,RG-50.233.0135,1992 April 16,Anthony DiIorio; Anthony DiIorio
+RG-50.344.0008_trs_en.txt,Ellen Marchese,Female,3,1.0,RG-50.344.0008,1995 July 15,Neenah Ellis; Neenah Ellis
+RG-50.470.0023_trs_en.txt,Irene Weber,Female,3,1.0,RG-50.470.0023,1995 February 21,Sandra Bradley
+RG-50.471.0010_trs_en.txt,Jacob Lewin,Male,3,1.0,RG-50.471.0010,1997 June 02,Sandra Bradley
+RG-50.549.02.0006_trs_en.txt,Agnes Vogel,Female,3,1.0,RG-50.549.02.0006,1997 July 09,Dan Gedimen; Dan Gedimen
+RG-50.549.02.0021_trs_en.txt,Mr. Francis Akos,Male,3,1.0,RG-50.549.02.0021,1998 September 23,Gary Covino; Gary Covino
+RG-50.549.02.0036_trs_en.txt,Leo Hanin,Male,3,1.0,RG-50.549.02.0036,1999 January 22,Ginger Miles; Ginger Miles
+RG-50.549.02.0037_trs_en.txt,Jack Ahrens,Male,3,1.0,RG-50.549.02.0037,1999 January 27,Karen Michel; Karen Michel
+RG-50.549.02.0052_trs_en.txt,Norman Salsitz,Male,3,1.0,RG-50.549.02.0052,1999 July 06,Regine Beyer
+RG-50.549.02.0059_trs_en.txt,Estelle Klipp,Female,3,1.0,RG-50.549.02.0059,1999 July 16,Regine Beyer
+RG-50.549.05.0005_trs_en.txt,Ann Klein,Female,3,1.0,RG-50.549.05.0005,1999 July 15,NULL
+RG-50.999.0419_trs_en.txt,Mr. Gerald Schwab,Male,3,1.0,RG-50.999.0419,2013 April 25,NULL
+RG-50.999.0454_trs_en.txt,Irene Fogel Weiss,Female,3,1.0,RG-50.999.0454,2014 March 27,NULL
+RG-50.999.0460_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0460,2014 April 17,NULL
+RG-50.999.0464_trs_en.txt,Mrs. Esther Rosenfeld Starobin,Female,3,1.0,RG-50.999.0464,2014 May 01,NULL
+RG-50.999.0482_trs_en.txt,Henry H. Kahn,Male,3,1.0,RG-50.999.0482,2014 July 03,NULL
+RG-50.999.0490_trs_en.txt,George Pick,Male,3,1.0,RG-50.999.0490,2014 July 31,NULL
+RG-50.999.0508_trs_en.txt,Mr. Nathan Shaffir,Male,3,1.0,RG-50.999.0508,2015 April 30,NULL
+RG-50.999.0532_trs_en.txt,Ms. Halina Peabody,Female,3,1.0,RG-50.999.0532,2015 July 23,NULL
+RG-50.999.0585_trs_en.txt,Susan Taube,Female,3,1.0,RG-50.999.0585,2017 March 16,NULL
+RG-50.999.0610_trs_en.txt,Mr. Albert Garih,Male,3,1.0,RG-50.999.0610,2017 June 15,NULL
+RG-50.999.0616_trs_en.txt,Anna Grosz,Female,3,1.0,RG-50.999.0616,2017 July 05,NULL

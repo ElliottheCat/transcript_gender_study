@@ -1,0 +1,501 @@
+doc_id,topic,gender,interviewer,gamma
+RG-50.030.0006_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.375102658993122
+RG-50.030.0006_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.114103513369144
+RG-50.030.0006_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.289149558623175
+RG-50.030.0006_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.102487901002022
+RG-50.030.0006_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.119156368012537
+RG-50.030.0014_trs_en.txt,1,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0138964263599387
+RG-50.030.0014_trs_en.txt,2,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.00137037952389515
+RG-50.030.0014_trs_en.txt,3,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.389897815363271
+RG-50.030.0014_trs_en.txt,4,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.163456806141625
+RG-50.030.0014_trs_en.txt,5,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.431378572611271
+RG-50.030.0016_trs_en.txt,1,Male,Randy M. Goldman; Randy M. Goldman,0.646898716815906
+RG-50.030.0016_trs_en.txt,2,Male,Randy M. Goldman; Randy M. Goldman,0.00583643452063859
+RG-50.030.0016_trs_en.txt,3,Male,Randy M. Goldman; Randy M. Goldman,0.0762829402215065
+RG-50.030.0016_trs_en.txt,4,Male,Randy M. Goldman; Randy M. Goldman,0.0556547799790455
+RG-50.030.0016_trs_en.txt,5,Male,Randy M. Goldman; Randy M. Goldman,0.215327128462903
+RG-50.030.0038_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.325987247405484
+RG-50.030.0038_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0180962972684253
+RG-50.030.0038_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.535727506315259
+RG-50.030.0038_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0364790579190464
+RG-50.030.0038_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0837098910917858
+RG-50.030.0054_trs_en.txt,1,Female,Adina Conn; Adina Conn,0.00280217710533775
+RG-50.030.0054_trs_en.txt,2,Female,Adina Conn; Adina Conn,0.001308719297234
+RG-50.030.0054_trs_en.txt,3,Female,Adina Conn; Adina Conn,0.891855135793498
+RG-50.030.0054_trs_en.txt,4,Female,Adina Conn; Adina Conn,0.0619947275025914
+RG-50.030.0054_trs_en.txt,5,Female,Adina Conn; Adina Conn,0.0420392403013388
+RG-50.030.0063_trs_en.txt,1,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0423947649217778
+RG-50.030.0063_trs_en.txt,2,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.803240226707774
+RG-50.030.0063_trs_en.txt,3,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.106436783756951
+RG-50.030.0063_trs_en.txt,4,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.040809865769522
+RG-50.030.0063_trs_en.txt,5,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.00711835884397521
+RG-50.030.0069_trs_en.txt,1,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0712804607463127
+RG-50.030.0069_trs_en.txt,2,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0021817466056735
+RG-50.030.0069_trs_en.txt,3,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.445690120396724
+RG-50.030.0069_trs_en.txt,4,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.415395515511546
+RG-50.030.0069_trs_en.txt,5,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0654521567397435
+RG-50.030.0074_trs_en.txt,1,Male,Michael Berenbaum; Dr. Joan Ringelheim,0.0511042741792221
+RG-50.030.0074_trs_en.txt,2,Male,Michael Berenbaum; Dr. Joan Ringelheim,0.0192848549101709
+RG-50.030.0074_trs_en.txt,3,Male,Michael Berenbaum; Dr. Joan Ringelheim,0.834498532526309
+RG-50.030.0074_trs_en.txt,4,Male,Michael Berenbaum; Dr. Joan Ringelheim,0.0608126830621839
+RG-50.030.0074_trs_en.txt,5,Male,Michael Berenbaum; Dr. Joan Ringelheim,0.0342996553221137
+RG-50.030.0092_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.638902268970965
+RG-50.030.0092_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.00161989132970084
+RG-50.030.0092_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.163806115295731
+RG-50.030.0092_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0459353856265974
+RG-50.030.0092_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.149736338777005
+RG-50.030.0095_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.18486931560104
+RG-50.030.0095_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0242621669574799
+RG-50.030.0095_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.430675432076457
+RG-50.030.0095_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0543251204961464
+RG-50.030.0095_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.305867964868877
+RG-50.030.0103_trs_en.txt,1,Male,Holly Snyder; Holly Snyder,0.0007129318882284
+RG-50.030.0103_trs_en.txt,2,Male,Holly Snyder; Holly Snyder,0.697990620029263
+RG-50.030.0103_trs_en.txt,3,Male,Holly Snyder; Holly Snyder,0.131553328027967
+RG-50.030.0103_trs_en.txt,4,Male,Holly Snyder; Holly Snyder,0.137913781774168
+RG-50.030.0103_trs_en.txt,5,Male,Holly Snyder; Holly Snyder,0.0318293382803733
+RG-50.030.0104_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.364355962183453
+RG-50.030.0104_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.00543281831578273
+RG-50.030.0104_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.511995691386002
+RG-50.030.0104_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0599970874777305
+RG-50.030.0104_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0582184406370322
+RG-50.030.0122_trs_en.txt,1,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.00535852554303843
+RG-50.030.0122_trs_en.txt,2,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.00108356807997461
+RG-50.030.0122_trs_en.txt,3,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.844384379356473
+RG-50.030.0122_trs_en.txt,4,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.117230836831043
+RG-50.030.0122_trs_en.txt,5,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0319426901894709
+RG-50.030.0123_trs_en.txt,1,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0425280671738427
+RG-50.030.0123_trs_en.txt,2,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.00113851855744271
+RG-50.030.0123_trs_en.txt,3,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.821996417559104
+RG-50.030.0123_trs_en.txt,4,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0751904361071089
+RG-50.030.0123_trs_en.txt,5,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0591465606025017
+RG-50.030.0135_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0499208723506586
+RG-50.030.0135_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.00526999739031806
+RG-50.030.0135_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.849049491052002
+RG-50.030.0135_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0591469152403461
+RG-50.030.0135_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0366127239666751
+RG-50.030.0186_trs_en.txt,1,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0134714515655703
+RG-50.030.0186_trs_en.txt,2,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.00359653365381711
+RG-50.030.0186_trs_en.txt,3,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.182497676492021
+RG-50.030.0186_trs_en.txt,4,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.0565644490922007
+RG-50.030.0186_trs_en.txt,5,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.743869889196391
+RG-50.030.0200_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.611506241391752
+RG-50.030.0200_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.00597631517823532
+RG-50.030.0200_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.130683055415167
+RG-50.030.0200_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0907038577021338
+RG-50.030.0200_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.161130530312711
+RG-50.030.0211_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.748002719511895
+RG-50.030.0211_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.00182763565607297
+RG-50.030.0211_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0871084841553857
+RG-50.030.0211_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0569809661610165
+RG-50.030.0211_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.10608019451563
+RG-50.030.0215_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.492147576841997
+RG-50.030.0215_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.00159502610105842
+RG-50.030.0215_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.172173949264473
+RG-50.030.0215_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0702545053528463
+RG-50.030.0215_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.263828942439626
+RG-50.030.0217_trs_en.txt,1,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.417404485295288
+RG-50.030.0217_trs_en.txt,2,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.00141120077740295
+RG-50.030.0217_trs_en.txt,3,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0416131710776519
+RG-50.030.0217_trs_en.txt,4,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.0556771829316874
+RG-50.030.0217_trs_en.txt,5,Male,Linda G. Kuzmack; Linda G. Kuzmack,0.48389395991797
+RG-50.030.0264_trs_en.txt,1,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.00901810029509118
+RG-50.030.0264_trs_en.txt,2,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.00153994161283223
+RG-50.030.0264_trs_en.txt,3,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.555624013736985
+RG-50.030.0264_trs_en.txt,4,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.145151997997734
+RG-50.030.0264_trs_en.txt,5,Female,Linda G. Kuzmack; Linda G. Kuzmack,0.288665946357357
+RG-50.030.0276_trs_en.txt,1,Male,Dr. Radu Ioanid; Dr. Radu Ioanid,0.655688246486642
+RG-50.030.0276_trs_en.txt,2,Male,Dr. Radu Ioanid; Dr. Radu Ioanid,0.0108510192719761
+RG-50.030.0276_trs_en.txt,3,Male,Dr. Radu Ioanid; Dr. Radu Ioanid,0.0567023809115974
+RG-50.030.0276_trs_en.txt,4,Male,Dr. Radu Ioanid; Dr. Radu Ioanid,0.0921297378649936
+RG-50.030.0276_trs_en.txt,5,Male,Dr. Radu Ioanid; Dr. Radu Ioanid,0.184628615464791
+RG-50.030.0284_trs_en.txt,1,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0570906843693617
+RG-50.030.0284_trs_en.txt,2,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0647426879612311
+RG-50.030.0284_trs_en.txt,3,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.748783847020706
+RG-50.030.0284_trs_en.txt,4,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0408687068458751
+RG-50.030.0284_trs_en.txt,5,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0885140738028266
+RG-50.030.0293_trs_en.txt,1,Female,Sandra Bradley; Sandra Bradley,0.0345496355459243
+RG-50.030.0293_trs_en.txt,2,Female,Sandra Bradley; Sandra Bradley,0.0125341735054469
+RG-50.030.0293_trs_en.txt,3,Female,Sandra Bradley; Sandra Bradley,0.822597363083513
+RG-50.030.0293_trs_en.txt,4,Female,Sandra Bradley; Sandra Bradley,0.0904713179653588
+RG-50.030.0293_trs_en.txt,5,Female,Sandra Bradley; Sandra Bradley,0.0398475098997571
+RG-50.030.0301_trs_en.txt,1,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0527140044387031
+RG-50.030.0301_trs_en.txt,2,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.861220820264055
+RG-50.030.0301_trs_en.txt,3,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0289440308151806
+RG-50.030.0301_trs_en.txt,4,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0318275131132746
+RG-50.030.0301_trs_en.txt,5,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0252936313687869
+RG-50.030.0314_trs_en.txt,1,Male,Randy M. Goldman; Randy M. Goldman,0.0258094852062636
+RG-50.030.0314_trs_en.txt,2,Male,Randy M. Goldman; Randy M. Goldman,0.218652738849175
+RG-50.030.0314_trs_en.txt,3,Male,Randy M. Goldman; Randy M. Goldman,0.564468848178322
+RG-50.030.0314_trs_en.txt,4,Male,Randy M. Goldman; Randy M. Goldman,0.0886486268662833
+RG-50.030.0314_trs_en.txt,5,Male,Randy M. Goldman; Randy M. Goldman,0.102420300899956
+RG-50.030.0330_trs_en.txt,1,Male,Judith Goldstein; Judith Goldstein,0.000813111787485331
+RG-50.030.0330_trs_en.txt,2,Male,Judith Goldstein; Judith Goldstein,0.646632975110573
+RG-50.030.0330_trs_en.txt,3,Male,Judith Goldstein; Judith Goldstein,0.00642091210944763
+RG-50.030.0330_trs_en.txt,4,Male,Judith Goldstein; Judith Goldstein,0.123978790280868
+RG-50.030.0330_trs_en.txt,5,Male,Judith Goldstein; Judith Goldstein,0.222154210711626
+RG-50.030.0335_trs_en.txt,1,Male,Randy M. Goldman; Randy M. Goldman,0.0257595355016389
+RG-50.030.0335_trs_en.txt,2,Male,Randy M. Goldman; Randy M. Goldman,0.00838449142168528
+RG-50.030.0335_trs_en.txt,3,Male,Randy M. Goldman; Randy M. Goldman,0.919732922480832
+RG-50.030.0335_trs_en.txt,4,Male,Randy M. Goldman; Randy M. Goldman,0.0369044139934346
+RG-50.030.0335_trs_en.txt,5,Male,Randy M. Goldman; Randy M. Goldman,0.00921863660240951
+RG-50.030.0358_trs_en.txt,1,Female,Randy M. Goldman; Randy M. Goldman,0.860935587800008
+RG-50.030.0358_trs_en.txt,2,Female,Randy M. Goldman; Randy M. Goldman,0.00151943623046363
+RG-50.030.0358_trs_en.txt,3,Female,Randy M. Goldman; Randy M. Goldman,0.0165739060109377
+RG-50.030.0358_trs_en.txt,4,Female,Randy M. Goldman; Randy M. Goldman,0.0809583691642297
+RG-50.030.0358_trs_en.txt,5,Female,Randy M. Goldman; Randy M. Goldman,0.0400127007943611
+RG-50.030.0400_trs_en.txt,1,Female,Katie Davis; Katie Davis,0.883327542166276
+RG-50.030.0400_trs_en.txt,2,Female,Katie Davis; Katie Davis,0.000113800573090862
+RG-50.030.0400_trs_en.txt,3,Female,Katie Davis; Katie Davis,0.000230876267633926
+RG-50.030.0400_trs_en.txt,4,Female,Katie Davis; Katie Davis,0.115816094830451
+RG-50.030.0400_trs_en.txt,5,Female,Katie Davis; Katie Davis,0.000511686162548608
+RG-50.030.0406_trs_en.txt,1,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.27131641048979
+RG-50.030.0406_trs_en.txt,2,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.554805196453911
+RG-50.030.0406_trs_en.txt,3,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0149478151949355
+RG-50.030.0406_trs_en.txt,4,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.138293316792785
+RG-50.030.0406_trs_en.txt,5,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0206372610685783
+RG-50.030.0412_trs_en.txt,1,Female,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.699900989946472
+RG-50.030.0412_trs_en.txt,2,Female,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.013725530925739
+RG-50.030.0412_trs_en.txt,3,Female,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0312161303258247
+RG-50.030.0412_trs_en.txt,4,Female,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.138823228299661
+RG-50.030.0412_trs_en.txt,5,Female,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.116334120502303
+RG-50.030.0416_trs_en.txt,1,Male,Ina Navazelskis; Ina Navazelskis,0.523440497390907
+RG-50.030.0416_trs_en.txt,2,Male,Ina Navazelskis; Ina Navazelskis,0.00516944866131252
+RG-50.030.0416_trs_en.txt,3,Male,Ina Navazelskis; Ina Navazelskis,0.00346594912148777
+RG-50.030.0416_trs_en.txt,4,Male,Ina Navazelskis; Ina Navazelskis,0.426329936160528
+RG-50.030.0416_trs_en.txt,5,Male,Ina Navazelskis; Ina Navazelskis,0.041594168665765
+RG-50.030.0423_trs_en.txt,1,Male,Chris Johnson; Chris Johnson,0.136731259673126
+RG-50.030.0423_trs_en.txt,2,Male,Chris Johnson; Chris Johnson,0.00210096133265598
+RG-50.030.0423_trs_en.txt,3,Male,Chris Johnson; Chris Johnson,0.275422761856128
+RG-50.030.0423_trs_en.txt,4,Male,Chris Johnson; Chris Johnson,0.079620022401416
+RG-50.030.0423_trs_en.txt,5,Male,Chris Johnson; Chris Johnson,0.506124994736674
+RG-50.030.0424_trs_en.txt,1,Male,Randy M. Goldman; Randy M. Goldman,0.588710512363583
+RG-50.030.0424_trs_en.txt,2,Male,Randy M. Goldman; Randy M. Goldman,0.00785048743206015
+RG-50.030.0424_trs_en.txt,3,Male,Randy M. Goldman; Randy M. Goldman,0.0802044190294915
+RG-50.030.0424_trs_en.txt,4,Male,Randy M. Goldman; Randy M. Goldman,0.0830065800959177
+RG-50.030.0424_trs_en.txt,5,Male,Randy M. Goldman; Randy M. Goldman,0.240228001078948
+RG-50.030.0443_trs_en.txt,1,Male,Mr. Scott Miller; Mr. Scott Miller,0.066781979361822
+RG-50.030.0443_trs_en.txt,2,Male,Mr. Scott Miller; Mr. Scott Miller,0.106741661977087
+RG-50.030.0443_trs_en.txt,3,Male,Mr. Scott Miller; Mr. Scott Miller,0.710809082506076
+RG-50.030.0443_trs_en.txt,4,Male,Mr. Scott Miller; Mr. Scott Miller,0.0528799081793693
+RG-50.030.0443_trs_en.txt,5,Male,Mr. Scott Miller; Mr. Scott Miller,0.0627873679756463
+RG-50.030.0482_trs_en.txt,1,Female,Vera Frankl; Vera Frankl,0.00978639689581268
+RG-50.030.0482_trs_en.txt,2,Female,Vera Frankl; Vera Frankl,0.000204279493713364
+RG-50.030.0482_trs_en.txt,3,Female,Vera Frankl; Vera Frankl,0.000108452741101061
+RG-50.030.0482_trs_en.txt,4,Female,Vera Frankl; Vera Frankl,0.0274788016307791
+RG-50.030.0482_trs_en.txt,5,Female,Vera Frankl; Vera Frankl,0.962422069238594
+RG-50.030.0518_trs_en.txt,1,Female,Sidney M. Bolkosky; Sidney M. Bolkosky,0.593341687678197
+RG-50.030.0518_trs_en.txt,2,Female,Sidney M. Bolkosky; Sidney M. Bolkosky,0.000517966268719781
+RG-50.030.0518_trs_en.txt,3,Female,Sidney M. Bolkosky; Sidney M. Bolkosky,0.0213313177806412
+RG-50.030.0518_trs_en.txt,4,Female,Sidney M. Bolkosky; Sidney M. Bolkosky,0.366231195555679
+RG-50.030.0518_trs_en.txt,5,Female,Sidney M. Bolkosky; Sidney M. Bolkosky,0.0185778327167631
+RG-50.030.0534_trs_en.txt,1,Female,Peggy Frankston; Peggy Frankston,0.0290757034671731
+RG-50.030.0534_trs_en.txt,2,Female,Peggy Frankston; Peggy Frankston,0.00491862766753295
+RG-50.030.0534_trs_en.txt,3,Female,Peggy Frankston; Peggy Frankston,0.0026827603124653
+RG-50.030.0534_trs_en.txt,4,Female,Peggy Frankston; Peggy Frankston,0.277929539668936
+RG-50.030.0534_trs_en.txt,5,Female,Peggy Frankston; Peggy Frankston,0.685393368883893
+RG-50.030.0547_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.104156043171101
+RG-50.030.0547_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.000518691602699911
+RG-50.030.0547_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.0145388204525643
+RG-50.030.0547_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.358740844749052
+RG-50.030.0547_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.522045600024582
+RG-50.030.0590_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.691894291096823
+RG-50.030.0590_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.00036984296450133
+RG-50.030.0590_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.00433866513883345
+RG-50.030.0590_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.26147210830699
+RG-50.030.0590_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.0419250924928525
+RG-50.030.0591_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.207365403502432
+RG-50.030.0591_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.00133501741081437
+RG-50.030.0591_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.00627580450179728
+RG-50.030.0591_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.693310898293274
+RG-50.030.0591_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.0917128762916817
+RG-50.030.0592_trs_en.txt,1,Male,Ann E. Erling Gofus; Ann E. Erling Gofus,0.0651734821184077
+RG-50.030.0592_trs_en.txt,2,Male,Ann E. Erling Gofus; Ann E. Erling Gofus,0.123010592570833
+RG-50.030.0592_trs_en.txt,3,Male,Ann E. Erling Gofus; Ann E. Erling Gofus,0.232897045109725
+RG-50.030.0592_trs_en.txt,4,Male,Ann E. Erling Gofus; Ann E. Erling Gofus,0.453693593738687
+RG-50.030.0592_trs_en.txt,5,Male,Ann E. Erling Gofus; Ann E. Erling Gofus,0.125225286462348
+RG-50.030.0605_trs_en.txt,1,Female,Agnieszka McClure; Agnieszka McClure,0.000623266672197762
+RG-50.030.0605_trs_en.txt,2,Female,Agnieszka McClure; Agnieszka McClure,0.000869881104656641
+RG-50.030.0605_trs_en.txt,3,Female,Agnieszka McClure; Agnieszka McClure,0.273411720331421
+RG-50.030.0605_trs_en.txt,4,Female,Agnieszka McClure; Agnieszka McClure,0.348105984988952
+RG-50.030.0605_trs_en.txt,5,Female,Agnieszka McClure; Agnieszka McClure,0.376989146902773
+RG-50.030.0616_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.00938454646604007
+RG-50.030.0616_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.000703367100811426
+RG-50.030.0616_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.0457226472129727
+RG-50.030.0616_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.923719364492536
+RG-50.030.0616_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.0204700747276397
+RG-50.030.0695_trs_en.txt,1,Male,Ina Navazelskis; Ina Navazelskis,0.416292849000905
+RG-50.030.0695_trs_en.txt,2,Male,Ina Navazelskis; Ina Navazelskis,0.00253823549997885
+RG-50.030.0695_trs_en.txt,3,Male,Ina Navazelskis; Ina Navazelskis,0.0136981371637017
+RG-50.030.0695_trs_en.txt,4,Male,Ina Navazelskis; Ina Navazelskis,0.490245433753935
+RG-50.030.0695_trs_en.txt,5,Male,Ina Navazelskis; Ina Navazelskis,0.0772253445814793
+RG-50.030.0698_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.733355511234133
+RG-50.030.0698_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.000243565721939432
+RG-50.030.0698_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.00284736709782948
+RG-50.030.0698_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.222019792541252
+RG-50.030.0698_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.0415337634048464
+RG-50.030.0710_trs_en.txt,1,Male,Duncan Little; Duncan Little,0.744089543267384
+RG-50.030.0710_trs_en.txt,2,Male,Duncan Little; Duncan Little,0.0681972066424294
+RG-50.030.0710_trs_en.txt,3,Male,Duncan Little; Duncan Little,0.0628180365959966
+RG-50.030.0710_trs_en.txt,4,Male,Duncan Little; Duncan Little,0.109009387330559
+RG-50.030.0710_trs_en.txt,5,Male,Duncan Little; Duncan Little,0.0158858261636314
+RG-50.030.0721_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.0218924626554698
+RG-50.030.0721_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.00176472218517524
+RG-50.030.0721_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.114408083458079
+RG-50.030.0721_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.473496800531106
+RG-50.030.0721_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.38843793117017
+RG-50.030.0769_trs_en.txt,1,Male,Ina Navazelskis; Ina Navazelskis,0.248880392762651
+RG-50.030.0769_trs_en.txt,2,Male,Ina Navazelskis; Ina Navazelskis,0.00354902126176187
+RG-50.030.0769_trs_en.txt,3,Male,Ina Navazelskis; Ina Navazelskis,0.0224426404318662
+RG-50.030.0769_trs_en.txt,4,Male,Ina Navazelskis; Ina Navazelskis,0.175067444014155
+RG-50.030.0769_trs_en.txt,5,Male,Ina Navazelskis; Ina Navazelskis,0.550060501529566
+RG-50.030.0788_trs_en.txt,1,Male,Ina Navazelskis; Ina Navazelskis,0.176173839062581
+RG-50.030.0788_trs_en.txt,2,Male,Ina Navazelskis; Ina Navazelskis,0.00135767723908191
+RG-50.030.0788_trs_en.txt,3,Male,Ina Navazelskis; Ina Navazelskis,0.0606923705224176
+RG-50.030.0788_trs_en.txt,4,Male,Ina Navazelskis; Ina Navazelskis,0.290570765558026
+RG-50.030.0788_trs_en.txt,5,Male,Ina Navazelskis; Ina Navazelskis,0.471205347617894
+RG-50.030.0790_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.85348287847095
+RG-50.030.0790_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.000218758781851266
+RG-50.030.0790_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.00257220378747016
+RG-50.030.0790_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.114996630328748
+RG-50.030.0790_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.0287295286309808
+RG-50.030.0814_trs_en.txt,1,Female,Ina Navazelskis; Ina Navazelskis,0.207743476983459
+RG-50.030.0814_trs_en.txt,2,Female,Ina Navazelskis; Ina Navazelskis,0.000642491165412752
+RG-50.030.0814_trs_en.txt,3,Female,Ina Navazelskis; Ina Navazelskis,0.0246663689940604
+RG-50.030.0814_trs_en.txt,4,Female,Ina Navazelskis; Ina Navazelskis,0.701759370166867
+RG-50.030.0814_trs_en.txt,5,Female,Ina Navazelskis; Ina Navazelskis,0.0651882926902007
+RG-50.030.0841_trs_en.txt,1,Male,Ina Navazelskis; Ina Navazelskis,0.373275608336415
+RG-50.030.0841_trs_en.txt,2,Male,Ina Navazelskis; Ina Navazelskis,0.0103940797870906
+RG-50.030.0841_trs_en.txt,3,Male,Ina Navazelskis; Ina Navazelskis,0.0145145282900355
+RG-50.030.0841_trs_en.txt,4,Male,Ina Navazelskis; Ina Navazelskis,0.436143754487707
+RG-50.030.0841_trs_en.txt,5,Male,Ina Navazelskis; Ina Navazelskis,0.165672029098752
+RG-50.042.0007_trs_en.txt,1,Male,Sandra Bradley; Sandra Bradley,0.777684896688934
+RG-50.042.0007_trs_en.txt,2,Male,Sandra Bradley; Sandra Bradley,0.0457365131533743
+RG-50.042.0007_trs_en.txt,3,Male,Sandra Bradley; Sandra Bradley,0.0399835688905914
+RG-50.042.0007_trs_en.txt,4,Male,Sandra Bradley; Sandra Bradley,0.0801101074239263
+RG-50.042.0007_trs_en.txt,5,Male,Sandra Bradley; Sandra Bradley,0.0564849138431745
+RG-50.042.0016_trs_en.txt,1,Male,Sandra Bradley; Sandra Bradley,0.743595004214019
+RG-50.042.0016_trs_en.txt,2,Male,Sandra Bradley; Sandra Bradley,0.0805472825909275
+RG-50.042.0016_trs_en.txt,3,Male,Sandra Bradley; Sandra Bradley,0.0833754907326319
+RG-50.042.0016_trs_en.txt,4,Male,Sandra Bradley; Sandra Bradley,0.0570560485746178
+RG-50.042.0016_trs_en.txt,5,Male,Sandra Bradley; Sandra Bradley,0.0354261738878037
+RG-50.106.0007_trs_en.txt,1,Male,Gail Schwartz; Gail Schwartz,0.51610057996593
+RG-50.106.0007_trs_en.txt,2,Male,Gail Schwartz; Gail Schwartz,0.00265923063250783
+RG-50.106.0007_trs_en.txt,3,Male,Gail Schwartz; Gail Schwartz,0.0668639993440326
+RG-50.106.0007_trs_en.txt,4,Male,Gail Schwartz; Gail Schwartz,0.210268593659817
+RG-50.106.0007_trs_en.txt,5,Male,Gail Schwartz; Gail Schwartz,0.204107596397713
+RG-50.106.0122_trs_en.txt,1,Male,Mira Hodos; Mira Hodos,0.785403082522509
+RG-50.106.0122_trs_en.txt,2,Male,Mira Hodos; Mira Hodos,0.000273632694001867
+RG-50.106.0122_trs_en.txt,3,Male,Mira Hodos; Mira Hodos,0.0384814586049735
+RG-50.106.0122_trs_en.txt,4,Male,Mira Hodos; Mira Hodos,0.136621408509861
+RG-50.106.0122_trs_en.txt,5,Male,Mira Hodos; Mira Hodos,0.0392204176686555
+RG-50.106.0131_trs_en.txt,1,Male,Gail Schwartz; Gail Schwartz,0.264596950326246
+RG-50.106.0131_trs_en.txt,2,Male,Gail Schwartz; Gail Schwartz,0.000859388778882726
+RG-50.106.0131_trs_en.txt,3,Male,Gail Schwartz; Gail Schwartz,0.014254246600348
+RG-50.106.0131_trs_en.txt,4,Male,Gail Schwartz; Gail Schwartz,0.511968201885285
+RG-50.106.0131_trs_en.txt,5,Male,Gail Schwartz; Gail Schwartz,0.208321212409238
+RG-50.106.0147_trs_en.txt,1,Female,Gail Schwartz; Gail Schwartz,0.0295673838354734
+RG-50.106.0147_trs_en.txt,2,Female,Gail Schwartz; Gail Schwartz,0.000240301183591692
+RG-50.106.0147_trs_en.txt,3,Female,Gail Schwartz; Gail Schwartz,0.0229025787871219
+RG-50.106.0147_trs_en.txt,4,Female,Gail Schwartz; Gail Schwartz,0.114354196381346
+RG-50.106.0147_trs_en.txt,5,Female,Gail Schwartz; Gail Schwartz,0.832935539812467
+RG-50.106.0192_trs_en.txt,1,Male,Gail Schwartz; Gail Schwartz,0.123350343339829
+RG-50.106.0192_trs_en.txt,2,Male,Gail Schwartz; Gail Schwartz,0.00686928184162725
+RG-50.106.0192_trs_en.txt,3,Male,Gail Schwartz; Gail Schwartz,0.14181574723907
+RG-50.106.0192_trs_en.txt,4,Male,Gail Schwartz; Gail Schwartz,0.389301250853782
+RG-50.106.0192_trs_en.txt,5,Male,Gail Schwartz; Gail Schwartz,0.338663376725691
+RG-50.106.0202_trs_en.txt,1,Male,Gail Schwartz; Gail Schwartz,0.0926949004182442
+RG-50.106.0202_trs_en.txt,2,Male,Gail Schwartz; Gail Schwartz,0.000419649975208414
+RG-50.106.0202_trs_en.txt,3,Male,Gail Schwartz; Gail Schwartz,0.0039451434181813
+RG-50.106.0202_trs_en.txt,4,Male,Gail Schwartz; Gail Schwartz,0.554543035800982
+RG-50.106.0202_trs_en.txt,5,Male,Gail Schwartz; Gail Schwartz,0.348397270387384
+RG-50.106.0215_trs_en.txt,1,Male,Gail Schwartz; Gail Schwartz,0.0440125844801205
+RG-50.106.0215_trs_en.txt,2,Male,Gail Schwartz; Gail Schwartz,0.0104728509394845
+RG-50.106.0215_trs_en.txt,3,Male,Gail Schwartz; Gail Schwartz,0.291071248384206
+RG-50.106.0215_trs_en.txt,4,Male,Gail Schwartz; Gail Schwartz,0.494335508468087
+RG-50.106.0215_trs_en.txt,5,Male,Gail Schwartz; Gail Schwartz,0.160107807728102
+RG-50.106.0226_trs_en.txt,1,Male,Gail Schwartz; Gail Schwartz,0.2256067285507
+RG-50.106.0226_trs_en.txt,2,Male,Gail Schwartz; Gail Schwartz,0.000771797202155902
+RG-50.106.0226_trs_en.txt,3,Male,Gail Schwartz; Gail Schwartz,0.0176930899148427
+RG-50.106.0226_trs_en.txt,4,Male,Gail Schwartz; Gail Schwartz,0.630671545233251
+RG-50.106.0226_trs_en.txt,5,Male,Gail Schwartz; Gail Schwartz,0.125256839099051
+RG-50.233.0060_trs_en.txt,1,Male,Anthony Young; Anthony Young,0.385287762237057
+RG-50.233.0060_trs_en.txt,2,Male,Anthony Young; Anthony Young,0.000941101097876658
+RG-50.233.0060_trs_en.txt,3,Male,Anthony Young; Anthony Young,0.46547942759983
+RG-50.233.0060_trs_en.txt,4,Male,Anthony Young; Anthony Young,0.110656877387
+RG-50.233.0060_trs_en.txt,5,Male,Anthony Young; Anthony Young,0.0376348316782357
+RG-50.233.0119_01_trs_en.txt,1,Male,NULL,0.379774891062358
+RG-50.233.0119_01_trs_en.txt,2,Male,NULL,0.0353949078918216
+RG-50.233.0119_01_trs_en.txt,3,Male,NULL,0.0374782058097329
+RG-50.233.0119_01_trs_en.txt,4,Male,NULL,0.299465133227453
+RG-50.233.0119_01_trs_en.txt,5,Male,NULL,0.247886862008634
+RG-50.233.0129_trs_en.txt,1,Male,Jennifer Clayman,0.657702520966438
+RG-50.233.0129_trs_en.txt,2,Male,Jennifer Clayman,0.0114652735680555
+RG-50.233.0129_trs_en.txt,3,Male,Jennifer Clayman,0.140286990213349
+RG-50.233.0129_trs_en.txt,4,Male,Jennifer Clayman,0.0695158239241198
+RG-50.233.0129_trs_en.txt,5,Male,Jennifer Clayman,0.121029391328038
+RG-50.234.0022_trs_en.txt,1,Male,NULL,0.0129148231365204
+RG-50.234.0022_trs_en.txt,2,Male,NULL,0.0622369396558898
+RG-50.234.0022_trs_en.txt,3,Male,NULL,0.713047133052536
+RG-50.234.0022_trs_en.txt,4,Male,NULL,0.0131116206848143
+RG-50.234.0022_trs_en.txt,5,Male,NULL,0.19868948347024
+RG-50.470.0006_trs_en.txt,1,Female,Sandra Bradley,0.0119497127184559
+RG-50.470.0006_trs_en.txt,2,Female,Sandra Bradley,0.0143116019854468
+RG-50.470.0006_trs_en.txt,3,Female,Sandra Bradley,0.916617105965373
+RG-50.470.0006_trs_en.txt,4,Female,Sandra Bradley,0.0555056129102648
+RG-50.470.0006_trs_en.txt,5,Female,Sandra Bradley,0.00161596642045959
+RG-50.470.0015_trs_en.txt,1,Male,Sandra Bradley,0.512186847772564
+RG-50.470.0015_trs_en.txt,2,Male,Sandra Bradley,0.0250769173653876
+RG-50.470.0015_trs_en.txt,3,Male,Sandra Bradley,0.453902112125878
+RG-50.470.0015_trs_en.txt,4,Male,Sandra Bradley,0.00484412188128333
+RG-50.470.0015_trs_en.txt,5,Male,Sandra Bradley,0.00399000085488664
+RG-50.471.0009_trs_en.txt,1,Male,Sandra Bradley,0.950981705770478
+RG-50.471.0009_trs_en.txt,2,Male,Sandra Bradley,0.00699961959075607
+RG-50.471.0009_trs_en.txt,3,Male,Sandra Bradley,0.00885512742150178
+RG-50.471.0009_trs_en.txt,4,Male,Sandra Bradley,0.0203494579349413
+RG-50.471.0009_trs_en.txt,5,Male,Sandra Bradley,0.0128140892823227
+RG-50.471.0016_trs_en.txt,1,Female,Sandra Bradley,0.0170712153746738
+RG-50.471.0016_trs_en.txt,2,Female,Sandra Bradley,0.946420144030476
+RG-50.471.0016_trs_en.txt,3,Female,Sandra Bradley,0.0324106330343475
+RG-50.471.0016_trs_en.txt,4,Female,Sandra Bradley,0.00321884828611717
+RG-50.471.0016_trs_en.txt,5,Female,Sandra Bradley,0.000879159274385291
+RG-50.549.01.0005_trs_en.txt,1,Male,Katie Davis,0.0895212633076656
+RG-50.549.01.0005_trs_en.txt,2,Male,Katie Davis,0.0433090331126487
+RG-50.549.01.0005_trs_en.txt,3,Male,Katie Davis,0.0757155884720568
+RG-50.549.01.0005_trs_en.txt,4,Male,Katie Davis,0.0358191037709434
+RG-50.549.01.0005_trs_en.txt,5,Male,Katie Davis,0.755635011336686
+RG-50.549.01.0021_trs_en.txt,1,Female,Regine Beyer,0.426309926105979
+RG-50.549.01.0021_trs_en.txt,2,Female,Regine Beyer,0.0155678909826936
+RG-50.549.01.0021_trs_en.txt,3,Female,Regine Beyer,0.111043917687222
+RG-50.549.01.0021_trs_en.txt,4,Female,Regine Beyer,0.19666621207828
+RG-50.549.01.0021_trs_en.txt,5,Female,Regine Beyer,0.250412053145826
+RG-50.549.01.0025_trs_en.txt,1,Male,Dan Collison,0.0263418861557046
+RG-50.549.01.0025_trs_en.txt,2,Male,Dan Collison,0.136169343895178
+RG-50.549.01.0025_trs_en.txt,3,Male,Dan Collison,0.0954603867155205
+RG-50.549.01.0025_trs_en.txt,4,Male,Dan Collison,0.170548341642912
+RG-50.549.01.0025_trs_en.txt,5,Male,Dan Collison,0.571480041590685
+RG-50.549.02.0007_trs_en.txt,1,Male,Dan Gedimen; Dan Gedimen,0.206084936390205
+RG-50.549.02.0007_trs_en.txt,2,Male,Dan Gedimen; Dan Gedimen,0.0377928554023386
+RG-50.549.02.0007_trs_en.txt,3,Male,Dan Gedimen; Dan Gedimen,0.0460777289527525
+RG-50.549.02.0007_trs_en.txt,4,Male,Dan Gedimen; Dan Gedimen,0.709250130227727
+RG-50.549.02.0007_trs_en.txt,5,Male,Dan Gedimen; Dan Gedimen,0.000794349026976176
+RG-50.549.02.0032_trs_en.txt,1,Male,Melissa Block; Melissa Block,0.224106905123223
+RG-50.549.02.0032_trs_en.txt,2,Male,Melissa Block; Melissa Block,0.00827936588384472
+RG-50.549.02.0032_trs_en.txt,3,Male,Melissa Block; Melissa Block,0.222766688529076
+RG-50.549.02.0032_trs_en.txt,4,Male,Melissa Block; Melissa Block,0.457064261272499
+RG-50.549.02.0032_trs_en.txt,5,Male,Melissa Block; Melissa Block,0.0877827791913574
+RG-50.549.02.0049_trs_en.txt,1,Female,Arwin Donohue; Arwin Donohue,0.0469713022802028
+RG-50.549.02.0049_trs_en.txt,2,Female,Arwin Donohue; Arwin Donohue,0.000944297675119013
+RG-50.549.02.0049_trs_en.txt,3,Female,Arwin Donohue; Arwin Donohue,0.00643693933416728
+RG-50.549.02.0049_trs_en.txt,4,Female,Arwin Donohue; Arwin Donohue,0.390256947150849
+RG-50.549.02.0049_trs_en.txt,5,Female,Arwin Donohue; Arwin Donohue,0.555390513559662
+RG-50.549.02.0053_trs_en.txt,1,Female,Regine Beyer,0.355847328344106
+RG-50.549.02.0053_trs_en.txt,2,Female,Regine Beyer,0.00613862965941301
+RG-50.549.02.0053_trs_en.txt,3,Female,Regine Beyer,0.0126975230958427
+RG-50.549.02.0053_trs_en.txt,4,Female,Regine Beyer,0.420445415936016
+RG-50.549.02.0053_trs_en.txt,5,Female,Regine Beyer,0.204871102964623
+RG-50.549.03.0003_trs_en.txt,1,Female,Regine Beyer,0.190289955126908
+RG-50.549.03.0003_trs_en.txt,2,Female,Regine Beyer,0.00212272666827504
+RG-50.549.03.0003_trs_en.txt,3,Female,Regine Beyer,0.0456935169908936
+RG-50.549.03.0003_trs_en.txt,4,Female,Regine Beyer,0.206260327605176
+RG-50.549.03.0003_trs_en.txt,5,Female,Regine Beyer,0.555633473608747
+RG-50.562.0001_trs_en.txt,1,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.524037790796659
+RG-50.562.0001_trs_en.txt,2,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0227001042015097
+RG-50.562.0001_trs_en.txt,3,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.0203422876567057
+RG-50.562.0001_trs_en.txt,4,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.257656268284803
+RG-50.562.0001_trs_en.txt,5,Male,Dr. Joan Ringelheim; Dr. Joan Ringelheim,0.175263549060323
+RG-50.999.0457_trs_en.txt,1,Female,NULL,0.0509492231184779
+RG-50.999.0457_trs_en.txt,2,Female,NULL,0.71527704372907
+RG-50.999.0457_trs_en.txt,3,Female,NULL,0.163761175086537
+RG-50.999.0457_trs_en.txt,4,Female,NULL,0.0185814548533751
+RG-50.999.0457_trs_en.txt,5,Female,NULL,0.0514311032125401
+RG-50.999.0460_trs_en.txt,1,Female,NULL,0.0235251382487371
+RG-50.999.0460_trs_en.txt,2,Female,NULL,0.539842694498462
+RG-50.999.0460_trs_en.txt,3,Female,NULL,0.344127569684354
+RG-50.999.0460_trs_en.txt,4,Female,NULL,0.0430498332477258
+RG-50.999.0460_trs_en.txt,5,Female,NULL,0.0494547643207213
+RG-50.999.0469_trs_en.txt,1,Female,NULL,0.0023086735833607
+RG-50.999.0469_trs_en.txt,2,Female,NULL,0.949999683078542
+RG-50.999.0469_trs_en.txt,3,Female,NULL,0.0117503025061448
+RG-50.999.0469_trs_en.txt,4,Female,NULL,0.0190133696884157
+RG-50.999.0469_trs_en.txt,5,Female,NULL,0.0169279711435368
+RG-50.999.0473_trs_en.txt,1,Male,NULL,0.0720527019142995
+RG-50.999.0473_trs_en.txt,2,Male,NULL,0.0574656575496993
+RG-50.999.0473_trs_en.txt,3,Male,NULL,0.0381056827779883
+RG-50.999.0473_trs_en.txt,4,Male,NULL,0.106936580734925
+RG-50.999.0473_trs_en.txt,5,Male,NULL,0.725439377023088
+RG-50.999.0483_trs_en.txt,1,Male,NULL,0.0508071703922122
+RG-50.999.0483_trs_en.txt,2,Male,NULL,0.583828777355253
+RG-50.999.0483_trs_en.txt,3,Male,NULL,0.0376414918041207
+RG-50.999.0483_trs_en.txt,4,Male,NULL,0.141636428659532
+RG-50.999.0483_trs_en.txt,5,Male,NULL,0.186086131788882
+RG-50.999.0485_trs_en.txt,1,Male,NULL,0.0916049210569176
+RG-50.999.0485_trs_en.txt,2,Male,NULL,0.705225849879217
+RG-50.999.0485_trs_en.txt,3,Male,NULL,0.01713661053005
+RG-50.999.0485_trs_en.txt,4,Male,NULL,0.0656669811365442
+RG-50.999.0485_trs_en.txt,5,Male,NULL,0.120365637397272
+RG-50.999.0494_trs_en.txt,1,Male,NULL,0.0762269454647004
+RG-50.999.0494_trs_en.txt,2,Male,NULL,0.319924557061312
+RG-50.999.0494_trs_en.txt,3,Male,NULL,0.0475656439733521
+RG-50.999.0494_trs_en.txt,4,Male,NULL,0.101141316408605
+RG-50.999.0494_trs_en.txt,5,Male,NULL,0.45514153709203
+RG-50.999.0523_trs_en.txt,1,Male,NULL,0.45946917789027
+RG-50.999.0523_trs_en.txt,2,Male,NULL,0.283695900653944
+RG-50.999.0523_trs_en.txt,3,Male,NULL,0.00980871028977313
+RG-50.999.0523_trs_en.txt,4,Male,NULL,0.115566719125352
+RG-50.999.0523_trs_en.txt,5,Male,NULL,0.131459492040662
+RG-50.999.0524_trs_en.txt,1,Male,NULL,0.0946013881657544
+RG-50.999.0524_trs_en.txt,2,Male,NULL,0.565495886449847
+RG-50.999.0524_trs_en.txt,3,Male,NULL,0.146734218528856
+RG-50.999.0524_trs_en.txt,4,Male,NULL,0.124012854439612
+RG-50.999.0524_trs_en.txt,5,Male,NULL,0.0691556524159314
+RG-50.999.0528_trs_en.txt,1,Male,NULL,0.122545042974091
+RG-50.999.0528_trs_en.txt,2,Male,NULL,0.550079139687599
+RG-50.999.0528_trs_en.txt,3,Male,NULL,0.0385031206818036
+RG-50.999.0528_trs_en.txt,4,Male,NULL,0.070033415879404
+RG-50.999.0528_trs_en.txt,5,Male,NULL,0.218839280777103
+RG-50.999.0529_trs_en.txt,1,Male,NULL,0.127137805999451
+RG-50.999.0529_trs_en.txt,2,Male,NULL,0.613223222129503
+RG-50.999.0529_trs_en.txt,3,Male,NULL,0.0262712439006468
+RG-50.999.0529_trs_en.txt,4,Male,NULL,0.109317789854779
+RG-50.999.0529_trs_en.txt,5,Male,NULL,0.12404993811562
+RG-50.999.0542_trs_en.txt,1,Female,NULL,0.0865742938138761
+RG-50.999.0542_trs_en.txt,2,Female,NULL,0.457026003797549
+RG-50.999.0542_trs_en.txt,3,Female,NULL,0.411059578823347
+RG-50.999.0542_trs_en.txt,4,Female,NULL,0.0357542380897436
+RG-50.999.0542_trs_en.txt,5,Female,NULL,0.0095858854754838
+RG-50.999.0546_trs_en.txt,1,Male,NULL,0.141590389898241
+RG-50.999.0546_trs_en.txt,2,Male,NULL,0.582926861285446
+RG-50.999.0546_trs_en.txt,3,Male,NULL,0.0194869135739127
+RG-50.999.0546_trs_en.txt,4,Male,NULL,0.175591323743861
+RG-50.999.0546_trs_en.txt,5,Male,NULL,0.0804045114985392
+RG-50.999.0550_trs_en.txt,1,Male,NULL,0.016945399571766
+RG-50.999.0550_trs_en.txt,2,Male,NULL,0.789346197230555
+RG-50.999.0550_trs_en.txt,3,Male,NULL,0.0284310348692748
+RG-50.999.0550_trs_en.txt,4,Male,NULL,0.1217724572381
+RG-50.999.0550_trs_en.txt,5,Male,NULL,0.0435049110903049
+RG-50.999.0566_trs_en.txt,1,Male,NULL,0.0689712424247435
+RG-50.999.0566_trs_en.txt,2,Male,NULL,0.166776091893082
+RG-50.999.0566_trs_en.txt,3,Male,NULL,0.0223716269038249
+RG-50.999.0566_trs_en.txt,4,Male,NULL,0.0781173307209166
+RG-50.999.0566_trs_en.txt,5,Male,NULL,0.663763708057433
+RG-50.999.0573_trs_en.txt,1,Female,NULL,0.00505532559190642
+RG-50.999.0573_trs_en.txt,2,Female,NULL,0.836116554648483
+RG-50.999.0573_trs_en.txt,3,Female,NULL,0.0736471898728621
+RG-50.999.0573_trs_en.txt,4,Female,NULL,0.0242640452835269
+RG-50.999.0573_trs_en.txt,5,Female,NULL,0.0609168846032218
+RG-50.999.0579_trs_en.txt,1,Male,NULL,0.00798763921111216
+RG-50.999.0579_trs_en.txt,2,Male,NULL,0.696390938831149
+RG-50.999.0579_trs_en.txt,3,Male,NULL,0.0662952075339977
+RG-50.999.0579_trs_en.txt,4,Male,NULL,0.154464048300169
+RG-50.999.0579_trs_en.txt,5,Male,NULL,0.0748621661235718
+RG-50.999.0597_trs_en.txt,1,Female,NULL,0.00368262662548233
+RG-50.999.0597_trs_en.txt,2,Female,NULL,0.129788120569616
+RG-50.999.0597_trs_en.txt,3,Female,NULL,0.831489567178259
+RG-50.999.0597_trs_en.txt,4,Female,NULL,0.0233983996690349
+RG-50.999.0597_trs_en.txt,5,Female,NULL,0.0116412859576085
+RG-50.999.0612_trs_en.txt,1,Female,NULL,0.00996430934899552
+RG-50.999.0612_trs_en.txt,2,Female,NULL,0.653726112408259
+RG-50.999.0612_trs_en.txt,3,Female,NULL,0.194290418887626
+RG-50.999.0612_trs_en.txt,4,Female,NULL,0.0618240305043266
+RG-50.999.0612_trs_en.txt,5,Female,NULL,0.080195128850793

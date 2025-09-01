@@ -1,0 +1,51 @@
+58049
+
+LDA
+max_it=200
+
+
+
+Model Terminated Before Convergence Reached 
+STM model fitting completed!
+Extracting and saving results...
+DEBUG: STM model and labelTopics structure:
+Number of topics K: 12 
+Vocabulary size: 5958 
+Sample vocabulary: abandoned, abe, ability, able, abnormal, aboard, abortion, abortions, abraham, abroad 
+STM model beta dimensions: 12 5958 
+labelTopics result structure:
+List of 5
+ $ prob     : chr [1:12, 1:15] "people" "people" "war" "house" ...
+ $ frex     : chr [1:12, 1:15] "unrra" "says" "norway" "house" ...
+ $ lift     : chr [1:12, 1:15] "emperor" "bake" "beirut" "armband" ...
+ $ score    : chr [1:12, 1:15] "theodore" "used" "norway" "mother" ...
+ $ topicnums: int [1:12] 1 2 3 4 5 6 7 8 9 10 ...
+ - attr(*, "class")= chr "labelTopics"
+FREX list length: 180 
+First topic FREX words: unrra 
+Trying alternative topic word extraction...
+Topic 1 direct extraction: people, jews, camp, jewish, american, army, germany, camps, wanted, want
+Topic 2 direct extraction: people, used, want, see, something, told, tell, says, took, take
+Topic 3 direct extraction: war, army, germans, knew, polish, course, german, russian, first, russians
+Topic 1 FREX: unrra, joint, munich, theodore, zone, committee, cases, palestine, ort, trial, jdc, evidence, general, nuremberg, japanese
+Topic 2 FREX: says, used, afraid, guy, god, want, sudden, somebody, give, alive, nobody, kill, look, start, told
+Topic 3 FREX: norway, oslo, prison, norwegian, resistance, interpreter, troops, russians, enemy, officers, fighting, division, communists, army, unit
+Topic 4 FREX: house, apartment, street, room, store, dutch, hiding, david, brother, building, creche, rooms, door, slept, streets
+Topic 5 FREX: kovno, roll, bread, sobczak, jauary, barn, ghetto, potatoes, soup, wentworth, irene, films, camera, luta, inc
+Topic 6 FREX: benson, josie, liebermann, oral, verbatim, bill, traum, frank, verified, collection, memorial, accuracy, reader, checked, susan
+Topic 7 FREX: suzy, snyder, mandel, manny, warsaw, aunt, serei, klayman, poland, uprising, polish, ludwig, dora, hungary, orphanage
+Topic 8 FREX: railroad, prisoners, train, barracks, cars, barrack, gas, kapo, birkenau, trains, station, theresienstadt, camp, wire, barbed
+Topic 9 FREX: swedish, gluckstein, raoul, often, wallenberg, eichmann, situation, sense, human, denmark, perhaps, survival, deportation, believe, example
+Topic 10 FREX: english, kibbutz, york, university, thomas, carol, buergenthal, college, citizen, study, israel, teaching, languages, graduated, learned
+Topic 11 FREX: nesse, godin, rice, heberer, albert, archives, garih, applause, patricia, kahn, ushmm, henry, survivor, program, guests
+Topic 12 FREX: loved, religious, child, play, music, kids, memories, mean, played, teacher, mitzvah, school, holidays, gymnasium, love
+Estimating covariate effects...
+Creating visualizations...
+Conducting the nonparanormal (npn) transformation via shrunkun ECDF....done.
+Conducting Meinshausen & Buhlmann graph estimation (mb)....done
+Conducting rotation information criterion (ric) selection....done
+Computing the optimal graph....done
+Error in fwrite(huge_topic_corr, file.path(OUT, "csv", "huge_topic_correlations.csv")) : 
+  Column 1's type is 'S4' - not yet implemented in fwrite.
+Execution halted
+((venv) ) eliothecat@MacBook-Pro % 

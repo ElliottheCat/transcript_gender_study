@@ -3,7 +3,6 @@
 .trs_pdf
 pdfs
 trs_pdf
-outputs
 .env
 __pycache__
 *.pyc
@@ -11,7 +10,4 @@ venv
 .venv
 preprocess_trs_txt
 preprocess_trs_txt/
-pdfs
-pdfs/
 
-STM-topic-extract/data/

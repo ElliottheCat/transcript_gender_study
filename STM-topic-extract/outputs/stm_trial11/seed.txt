@@ -1,0 +1,54 @@
+631839
+
+LDA
+max_it=150
+
+
+Model Terminated Before Convergence Reached 
+STM model fitting completed!
+Extracting and saving results...
+DEBUG: STM model and labelTopics structure:
+Number of topics K: 12 
+Vocabulary size: 5958 
+Sample vocabulary: abandoned, abe, ability, able, abnormal, aboard, abortion, abortions, abraham, abroad 
+STM model beta dimensions: 12 5958 
+labelTopics result structure:
+List of 5
+ $ prob     : chr [1:12, 1:15] "people" "states" "back" "bill" ...
+ $ frex     : chr [1:12, 1:15] "trial" "memorial" "sweden" "benson" ...
+ $ lift     : chr [1:12, 1:15] "evidence" "bear" "crown" "captioning" ...
+ $ score    : chr [1:12, 1:15] "theodore" "memorial" "norway" "benson" ...
+ $ topicnums: int [1:12] 1 2 3 4 5 6 7 8 9 10 ...
+ - attr(*, "class")= chr "labelTopics"
+FREX list length: 180 
+First topic FREX words: trial 
+Trying alternative topic word extraction...
+Topic 1 direct extraction: people, jews, camps, camp, germany, many, way, jewish, army, say
+Topic 2 direct extraction: states, united, holocaust, museum, name, born, memorial, father, family, first
+Topic 3 direct extraction: back, course, war, ship, knew, see, way, british, name, first
+Topic 1 FREX: trial, unrra, theodore, committee, archives, joint, international, cases, ort, buergenthal, jdc, thomas, evidence, trials, nuremberg
+Topic 2 FREX: memorial, oral, states, holocaust, taped, united, birth, conducted, carol, result, bear, museum, reader, born, spelling
+Topic 3 FREX: sweden, norway, ship, ships, swedish, visa, oslo, norwegian, embassy, france, british, stockholm, england, shanghai, passport
+Topic 4 FREX: benson, fritz, gluckstein, josie, liebermann, dora, traum, albert, susan, bill, halina, snyder, suzy, manny, julie
+Topic 5 FREX: polish, nesse, russian, godin, rice, heberer, russians, russia, sobczak, soviet, jauary, patricia, village, poland, irene
+Topic 6 FREX: barracks, prisoners, gas, auschwitz, barrack, kapo, camp, birkenau, hit, wire, barbed, typhus, block, cars, railroad
+Topic 7 FREX: always, huh, god, mean, feel, talk, girl, love, children, hard, wonderful, husband, wrong, understand, ever
+Topic 8 FREX: kovno, ghetto, roll, wentworth, camera, films, sandra, inc, kendale, potomac, lithuanian, video, judenrat, bread, notes
+Topic 9 FREX: school, university, hebrew, teacher, religion, religious, college, grade, education, gymnasium, high, students, schools, mitzvah, language
+Topic 10 FREX: money, says, boat, dollars, guy, bought, sitting, kibbutz, saturday, paid, drove, pay, alright, bus, buy
+Topic 11 FREX: mother, father, sister, brother, aunt, uncle, grandmother, sisters, apartment, mothers, parents, cousin, dutch, lived, cousins
+Topic 12 FREX: germans, shot, people, houses, building, star, buildings, group, uprising, destroyed, yellow, happening, luta, disappeared, hungarians
+Estimating covariate effects...
+Creating visualizations...
+Creating summary statistics...
+Analysis complete!
+Generated files:
+- outputs/csv/document_topics_long.csv
+- outputs/csv/document_topics_wide.csv
+- outputs/csv/topic_labels.csv
+- outputs/csv/gender_effects.csv
+- outputs/csv/interviewer_effects.csv
+- outputs/plots/topics_by_gender.png
+- outputs/plots/topics_by_interviewer.png
+- outputs/plots/interviewer_gender_stacked.png
+((venv) ) eliothecat@MacBook-Pro % 
