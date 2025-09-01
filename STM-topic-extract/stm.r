@@ -30,8 +30,8 @@ if (length(existing_trials) > 0) {
 }
 OUT <- file.path(base_out, sprintf("stm_trial%d", next_trial))
 cat(sprintf("Creating trial folder: %s\n", OUT))
-K       <- 5          # set your chosen K from searchK results
-SEED    <- 42
+K       <- 12          # set your chosen K from searchK results
+SEED    <- SEED <- as.integer(runif(1, min = 1, max = 1e6)) # use random seed to get different results.
 CHUNK_TOKS <- 700
 USE_CHUNKS <- TRUE
 
@@ -39,6 +39,10 @@ set.seed(SEED)
 dir.create(OUT, showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(OUT, "csv"), showWarnings = FALSE)
 dir.create(file.path(OUT, "plots"), showWarnings = FALSE)
+
+# Save the random seed (in case we want to reproduce the results.)
+writeLines(as.character(SEED), file.path(OUT, "seed.txt"))
+cat(sprintf("Seed for this run: %d (saved to %s)\n", SEED, file.path(OUT, "seed.txt")))
 
 # ----------- Load test100 data and metadata -----------
 cat("Loading test100 data...\n")
@@ -134,7 +138,7 @@ normalize_for_stm <- function(x) {
   # 1) Normalize curly quotes & dashes to ASCII (base R, no deps)
   x <- chartr("\u2018\u2019\u201C\u201D\u2013\u2014", "''\"\"--", x)
 
-  # 2) Remove apostrophes so "don't" -> "dont" (matches your stoplist)
+  # 2) Remove apostrophes so "don't" -> "dont" (matches stoplist)
   x <- gsub("'", "", x, perl = TRUE)
 
   # 3) Remove stray leading/trailing hyphens glued to words (-ii, a-)
@@ -159,7 +163,7 @@ cat(sprintf("After cleaning: %d chunks from %d documents\n", nrow(stm_input), le
 # Custom stopwords (oral history fillers + contractions after normalization)
 custom_stopwords <- unique(tolower(c(
   # conversational fillers
-  "people","person","really","thing","things","kind","sort",
+  "person","really","thing","things","kind","sort",
   "know","like","well","think","said","going","yeah","okay","right","now","just",
   "get","got","went","came","come","one","two","three","time","times","yes","no",
 
@@ -168,11 +172,14 @@ custom_stopwords <- unique(tolower(c(
   "tape","side","end","beginning","wwwushmmorg","website","infohometeamcaptionscom",
   "indecipherable","inaudible",
 
-  # contractions after apostrophes removed by normalize_for_stm()
+  # contractions after apostrophes removed by normalize_for_stm(), 
   "dont","didnt","doesnt","isnt","arent","wasnt","werent","havent","hasnt","hadnt",
   "wont","wouldnt","cant","couldnt","shouldnt","mustnt","im","ive","ill","id",
   "youre","youve","youll","youd","hes","shes","thats","theres","theyre","weve",
-  "wed","well","lets","whats","wheres","whos","hows","its","itd","itll"
+  "wed","well","lets","whats","wheres","whos","hows","its","itd","itll",
+
+  # https://gist.github.com/sebleier/554280 NLTK stopwords:
+  "i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your", "yours", "yourself", "yourselves", "he", "him", "his", "himself", "she", "her", "hers", "herself", "it", "its", "itself", "they", "them", "their", "theirs", "themselves", "what", "which", "who", "whom", "this", "that", "these", "those", "am", "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "having", "do", "does", "did", "doing", "a", "an", "the", "and", "but", "if", "or", "because", "as", "until", "while", "of", "at", "by", "for", "with", "about", "against", "between", "into", "through", "during", "before", "after", "above", "below", "to", "from", "up", "down", "in", "out", "on", "off", "over", "under", "again", "further", "then", "once", "here", "there", "when", "where", "why", "how", "all", "any", "both", "each", "few", "more", "most", "other", "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than", "too", "very", "s", "t", "can", "will", "just", "don", "should", "now"
 )))
 
 
@@ -180,13 +187,20 @@ custom_stopwords <- unique(tolower(c(
 cat("Running textProcessor...\n")
 meta_for_stm <- as.data.frame(stm_input[, .(doc_id, parent_id, gender, interviewer, interviewee)])
 
+# Function that takes in a vector of raw texts (in a variety of languages) and performs basic operations.
+# This function is essentially a wrapper tm package where various user specified options can be selected.
 processed <- textProcessor(
   documents = stm_input$text,
   metadata  = meta_for_stm,
   lowercase = TRUE, removestopwords = TRUE, removenumbers = TRUE,
   removepunctuation = TRUE, stem = FALSE, verbose = TRUE,
   customstopwords = custom_stopwords)
+  # use our customed stopwords list for better results. We are expanding this list as we experiment. 
 
+
+# documents: A list containing the documents in the stm format.
+# vocab: Character vector of vocabulary.
+# meta: Data frame or matrix containing the user-supplied metadata for the retained documents.
 word_threshold <- if (length(processed$documents) < 100) 3 else 5
 prep <- prepDocuments(processed$documents, processed$vocab, processed$meta, lower.thresh = word_threshold)
 
@@ -196,11 +210,13 @@ meta_out  <- as.data.table(prep$meta)
 
 cat("Has curly apostrophe left? ",
     any(grepl("\u2019", vocab_out, useBytes = TRUE)), "\n")
-cat("Is 'people' in vocab? ", "people" %in% vocab_out, "\n")
+cat("Is 'we' in vocab? ", "we" %in% vocab_out, "\n")
 grep("^don.?t$", vocab_out, value = TRUE)[1:5]
 
 
 # Clean up covariates
+# Statistical models treat factors as categorical variables
+# "These variables can include numeric and factor variables. While including variables of class Dates or other non-numeric, non-factor types will work in stm it may not always work for downstream functions such as estimateEffect." -- stm package description
 meta_out[, gender := factor(gender, levels=c("Female","Male"))]
 meta_out[, interviewer := factor(interviewer)]
 
@@ -220,25 +236,33 @@ print(table(meta_out$interviewer, useNA = "always"))
 cat("Fitting STM model with gender + interviewer covariates...\n")
 set.seed(SEED)
 
-# Use prevalence covariates for both, didnt' use content covariate for gender only (STM limitation) to have FREX/PROB/LIFT/SCORE output
+# Estimation of the Structural Topic Model using semi-collapsed variational EM. The function takes sparse representation of a document-term matrix, an integer number of topics, and covariates and returns fitted model parameters. Covariates can be used in the prior for topic prevalence, in the prior for topical content or both. See an overview of functions in the package here: stm-package
+
+# ---- Important note on initialization from STM pacakge ----
+# The argument init.type allows the user to specify an initialization method. The default choice, "Spectral", provides a deterministic initialization using the spectral algorithm given in Arora et al 2014. See Roberts, Stewart and Tingley (2016) for details and a comparison of different approaches. Particularly when the number of documents is relatively large we highly recommend the Spectral algorithm which often performs extremely well. Note that the random seed plays no role in the spectral initialization as it is completely deterministic (unless using the K=0 or random projection settings). 
+# The other option "LDA" which uses a few passes of a Gibbs sampler is perfectly reproducible across machines as long as the seed is set.
+
+# Use prevalence covariates for both, didnt' use content covariate (STM limitation) to have FREX/PROB/LIFT/SCORE in the standard output
+
 fit <- stm(documents = docs_out,
            vocab     = vocab_out,
            K         = K,
            data      = meta_out,
            prevalence = ~ gender + interviewer,  # How topics vary by gender and interviewer
            
-           init.type = "Spectral",
-           max.em.its = 100,
+           init.type = "LDA",
+           max.em.its = 200,
            verbose = TRUE,
            seed = SEED)
 
 cat("STM model fitting completed!\n")
-saveRDS(fit, file.path(OUT, "csv", sprintf("stm_model_K%02d.rds", K)))
+# write a single R object to a file, and to restore it.
+saveRDS(fit, file.path(OUT, "csv", sprintf("stm_model_K%02d.rds", K))) 
 
 # ----------- Export: document-topic proportions -----------
 cat("Extracting and saving results...\n")
 
-# Get document-topic matrix (theta)
+# Get document-topic matrix (theta): Number of Documents by Number of Topics matrix of topic proportions.
 theta <- data.table(fit$theta)
 theta[, doc_id := meta_out$doc_id]
 theta_long <- melt(theta, id.vars="doc_id", variable.name="topic", value.name="gamma")
@@ -338,6 +362,7 @@ for (i in seq_len(K)) {
 }
 
 fwrite(topic_labels, file.path(OUT, "csv", "topic_labels.csv"))
+
 
 
 
@@ -455,6 +480,63 @@ p3 <- ggplot(interviewer_gender_topics, aes(x = interviewer, y = N, fill = paste
   scale_fill_discrete(name = "Gender + Topic")
 
 ggsave(file.path(OUT, "plots", "interviewer_gender_stacked.png"), p3, width = 14, height = 8, dpi = 300)
+
+
+# 4. Topic Correlation Analysis
+cat("Computing topic correlations...\\n")
+
+# Compute correlations using both methods
+simple_topic_corr <- topicCorr(fit, method = "simple", cutoff = 0.03, verbose = TRUE)
+huge_topic_corr <- topicCorr(fit, method = "huge", cutoff = 0.03, verbose = TRUE)
+
+# Extract all components from S4 topicCorr objects
+# topicCorr objects contain: $cor (correlations), $posadj (positive adjacency), $poscor (positive correlations)
+
+# Simple method results
+simple_cor_dt <- as.data.table(simple_topic_corr$cor, keep.rownames = "topic")
+simple_posadj_dt <- as.data.table(simple_topic_corr$posadj, keep.rownames = "topic") 
+simple_poscor_dt <- as.data.table(simple_topic_corr$poscor, keep.rownames = "topic")
+
+# Huge method results  
+huge_cor_dt <- as.data.table(huge_topic_corr$cor, keep.rownames = "topic")
+huge_posadj_dt <- as.data.table(huge_topic_corr$posadj, keep.rownames = "topic")
+huge_poscor_dt <- as.data.table(huge_topic_corr$poscor, keep.rownames = "topic")
+
+# Save all correlation components
+fwrite(simple_cor_dt, file.path(OUT, "csv", "simple_correlations.csv"))
+fwrite(simple_posadj_dt, file.path(OUT, "csv", "simple_positive_adjacency.csv")) 
+fwrite(simple_poscor_dt, file.path(OUT, "csv", "simple_positive_correlations.csv"))
+
+fwrite(huge_cor_dt, file.path(OUT, "csv", "huge_correlations.csv"))
+fwrite(huge_posadj_dt, file.path(OUT, "csv", "huge_positive_adjacency.csv"))
+fwrite(huge_poscor_dt, file.path(OUT, "csv", "huge_positive_correlations.csv"))
+
+# Create network plots using PDF device (ggsave doesn't work with network plots)
+pdf(file.path(OUT, "plots", "simple_topic_correlations.pdf"), width = 12, height = 10)
+plot(simple_topic_corr,
+     topics = NULL,
+     vlabels = NULL,
+     layout = NULL,
+     vertex.color = "lightgreen",
+     vertex.label.cex = 0.75,
+     vertex.label.color = "black",
+     vertex.size = 15,
+     main = "Simple Topic Correlation Network")
+dev.off()
+
+pdf(file.path(OUT, "plots", "huge_topic_correlations.pdf"), width = 12, height = 10) 
+plot(huge_topic_corr,
+     topics = NULL,
+     vlabels = NULL,
+     layout = NULL,
+     vertex.color = "lightcoral",
+     vertex.label.cex = 0.75,
+     vertex.label.color = "black", 
+     vertex.size = 15,
+     main = "Huge Topic Correlation Network")
+dev.off()
+
+cat("Topic correlation networks saved as PDF files\\n")
 
 # ----------- Summary Statistics -----------
 cat("Creating summary statistics...\n")

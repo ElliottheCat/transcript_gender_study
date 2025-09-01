@@ -20,7 +20,7 @@ OUT     <- file.path(WORKDIR, "outputs")
 # searchK parameters
 K_MIN   <- 5            # minimum number of topics (a)
 K_MAX   <- 30           # maximum number of topics (b) - reduced for faster testing
-K_STEP  <- 5            # step size between K values - increased for faster testing
+K_STEP  <- 1            # step size between K values - increased for faster testing
 
 SEED    <- 42
 set.seed(SEED)
@@ -107,11 +107,24 @@ stm_input <- stm_input[nchar(text) > 0 & !is.na(text)]
 
 # Custom stopwords
 custom_stopwords <- c(
-  "know", "like", "well", "think", "said", "going", "didnt", "dont", "yeah", 
-  "okay", "right", "now", "just", "get", "got", "went", "came", "come",
-  "one", "two", "three", "time", "times", "people", "person", "like",
-  "interview", "tape", "side", "end", "beginning", "transcript",
-  "interviewer", "interviewee", "narrator", "speaker"
+  # conversational fillers
+  "people","person","really","thing","things","kind","sort",
+  "know","like","well","think","said","going","yeah","okay","right","now","just",
+  "get","got","went","came","come","one","two","three","time","times","yes","no",
+
+  # transcript boilerplate
+  "interview","interviewer","interviewee","narrator","speaker","transcript",
+  "tape","side","end","beginning","wwwushmmorg","website","infohometeamcaptionscom",
+  "indecipherable","inaudible",
+
+  # contractions after apostrophes removed by normalize_for_stm(), 
+  "dont","didnt","doesnt","isnt","arent","wasnt","werent","havent","hasnt","hadnt",
+  "wont","wouldnt","cant","couldnt","shouldnt","mustnt","im","ive","ill","id",
+  "youre","youve","youll","youd","hes","shes","thats","theres","theyre","weve",
+  "wed","well","lets","whats","wheres","whos","hows","its","itd","itll",
+
+  # https://gist.github.com/sebleier/554280 NLTK stopwords:
+  "i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your", "yours", "yourself", "yourselves", "he", "him", "his", "himself", "she", "her", "hers", "herself", "it", "its", "itself", "they", "them", "their", "theirs", "themselves", "what", "which", "who", "whom", "this", "that", "these", "those", "am", "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "having", "do", "does", "did", "doing", "a", "an", "the", "and", "but", "if", "or", "because", "as", "until", "while", "of", "at", "by", "for", "with", "about", "against", "between", "into", "through", "during", "before", "after", "above", "below", "to", "from", "up", "down", "in", "out", "on", "off", "over", "under", "again", "further", "then", "once", "here", "there", "when", "where", "why", "how", "all", "any", "both", "each", "few", "more", "most", "other", "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than", "too", "very", "s", "t", "can", "will", "just", "don", "should", "now"
 )
 
 # Process documents
@@ -197,8 +210,8 @@ search_results <- searchK(
   prevalence = form_prev,
   # No content covariate
   data = meta_out,
-  init.type = "Spectral",
-  max.em.its = 50,  # Reduced for faster computation during search
+  init.type = "LDA",
+  max.em.its = 150,  # Increased for more thorough search
   verbose = TRUE,
   seed = SEED
 )
