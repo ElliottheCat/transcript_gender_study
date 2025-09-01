@@ -170,7 +170,7 @@ custom_stopwords <- unique(tolower(c(
   # transcript boilerplate
   "interview","interviewer","interviewee","narrator","speaker","transcript",
   "tape","side","end","beginning","wwwushmmorg","website","infohometeamcaptionscom",
-  "indecipherable","inaudible",
+  "indecipherable","inaudible", "ushmm", "museum"
 
   # contractions after apostrophes removed by normalize_for_stm(), 
   "dont","didnt","doesnt","isnt","arent","wasnt","werent","havent","hasnt","hadnt",
@@ -489,27 +489,10 @@ cat("Computing topic correlations...\\n")
 simple_topic_corr <- topicCorr(fit, method = "simple", cutoff = 0.03, verbose = TRUE)
 huge_topic_corr <- topicCorr(fit, method = "huge", cutoff = 0.03, verbose = TRUE)
 
-# Extract all components from S4 topicCorr objects
-# topicCorr objects contain: $cor (correlations), $posadj (positive adjacency), $poscor (positive correlations)
+saveRDS(simple_topic_corr, file.path(OUT, "csv", sprintf("simple_topic_corr_model.rds"))) 
+saveRDS(huge_topic_corr, file.path(OUT, "csv", sprintf("huge_topic_corr_model.rds")))
 
-# Simple method results
-simple_cor_dt <- as.data.table(simple_topic_corr$cor, keep.rownames = "topic")
-simple_posadj_dt <- as.data.table(simple_topic_corr$posadj, keep.rownames = "topic") 
-simple_poscor_dt <- as.data.table(simple_topic_corr$poscor, keep.rownames = "topic")
 
-# Huge method results  
-huge_cor_dt <- as.data.table(huge_topic_corr$cor, keep.rownames = "topic")
-huge_posadj_dt <- as.data.table(huge_topic_corr$posadj, keep.rownames = "topic")
-huge_poscor_dt <- as.data.table(huge_topic_corr$poscor, keep.rownames = "topic")
-
-# Save all correlation components
-fwrite(simple_cor_dt, file.path(OUT, "csv", "simple_correlations.csv"))
-fwrite(simple_posadj_dt, file.path(OUT, "csv", "simple_positive_adjacency.csv")) 
-fwrite(simple_poscor_dt, file.path(OUT, "csv", "simple_positive_correlations.csv"))
-
-fwrite(huge_cor_dt, file.path(OUT, "csv", "huge_correlations.csv"))
-fwrite(huge_posadj_dt, file.path(OUT, "csv", "huge_positive_adjacency.csv"))
-fwrite(huge_poscor_dt, file.path(OUT, "csv", "huge_positive_correlations.csv"))
 
 # Create network plots using PDF device (ggsave doesn't work with network plots)
 pdf(file.path(OUT, "plots", "simple_topic_correlations.pdf"), width = 12, height = 10)
@@ -576,4 +559,9 @@ cat("- outputs/csv/interviewer_effects.csv\n")
 cat("- outputs/plots/topics_by_gender.png\n")
 cat("- outputs/plots/topics_by_interviewer.png\n")
 cat("- outputs/plots/interviewer_gender_stacked.png\n")
+cat("- outputs/csv/simple_topic_corr_model.rds\n")
+cat("- outputs/csv/huge_topic_corr_model.rds\n")
+cat("- outputs/plots/simple_topic_correlations.pdf\n")
+cat("- outputs/plots/huge_topic_correlations.pdf\n")
+
 
